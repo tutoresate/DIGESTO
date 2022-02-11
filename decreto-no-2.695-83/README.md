@@ -10,7 +10,7 @@ description: Sancionado el 5 de julio de 1983
 
 <summary>CAPÍTULOS  I a XII (Artículos 1° a 51°)</summary>
 
-1. ÁMBITO Y ESTRUCTURA ESCALAFONARIA (Artículos 1° a 2°)
+1. [ÁMBITO Y ESTRUCTURA ESCALAFONARIA (Artículos 1° a 2°)](https://documentos.atesantafe.com.ar/digesto/parte-i-1/decreto-no-2.695-83/decreto-no-2695-83-or-capitulos-i-a-xii#i-ambito-y-estructura-escalafonaria)
 2. CONDICIONES GENERALES DE INGRESO (Artículos 3° a 5°)
 3. CARRERA ESCALAFONARIA (Artículos 6° a 9°)
 4. AGRUPAMIENTO ADMINISTRATIVO (Artículos 10° a 14°)
