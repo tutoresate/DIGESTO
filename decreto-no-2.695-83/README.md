@@ -4,7 +4,7 @@ description: Sancionado el 5 de julio de 1983
 
 # DECRETO Nº 2695/83 | Escalafón del Personal Civil de la Administración Pública
 
-__[_Acceso al texto tal como está publicada por la Cámara de Senadores de la Provincia de Santa Fe_](https://drive.google.com/file/d/1g2Jb4ZMIoWw5ae-vooux9SJLeIFLVOFI/view?usp=sharing)__
+[_**Acceso al texto tal como está publicada por la Cámara de Senadores de la Provincia de Santa Fe**_](https://drive.google.com/file/d/1g2Jb4ZMIoWw5ae-vooux9SJLeIFLVOFI/view?usp=sharing)
 
 ## I - ÁMBITO Y ESTRUCTURA ESCALAFONARIA
 
@@ -29,13 +29,19 @@ __[_Acceso al texto tal como está publicada por la Cámara de Senadores de la P
 
 Artículo 2°.- modificado por el Artículo 1 del [Decreto Nro. 501/97](https://drive.google.com/file/d/1HwLxrLcLmODrTNcMP4YqHLpYKLyE9t4U/view?usp=sharing)​
 
+{% hint style="info" %}
 ​[_**Decreto 06/99**_](https://documentos.atesantafe.com.ar/digesto/decreto-no-0006-99)_**, Artículo 1º**. Dispónese a partir del 01-01-99 una modificación en la estructura escalafonaria del Personal comprendido en el Decreto Acuerdo 2695/83, agrupando las actuales categorías 1 a 18 de la siguiente manera: 1-11 "1”, 12-15 “2” y 16-18 “3”. Manteniendo su identidad las restantes vigentes (19 “4”, 20 “5”, 21 ”6", 22 ”7”, 23 ”8” y 24 ”9”)._
+{% endhint %}
+
+_****_
 
 ## II - CONDICIONES GENERALES DE INGRESO
 
 **ARTÍCULO 3°.-** El ingreso a este Escalafón se hará previa acreditación de las condiciones establecidas por el Estatuto del Personal Civil de la Administración Pública Provincial y cumplimiento de los requisitos que para cada agrupamiento o tramo se establecen en el presente.
 
+{% hint style="info" %}
 _​_[_**Decreto 2152/09**_](https://drive.google.com/file/d/1wyC\_aKo-wSFONuTBk\_ug5zoP7vnmmRWn/view?usp=sharing) _**Art. 14**_ _Establécese que a partir del 1° de enero de 2015, se exigirá como requisito indispensable para el ingreso a todos los agrupamientos de los escalafones comprendidos en la ley 10.052 y modificatorias, tener aprobado el ciclo de enseñanza secundaria._
+{% endhint %}
 
 **ARTÍCULO 4°.-** El ingreso sólo tendrá lugar cuando medien los concursos abiertos conforme a las disposiciones del capítulo XIV del presente Escalafón o, cuando así esté expresamente indicado, los procedimientos de selección que determinarán los titulares de cada Jurisdicción con carácter general para cada función, a fin de acreditar la idoneidad.
 
@@ -120,9 +126,11 @@ c. Personal Superior: Para la asignación de las categorías diecinueve (19) a v
 2. Reunir las condiciones que para cada función se establezcan.
 3. Haber aprobado el curso para el Personal Superior.
 
-​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% hint style="info" %}
+[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
-**ARTÍCULO 14°.-** Tendrán derecho a participar en los Cursos de Supervisión, los agentes comprendidos en el tramo de Ejecución y al Curso para el Personal Superior, todos los agentes que revistan el tramo de Supervisión.
+​**ARTÍCULO 14°.-** Tendrán derecho a participar en los Cursos de Supervisión, los agentes comprendidos en el tramo de Ejecución y al Curso para el Personal Superior, todos los agentes que revistan el tramo de Supervisión.
 
 ## V - AGRUPAMIENTO PROFESIONAL
 
@@ -136,9 +144,7 @@ Cuando exista vacante en la especialidad en cualquier Jurisdicción, el Poder Ej
 
 Artículo 16°.- Antecedentes: Decreto Nro. [2315/84](https://drive.google.com/open?id=15h6BqXxHxINYCZC3ZdSbmpEMztQS150z)​
 
-**​**
-
-**PROMOCIÓN**
+**​PROMOCIÓN**
 
 **ARTÍCULO 17°.-** El pase de categoría se producirá cuando se cumplan las condiciones y en las oportunidades que en cada caso se establecen a continuación:
 
@@ -158,7 +164,9 @@ c. Jefes de Área: Para la asignación de las categorías veintiuno (21) Jefe de
 2. Reunir las condiciones que para el caso se establezcan.
 3. Haber aprobado el Curso para Personal Superior.
 
+{% hint style="info" %}
 ​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 ## VI - AGRUPAMIENTO TÉCNICO
 
@@ -235,7 +243,9 @@ c. Personal Superior: para la asignación de las categorías diecinueve (19) a v
 
 El Asistente Técnico Mayor será promovido automáticamente a la categoría veinte (20) cuando cumpliera cuatro (4) años de permanencia en la categoría diecinueve (19).
 
-​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% hint style="info" %}
+[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 **ARTÍCULO 22°.-** Tendrán derecho a participar en el curso de Supervisión los agentes comprendidos en el tramo de Ejecución y en el curso para el Personal Superior todos los agentes que revistan en el tramo de Supervisión.
 
@@ -305,7 +315,9 @@ Artículo 24°.- Antecedentes: Decreto Nro. [2315/84](https://drive.google.com/o
 2. Reunir las condiciones que para cada función se establezcan.
 3. Haber aprobado el Curso de Supervisión para las categorías 17 y 18 y el de Personal Superior para las categorías 19 a 23.
 
+{% hint style="info" %}
 ​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 ### SUBAGRUPAMIENTO ASISTENCIAL
 
@@ -326,7 +338,9 @@ Esta especialidad comprenderá las categorías uno (1) a quince (15) ambas inclu
 
 El pase de categoría se producirá automáticamente hasta la categoría quince (15), cada dos (2) años.
 
+{% hint style="info" %}
 ​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 #### **2. Ministros Religiosos**
 
@@ -536,9 +550,11 @@ Artículo 38°.- Modificado por el Artículo 1 del Decreto Nro. [1800/85](https:
 
 Artículo 39°.- Modificado por el Artículo 1 del Decreto Nro. [1800/85](https://drive.google.com/open?id=1rdaZIJlmrm5Z\_ui9PDZja4oWY64rtFCU)​
 
-​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% hint style="info" %}
+[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
-#### **MODALIDAD LABORAL**
+​**MODALIDAD LABORAL**
 
 **ARTÍCULO 40°.-** El Poder Ejecutivo reglamentará la modalidad laboral de cada organismo en particular.
 
@@ -596,7 +612,9 @@ Artículo 43°.- Antecedentes: Decreto Nro. [2315/84](https://drive.google.com/o
    2. Haber aprobado el curso para Personal Superior
    3. Reunir las condiciones que para cada función se establezcan
 
-​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 1'2° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% hint style="info" %}
+​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 **ARTÍCULO 45°.-** Tendrán derecho a participar en el curso de Supervisión los agentes comprendidos en el tramo de Ejecución y en el curso para Personal Superior, todos los agentes que revistan en el tramo de Supervisión.
 
@@ -641,9 +659,11 @@ Artículo 48°.- Modificado por Artículo 1 del Decreto Nro. [2315/84](https://d
    2. Haber aprobado el Curso de Personal Superior;
    3. Reunir las condiciones que para cada función se establezcan.
 
-​[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% hint style="info" %}
+[_**DECRETO 0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing)_**. ARTÍCULO 22°**_ _: Modifíquese el artículo 12° del_ [_Decreto N° 667/06_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _estableciendo, para todos los agrupamientos del Escalafón "Decreto-Acuerdo N° 2695/83", excepto S.P.I y Operadores de Justicia Penal Juvenil, que se producirá la promoción automática a la categoría dos (2) de todos los agentes que revisten en la categoría 1 en carácter de Titular o Suplentes y acrediten una antigüedad de siete (7) años en la Administración Pública Provincial. Esta modificación tendrá vigencia para todos los casos que hayan cumplido siete años o más durante el 2013 y aún no hayan sido promocionados de acuerdo al artículo 8° del Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
-**ARTÍCULO 50°.-** Tendrán derecho a participar en el curso de Supervisión los agentes comprendidos en el tramo de Ejecución y en el curso para Personal Superior todos los agentes que revistan en el tramo de Supervisión.
+​**ARTÍCULO 50°.-** Tendrán derecho a participar en el curso de Supervisión los agentes comprendidos en el tramo de Ejecución y en el curso para Personal Superior todos los agentes que revistan en el tramo de Supervisión.
 
 ## XI Bis - AGRUPAMIENTO DE ADMINISTRADORES PROVINCIALES
 
@@ -829,7 +849,9 @@ La asignación dejará de percibirse cuando el agente sea promovido.
 
 Artículo 58°.- Reglamentado por Decreto Nro. [2314/84](https://drive.google.com/open?id=1vqfavJIMlc7r1rMb4Ih-1jkf7Qbnjryr)​
 
+{% hint style="info" %}
 _**Decreto N.º**_ [_**0667/2006**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing)_**. ARTÍCULO 14°:**_ _Establecer la percepción del adicional por permanencia en la categoría dispuesto por medio del artículo 58° del Decreto N° 2695/83 para todos los agentes que actualmente revistan en la categoría dos (2) del Escalafón y cumplan con el requisito de permanencia correspondiente._
+{% endhint %}
 
 ### **​DE LOS SUPLEMENTOS**
 
@@ -837,7 +859,7 @@ _**Decreto N.º**_ [_**0667/2006**_](https://drive.google.com/file/d/19e0mbJ4l\_
 
 **ARTÍCULO 60°.- Riesgo y tareas peligrosas:** Corresponderá percibir este suplemento a los agentes que desempeñen algunas de las funciones tipificadas como de naturaleza riesgosa para aquellos que las realicen en forma permanente, desarrollando acciones o tareas en las que se pone en peligro cierto la integridad psicofísica. También corresponderá este suplemento a quienes desempeñen funciones en las áreas de trabajo determinadas como riesgosas, independientemente de las funciones que se cumplan o de la imputación presupuestaria de los cargos.
 
-El presente suplemento, representará el 20% de la Asignación de la Categoría de revista, a razón de una treinta ava parte de la misma por cada día de servicio efectivamente prestado. Su liquidación será mensual, y en forma proporcional a los días efectivamente trabajados, considerando como tales, aquellos en que se haya hecho uso de las licencias, justificaciones y/o franquicias factibles de tomar, sin pérdida del presentismo. Las funciones y las áreas de trabajo riesgosas serán determinadas por una Comisión Especial Permanente, conformada por dos representantes del Poder Ejecutivo y dos representantes de la U.P.C.N. y presidida por el Secretario de Protección de la Salud del Ministerio de Salud y Medio Ambiente. Esta Comisión elevará a la Comisión Paritaria Central los dictámenes correspondientes, a fin de que ésta incluya en el Convenio Colectivo (Ley 10.052) las áreas y funciones riesgosas.
+El presente suplemento, representará el 20% de la Asignación de la Categoría de revista, a razón de una treintava parte de la misma por cada día de servicio efectivamente prestado. Su liquidación será mensual, y en forma proporcional a los días efectivamente trabajados, considerando como tales, aquellos en que se haya hecho uso de las licencias, justificaciones y/o franquicias factibles de tomar, sin pérdida del presentismo. Las funciones y las áreas de trabajo riesgosas serán determinadas por una Comisión Especial Permanente, conformada por dos representantes del Poder Ejecutivo y dos representantes de la U.P.C.N. y presidida por el Secretario de Protección de la Salud del Ministerio de Salud y Medio Ambiente. Esta Comisión elevará a la Comisión Paritaria Central los dictámenes correspondientes, a fin de que ésta incluya en el Convenio Colectivo ([Ley 10.052](../ley-n-10.052-convenio-colectivo-trabajo-administracion-publica-santa-fe/)) las áreas y funciones riesgosas.
 
 Será responsabilidad de los sectores de personal de cada repartición efectuar las tramitaciones correspondientes para que los agentes que presten servicios en las áreas o funciones riesgosas contenidas en el Convenio Colectivo, perciban automáticamente el suplemento respectivo mientras permanezca en esa área o función. Este suplemento será abonado al agente independientemente de que el Estado suministre los elementos de higiene y seguridad determinados por la legislación vigente, relativa a higiene y seguridad del trabajo.
 
@@ -865,7 +887,9 @@ Este suplemento consistirá en el ciento por ciento (100%) de: asignación del n
 
 Artículo 62°.- Antecedentes: Modificado por el Artículo 2 del [Decreto Nro. 1904/04](https://www.santafe.gov.ar/normativa/getFile.php?id=131906\&item=74444\&cod=14c6a8ec385d8eb20932c09e1eebb50b)​
 
-_**Por**_ [_**Decreto N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _**Artículo 1º**, se congelan los valores del Suplemento Incompatibilidad Profesional a los percibidos en ese momento._
+{% hint style="info" %}
+[_**Decreto N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _**Artículo 1º**, se congelan los valores del Suplemento Incompatibilidad Profesional a los percibidos en ese momento._
+{% endhint %}
 
 **ARTÍCULO 63°. – Inspección:** Establécese un suplemento equivalente al cuarenta por ciento (40%) de la asignación de la categoría, para el personal de inspección. Para tener derecho a la percepción de este suplemento, el agente deberá desempeñar funciones de inspección externa asignadas por el titular de la Jurisdicción, en forma personal, constatando el cumplimiento de leyes, decretos y resoluciones por parte de los terceros, fuera del ámbito de la Administración Pública Provincial, no comprendiendo a las tareas de verificación y control desarrolladas en las dependencias administrativas.
 
@@ -906,7 +930,9 @@ El titular de la Jurisdicción determinará mediante Resolución los sectores u 
 
 Artículo 66°.- Antecedentes: Decreto Nro. [2670/92](https://drive.google.com/open?id=1ujlYEYy6nPAS2IcVdRET-dVyeOsQaeWx). Decreto N.º [1840/2004](https://drive.google.com/file/d/1mYSvQTl54-XxaodT7Rjiexs4DG6ABCPU/view?usp=sharing). Decreto N.º [332/2007](https://drive.google.com/file/d/1mYSvQTl54-XxaodT7Rjiexs4DG6ABCPU/view?usp=sharing). Decreto N.º [775/14](https://drive.google.com/open?id=1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7)​
 
+{% hint style="info" %}
 _**Decreto N.º**_ [_**1840/2004**_](https://drive.google.com/file/d/1KYmuP2xHz2U3AG4qTuRQg2VbhvjNSqxH/view?usp=sharing)_**: ARTÍCULO 8º -**_ _Modificar, a partir del 1° de octubre de 2004, para el personal comprendido en el subagrupamiento hospitalario, la base de cálculo del suplemento “Mayor Jornada en Función Asistencial” establecida en el artículo 66° del Decreto N° 2.695/83, incluyendo en la misma el 50% del monto que se liquida a la categoría 3 por el concepto “Suplemento Plan Equiparación” establecido por Decreto Acuerdo N° 3.157/88._
+{% endhint %}
 
 **ARTÍCULO 67°. – Desarraigo:** se abonará mensualmente en proporción al número de días en que un agente hubiese permanecido destacado en lugares alejados de su residencia habitual o sede de su lugar de trabajo, entendiéndose por ésta, el asiento de la dependencia administrativa de la cual depende, para trabajos, estudios, construcción, conservación, inspección de obras y servicios.
 
@@ -953,7 +979,9 @@ Dichos montos serán actualizables en función de las políticas salariales que 
 
 Artículo 70° bis.- Antecedentes: : Artículo incorporado por Decreto Nros. [4935/83](https://drive.google.com/file/d/1X22sgEsF3gTnSU6tJrThVTY0hV3QvJ8K/view?usp=sharing). Decretos Nros. [5248/83](https://drive.google.com/file/d/12Vo\_MjCbWnS4m8NcntUR\_q81mv2SNLLt/view?usp=sharing) y [1800/85](https://drive.google.com/file/d/1rdaZIJlmrm5Z\_ui9PDZja4oWY64rtFCU/view?usp=sharing). Decreto N.º [22/2009](https://drive.google.com/file/d/1VTRIrlPJsI9lqTsDrEMV6D3rhwp0S67c/view?usp=sharing). Modificado por el Artículo 6 del Decreto Reglamentario Nº [2152/09](https://drive.google.com/open?id=1wyC\_aKo-wSFONuTBk\_ug5zoP7vnmmRWn). Decreto N.º [3467/2012](https://drive.google.com/file/d/1G9qt\_6n7Y0nTXemqtcoLfM80syJtwwgO/view?usp=sharing)​
 
+{% hint style="info" %}
 _**Decreto**_ [_**3467/2012**_](https://drive.google.com/file/d/1G9qt\_6n7Y0nTXemqtcoLfM80syJtwwgO/view?usp=sharing) _**Artículo 14º:**_ _Ratifícase lo dispuesto en el Artículo 6º del Decreto No 2152/09, otorgándose el respectivo porcentaje del suplemento “Actividad Orquestal” establecido en el Artículo 70 bis del Escalafón Decreto-Acuerdo N° 2695/83, a quienes cumplen funciones de ordenanzas utileros en la Orquesta Provincial de Niños Escuela de Música N.º 9901._
+{% endhint %}
 
 **ARTÍCULO 70° ter.-** Derogado por el Artículo 2 del Decreto N° [2872/07](https://drive.google.com/open?id=1oN1kpLYbVX4x68R5QdD6s5x4yv0j1GzK)​
 
@@ -992,13 +1020,17 @@ Cuando el agente que percibiere la garantía del suplemento incorporada al prese
 
 Artículo 71°.- Antecedentes: Decretos Nros. [0421/83](https://drive.google.com/file/d/13G3vJao1xrs8DbCgLQIVZ20Pn79nM3U4/view?usp=sharing), [3032/83](https://drive.google.com/file/d/1bjZXaso7Mv4-CMXkbsXySj3DO-cPnnxQ/view?usp=sharing), [0418/84](https://drive.google.com/file/d/17YR4NDrMEcgnkoKyxYhPZe9fgvW-\_1o3/view?usp=sharing), [0908/84](https://drive.google.com/file/d/1DfjWfBaPJ3HG-dN0OWJr3RNNnC3XI\_cs/view?usp=sharing), [1276/84](https://drive.google.com/file/d/1vM-nUmMaGpD7OEpQssXIrIx5TVkEdKY9/view?usp=sharing), [4487/84](https://drive.google.com/file/d/1OWjppEDOWjKw4lNzC2jhvsGaUa2dYU1C/view?usp=sharing), [1885/87](https://drive.google.com/file/d/12p9oLu-mxdMp4KQ3Mk0BxuTxwFaR1wHB/view?usp=sharing). Acta de Paritaria Nro. 19/89 homologada por Decreto Nro. [1745/89](https://drive.google.com/file/d/1TmDHi9EBGvivn6EVqZVMniDQpK5KUE88/view?usp=sharing). Decretos Nros. [1982/89](https://drive.google.com/file/d/1hlnS-sK4kOQ9-1GqmHVEFYOgFyG22kOk/view?usp=sharing), [2664/91](https://drive.google.com/file/d/1f6o0Dfn7NkuIcDLBtbZdpAjOyQGohzG0/view?usp=sharing), [3222/91](https://drive.google.com/file/d/1f6o0Dfn7NkuIcDLBtbZdpAjOyQGohzG0/view?usp=sharing) y [4041/91](https://drive.google.com/file/d/1uABwGSu7XjQWKIBqXDkLo8lSJDbXWtxu/view?usp=sharing). Decreto Nº [3467/12](https://drive.google.com/open?id=1G9qt\_6n7Y0nTXemqtcoLfM80syJtwwgO)​
 
+{% hint style="info" %}
 _**Por Decreto N.º**_ [_**0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing) _**artículo 14°**, dispone se liquide en un concepto separado al Suplemento de Choferes de Funcionarios, el Suplemento establecido en el artículo 71°, último párrafo, Decreto-Acuerdo N° 2695/83._
+{% endhint %}
 
 **ARTÍCULO 72°.- Guardias Rotativas:** Establécese un suplemento del 15% de la asignación de la categoría de revista para el personal que, a fin de asegurar prestaciones de carácter imprescindible de acuerdo con diagramas de trabajo, cumple servicios por equipos que se turnan ordinariamente en una misma tarea específica, con horarios de labor que se intercambian cíclicamente y en forma rotativa, cubriendo turnos de 8 horas.
 
 Artículo 72°.- Antecedentes: Decreto Nro. [352/85](https://drive.google.com/open?id=1HCaGMTj4b1bnNm7HXNwbMSB5gmCKzLNf).
 
+{% hint style="info" %}
 _**Por Decreto Nro.**_ [_**3210/92**_](https://drive.google.com/open?id=1DMxah6BnXo9bUbaehfqk9i73xXnz6gQK) _se establece que el Suplemento por Guardias Rotativas previsto por este artículo, alcanzará a partir del 1° de agosto de 1992, para el personal del Agrupamiento Hospitalario–Asistencial, el 25% de la asignación de la categoría de revista, el Suplemento Actividad Crítica Asistencial previsto por el artículo 68° del Escalafón General Decreto-Acuerdo Nro. 2695/83 y la Asignación Especial Remunerativa establecida por Decreto Nro._ [_4082/91_](https://drive.google.com/open?id=13cJWUiyVKd3uA8E1jIn2F3e1Kuvpq-vX)_, artículo 1° Anexo I, modificado por el artículo 2° del Decreto Nro._ [_2670/92_](https://drive.google.com/open?id=1ujlYEYy6nPAS2IcVdRET-dVyeOsQaeWx)_._
+{% endhint %}
 
 **ARTÍCULO 73°.- Guardias Pasivas Hospitalarias:** Establécese un adicional por tareas diferenciadas equivalente al 20% de la asignación de la categoría de revista, para el personal de este Escalafón que preste servicios en los establecimientos asistenciales hospitalarios, que se encuentre vinculado en forma directa a la prestación de servicios fuera de los días y horas normales de trabajo, ya sea para atender situaciones especiales o cumplir tareas de emergencia impostergable, para asegurar la continuidad, eficiencia y calidad de los servicios.
 
@@ -1010,7 +1042,9 @@ El titular de la Jurisdicción deberá individualizar en cada caso, a través de
 
 Artículo 74°.- Antecedentes: Modificado por el Decreto Nº [993/08](https://drive.google.com/open?id=1UnxQsoRfHtrXvEMlwRmT2rlcVCWkbbej)​
 
+{% hint style="info" %}
 _**Por Decreto N.º**_ [_**2262/2010**_](https://drive.google.com/file/d/1WzsveWIwmaDkt8mF8p1svD-tihZBE\_WD/view?usp=sharing) _**artículo 25°**, se extiende a partir del 1° de Enero de 2011, al personal del Agrupamiento Servicios Generales que prestan servicios en las Unidades de Terapia Intensiva, las U.C.O. y en los Servicios de Neonatología del Ministerio de Salud, el suplemento Cuidados Intensivos establecido en el artículo 74° del Escalafón Decreto-Acuerdo N° 2695/1983, modificado por Artículo 8° del Decreto N° 993/2008_
+{% endhint %}
 
 **ARTICULO 74° bis.- Servicio de Hemodiálisis:** El personal de enfermería que reviste en las categorías previstas para las funciones de enfermeros y el personal del Agrupamiento Servicios Generales, que se desempeñe en forma habitual y permanente, en el servicio de hemodiálisis de los efectores de salud, percibirá un suplemento orgánico funcional, remunerativo no bonificable equivalente al 90% (noventa por ciento) de la asignación de la categoría, más el Adicional Especial Remunerativo, el suplemento Plan Equiparación y el Suplemento Asistencial-Hospitalario.
 
@@ -1024,7 +1058,9 @@ Artículo 74°.- Incorporado por el Artículo 26 del Decreto N° [2262/10](https
 
 Artículo 76°.- Antecedentes: Derogado por Artículo 1 del Decretos Nro. [2018/84](https://drive.google.com/open?id=1pwhQMuQvnOMlreELsjC9OIUoOpuX0\_mb) y modificado por Artículo 4 del Decreto de Aplicación Nº [516/10](https://drive.google.com/open?id=1fArGIY-8CsxFKNE203IZL0vMcqR-vbbj). Decreto N.º [3943/2016](https://drive.google.com/file/d/1\_GrswBdWMN3vOy6ILyZWAL30ycdFsONS/view?usp=sharing).
 
+{% hint style="info" %}
 _**Por**_ [_**Decreto N.º 3058/2013**_](https://drive.google.com/file/d/1B4K7MV7CaYm6tXIzszjVKsm2-DZ5-VDp/view?usp=sharing) _**artículo 15º**_ _se dispone el pago del adicional previsto en el artículo 76º del Escalafón Decreto-Acuerdo No 2695/83 a todos los empleados públicos provinciales pertenecientes al referido escalafón, que prestan servicios en las dependencias del Gobierno de Santa Fe en la Capital Federal._
+{% endhint %}
 
 **ARTÍCULO 77°.- Sistema Provincial de Informática – Modalidad Laboral y Suplementos:**
 
@@ -1065,17 +1101,17 @@ Decreto N.º [257/2011](https://drive.google.com/file/d/1ZhTTyQe\_4x8zuBzWN\_AEK
 
 **Complemento personal Agrupamiento S.P.I. de la Sectorial de Informática de la Secretaría de Ingresos Públicos** (para el personal perteneciente al Agrupamiento SPI del Escalafón Decreto-Acuerdo N° 2695/83 cuyo listado se adjunta como Anexo I).
 
-| Categoría | 1/4/2017    | 1/7/2017    | 1/10/2017   |
-| --------- | ----------- | ----------- | ----------- |
-| 1         |  $ 3.692,00 |  $ 4.154,00 |  $ 4.462,00 |
-| 2         |  $ 3.877,00 |  $ 4.362,00 |  $ 4.685,00 |
-| 3         |  $ 4.068,00 |  $ 4.577,00 |  $ 4.950,00 |
-| 4         |  $ 4.248,00 |  $ 4.779,00 |  $ 5.165,00 |
-| 5         |  $ 4.390,00 |  $ 4.939,00 |  $ 5.335,00 |
-| 6         |  $ 5.109,00 |  $ 5.747,00 |  $ 6.190,00 |
-| 7         |  $ 5.364,00 |  $ 6.035,00 |  $ 6.482,00 |
-| 8         |  $ 5.677,00 |  $ 6.387,00 |  $ 6.860,00 |
-| 9         |  $ 6.000,00 |  $ 6.750,00 |  $ 7.250,00 |
+| Categoría | 1/4/2017   | 1/7/2017   | 1/10/2017  |
+| --------- | ---------- | ---------- | ---------- |
+| 1         | $ 3.692,00 | $ 4.154,00 | $ 4.462,00 |
+| 2         | $ 3.877,00 | $ 4.362,00 | $ 4.685,00 |
+| 3         | $ 4.068,00 | $ 4.577,00 | $ 4.950,00 |
+| 4         | $ 4.248,00 | $ 4.779,00 | $ 5.165,00 |
+| 5         | $ 4.390,00 | $ 4.939,00 | $ 5.335,00 |
+| 6         | $ 5.109,00 | $ 5.747,00 | $ 6.190,00 |
+| 7         | $ 5.364,00 | $ 6.035,00 | $ 6.482,00 |
+| 8         | $ 5.677,00 | $ 6.387,00 | $ 6.860,00 |
+| 9         | $ 6.000,00 | $ 6.750,00 | $ 7.250,00 |
 
 Este Complemento será compatible con los Suplementos específicos del S.P.I. y no será base de cálculo para ningún Suplemento o Adicional creado o a crearse.
 
@@ -1173,9 +1209,13 @@ Cuando el agente que percibiere la garantía del suplemento incorporada al prese
 
 Antecedentes: Decretos Nros. [1856/89](https://drive.google.com/open?id=1zJH\_V2RU-tEXAU95ehO3k2afecBKn5eM), [1912/89](https://drive.google.com/open?id=1KgW-mNamhIiqvnVFVby7hNOVTN3rZAg0), [3223/91](https://drive.google.com/file/d/1m5YsKx5Fkga8Lwg5DUIkgXl4kAW1OSRC/view?usp=sharing), [3394/91](https://drive.google.com/file/d/1\_1I30QZMco6HV9HxAaOrZ6PijN6NRFSs/view?usp=sharing), [4414/91](https://drive.google.com/file/d/1L4u0NnJtvT57iUSmandf\_Tis-Hd0-SY0/view?usp=sharing) y 2815/97. Decreto N.º[1904/04](https://drive.google.com/file/d/1R8vDUK\_DjH5XWExS5QWzABVBW1oM9-RS/view?usp=sharing), Decreto N.º [3467/12](https://drive.google.com/file/d/1G9qt\_6n7Y0nTXemqtcoLfM80syJtwwgO/view?usp=sharing). Decreto N.º [3943/16](https://drive.google.com/file/d/1\_GrswBdWMN3vOy6ILyZWAL30ycdFsONS/view?usp=sharing)​
 
+{% hint style="info" %}
 _**El Decreto N.º**_ [_**0775/2014**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCNUHCiN5GdlDUFRk7/view?usp=sharing) _**artículo 13°**_ _ordena se liquide en un concepto separado al Suplemento de Secretarías Privadas, el Suplemento establecido en el artículo 3° del_ [_Decreto N° 1904/04_](https://drive.google.com/file/d/1R8vDUK\_DjH5XWExS5QWzABVBW1oM9-RS/view?usp=sharing)_._
+{% endhint %}
 
+{% hint style="info" %}
 _**El Decreto N.º**_ [_**4035/2014**_](https://drive.google.com/file/d/1MjBwDVS10\_CxprcEOJtee5hib7MBHgQh/view?usp=sharing) _**artículo 13°**_ _aclara, con relación al Suplemento del Personal de Secretarías Privadas, que no se computa a los efectos del cupo disponible para su otorgamiento, el suplemento instituido en el artículo 3° del_ [_Decreto N° 1904/04_](https://drive.google.com/file/d/1R8vDUK\_DjH5XWExS5QWzABVBW1oM9-RS/view?usp=sharing)_._
+{% endhint %}
 
 **ARTÍCULO 79°.-**
 
@@ -1203,9 +1243,11 @@ Se fija la compatibilidad del suplemento por Función Administrativa con los de:
 
 Artículo 80° bis.- Antecedentes: Decreto Nro. [2828/84](https://drive.google.com/file/d/1mIW\_lYASZaLoUNGZuAE7kKoP26jZzkMb/view?usp=sharing), [1800/85](https://drive.google.com/file/d/1rdaZIJlmrm5Z\_ui9PDZja4oWY64rtFCU/view?usp=sharing), [1169/88](https://drive.google.com/file/d/1VFjYsglK\_rW-5F\_LuMTbeJxXdblcZOsG/view?usp=sharing) y [1888/91](https://drive.google.com/file/d/1Fm1tzGTn8ueNoVFoNE5GKDPwFF84reKr/view?usp=sharing). Acta Paritaria Nro. 2 homologada por Decreto Nro. [0341/87](https://drive.google.com/file/d/1uu4xJon4jQF10As3GbWLIXj2RgNOOPzL/view?usp=sharing), Acta Paritaria Nro. 5 homologada por Decreto Nro. [1121/88](https://drive.google.com/file/d/1f-txdQpyxMcGQSZlXAaJe1U1cA7ALvLw/view?usp=sharing), Acta Paritaria Nro. 32 homologada por Decreto Nro. [5609/89](https://drive.google.com/file/d/1rK0a-w8QBBGa2-RUE28niuGsWwEXFdWh/view?usp=sharing) y Acta Paritaria N° 36 homologada por Dcto. N° [76/90](https://drive.google.com/file/d/13CjJ8QrYMfdQ27DQEss-Pvdi0VNfdc37/view?usp=sharing)​
 
-_**​**_[_**Decreto 1888/91**_](https://drive.google.com/file/d/1Fm1tzGTn8ueNoVFoNE5GKDPwFF84reKr/view?usp=sharing)_**. Art. 9.-**_ _Dispónese a partir del 1º de mayo de 1991, la compatibilidad de los suplementos por “Función Administrativa” y de “Actividad Crítica Asistencial Hospitalaria”, para el personal del Escalafón General del Agrupamiento Administrativo, que presta servicios en los hospitales públicos provinciales._
+{% hint style="info" %}
+[_**Decreto 1888/91**_](https://drive.google.com/file/d/1Fm1tzGTn8ueNoVFoNE5GKDPwFF84reKr/view?usp=sharing)_**. Art. 9.-**_ _Dispónese a partir del 1º de mayo de 1991, la compatibilidad de los suplementos por “Función Administrativa” y de “Actividad Crítica Asistencial Hospitalaria”, para el personal del Escalafón General del Agrupamiento Administrativo, que presta servicios en los hospitales públicos provinciales._
+{% endhint %}
 
-**ARTÍCULO 80 ter – Personal con funciones normativas y técnico presupuestarias de la Dirección General de Finanzas y contables, normativas y de control interno de la Contaduría General de la Provincia:** Establécese un suplemento mensual para el personal de la Dirección General de Finanzas y de la Contaduría General de la Provincia con dichas funciones, el que resultará de aplicar el 60% sobre la asignación de la categoría de revista, excluidos el adicional por Presentismo, Bonificación no retributiva Fondo de Vivienda y Asignaciones Familiares, conforme las siguientes categorías:
+_**​**_**ARTÍCULO 80 ter – Personal con funciones normativas y técnico presupuestarias de la Dirección General de Finanzas y contables, normativas y de control interno de la Contaduría General de la Provincia:** Establécese un suplemento mensual para el personal de la Dirección General de Finanzas y de la Contaduría General de la Provincia con dichas funciones, el que resultará de aplicar el 60% sobre la asignación de la categoría de revista, excluidos el adicional por Presentismo, Bonificación no retributiva Fondo de Vivienda y Asignaciones Familiares, conforme las siguientes categorías:
 
 * Personal Administrativo: categorías 19 a 24
 * Personal Profesional: 16 a 22
@@ -1584,7 +1626,7 @@ Sobre una Categoría 4 se tomará:
 * el Adicional Especial Remunerativo
 * el Suplemento Plan Equiparación.
 
-&#x20;Coeficientes:
+Coeficientes:
 
 | Categorías | Coeficientes |
 | ---------- | ------------ |
@@ -1649,27 +1691,27 @@ El personal del personal del INSTITUTO AUTARQUICO PROVINCIAL de OBRA SOCIAL comp
 
 Increméntase en una hora la jornada horaria para el personal del I.A.P.O.S. comprendido en la Ley Nro. 11.455, con efectiva prestación de servicios en el organismo y en todas sus categorías.
 
-&#x20;Antecedentes: Ley N.º 11.455. Artículos 2, 3, 4 y 6 del Decreto [0007/98](https://drive.google.com/file/d/19n0wsvI-Wa73oBugjnjLYpT8h3T82coc/view?usp=sharing)​
+Antecedentes: Ley N.º 11.455. Artículos 2, 3, 4 y 6 del Decreto [0007/98](https://drive.google.com/file/d/19n0wsvI-Wa73oBugjnjLYpT8h3T82coc/view?usp=sharing)​
 
 * _**Decreto N.º**_ [_**0967/2012**_](https://drive.google.com/file/d/1cER15Tno3rweEG0goWHCELcRtIuUH3HM/view?usp=sharing)_**, ARTICULO 12º:**_ _Adiciónase a la Asignación Especial Remunerativa Complementaria del Suplemento "Función Previsional y Mayor Jornada Horaria", establecida por artículo 2° del Decreto N° 2695/08 -cuyos montos fueran fijados en el artículo anterior-, que perciben los agentes del Instituto Autárquico de Obra Social el monto que resulta de la aplicación del coeficiente 0,10 sobre la base de cálculo compuesta por el sueldo nominal sujeto a aportes que a cada agente le corresponde según su nivel de revista, excluidos los suplementos o asignaciones remunerativos no bonificables -Decretos 1840/04, 969/05, 667/06 y 332/07-._
 
-&#x20;_**Suplemento “I.A.P.O.S.”**_
+_**Suplemento “I.A.P.O.S.”**_
 
 * _**Decreto N.º**_ [_**3322/2018**_](https://drive.google.com/file/d/19uZuD3tRiEMhV6-bO0bXjSvgd5HnPDWb/view?usp=sharing)_**, ARTICULO 2°:**_ _Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "I.A.P.O.S." de carácter mensual remunerativo y no bonificable para el personal que desempeñe tareas en el Instituto Autárquico Provincial de Obra Social, y que será el resultado de la sumatoria de un monto fijo y un monto variable considerando lo especificado a continuación:_
 
 **1. Monto fijo:** Actualizable por política salarial, según categoría de revista y fecha estipulada en la siguiente tabla
 
-| Categoría |  Diciembre 18 |  Marzo 19  |  Junio 19  |
-| --------- | ------------- | ---------- | ---------- |
-| 1         |  $923,09      |  $1.846,18 |  $2.769,27 |
-| 2         |  $937,02      | $1.874,05  | $2.811,07  |
-| 3         |  $964,50      |  $1.928,99 |  $2.893,49 |
-| 4         |  $1.157,83    |  $2.315,66 |  $3.473,50 |
-| 5         |  $1.210,50    |  $2.420,99 |  $3.631,49 |
-| 6         |  $1.351,53    |  $2.703,06 |  $4.054,60 |
-| 7         |  $1.542,83    |  $3.085,66 |  $4.628,49 |
-| 8         |  $1.702,55    |  $3.405,10 |  $5.107,64 |
-| 9         |  $1.909,35    |  $3.818,71 |  $5.728,06 |
+| Categoría | Diciembre 18 | Marzo 19  | Junio 19  |
+| --------- | ------------ | --------- | --------- |
+| 1         | $923,09      | $1.846,18 | $2.769,27 |
+| 2         | $937,02      | $1.874,05 | $2.811,07 |
+| 3         | $964,50      | $1.928,99 | $2.893,49 |
+| 4         | $1.157,83    | $2.315,66 | $3.473,50 |
+| 5         | $1.210,50    | $2.420,99 | $3.631,49 |
+| 6         | $1.351,53    | $2.703,06 | $4.054,60 |
+| 7         | $1.542,83    | $3.085,66 | $4.628,49 |
+| 8         | $1.702,55    | $3.405,10 | $5.107,64 |
+| 9         | $1.909,35    | $3.818,71 | $5.728,06 |
 
 **2. Monto Variable:** resultante de aplicar sobre la suma de los rubros: Sueldo Básico, Adicionales Generales, Adicionales Particulares, Función Administrativa, Suplemento Plan Equiparación y Adicional Especial Remunerativo los porcentajes que se detallan a continuación:
 
@@ -1699,17 +1741,17 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Caja Pr
 
 **1. Monto fijo:** Actualizable por política salarial, según categoría de revista y fecha estipulada en la siguiente tabla:
 
-| Categoría |  Diciembre 18 |  Marzo 19  |  Junio 19  |
-| --------- | ------------- | ---------- | ---------- |
-| 1         | $923,09       |  $1.846,18 |  $2.769,27 |
-| 2         |  $937,02      |  $1.874,05 |  $2.811,07 |
-| 3         |  $964,50      |  $1.928,99 |  $2.893,49 |
-| 4         | $1.157,83     |  $2.315,66 |  $3.473,50 |
-| 5         | $1.210,50     |  $2.420,99 |  $3.631,49 |
-| 6         | $1.351,53     |  $2.703,06 |  $4.054,60 |
-| 7         | $1.542,83     |  $3.085,66 |  $4.628,49 |
-| 8         | $1.702,55     |  $3.405,10 |  $5.107,64 |
-| 9         | $1.909,35     |  $3.818,71 |  $5.728,06 |
+| Categoría | Diciembre 18 | Marzo 19  | Junio 19  |
+| --------- | ------------ | --------- | --------- |
+| 1         | $923,09      | $1.846,18 | $2.769,27 |
+| 2         | $937,02      | $1.874,05 | $2.811,07 |
+| 3         | $964,50      | $1.928,99 | $2.893,49 |
+| 4         | $1.157,83    | $2.315,66 | $3.473,50 |
+| 5         | $1.210,50    | $2.420,99 | $3.631,49 |
+| 6         | $1.351,53    | $2.703,06 | $4.054,60 |
+| 7         | $1.542,83    | $3.085,66 | $4.628,49 |
+| 8         | $1.702,55    | $3.405,10 | $5.107,64 |
+| 9         | $1.909,35    | $3.818,71 | $5.728,06 |
 
 **2. Monto Variable:** resultante de aplicar sobre la suma de los rubros: Sueldo Básico, Adicionales Generales, Adicionales Particulares, Función Administrativa, Suplemento Plan Equiparación y Adicional Especial Remunerativo los porcentajes que se detallan a continuación:
 
@@ -1719,7 +1761,7 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Caja Pr
 
 Establécese que el Suplemento creado será compatible y se abonará junto con el suplemento "Función Previsional y Mayor Jornada Horaria" y su Asignación Complementaria (Decreto 2695/08 y modificatorios), compartiendo las mismas compatibilidades e incompatibilidades que el mencionado suplemento y asignación complementaria; y no será base de cálculo para ningún otro suplemento creado o a crearse.
 
-&#x20;Decreto [3322/2018](https://drive.google.com/file/d/19uZuD3tRiEMhV6-bO0bXjSvgd5HnPDWb/view?usp=sharing), Artículo 3.
+Decreto [3322/2018](https://drive.google.com/file/d/19uZuD3tRiEMhV6-bO0bXjSvgd5HnPDWb/view?usp=sharing), Artículo 3.
 
 **D. CAJA DE JUBILACIONES Y PENSIONES**
 
@@ -1746,14 +1788,14 @@ Créase, a partir del 1° de octubre de 2.016, una Asignación Especial Remunera
 | Categoría   | Monto de la asignación |
 | ----------- | ---------------------- |
 | Categoría 1 | $1.877,48              |
-| Categoría 2 |  $1.905,81             |
-| Categoría 3 |  $1.961,69             |
-| Categoría 4 |  $2.354,91             |
-| Categoría 5 |  $2.462,03             |
-| Categoría 6 |  $2.748,88             |
-| Categoría 7 |  $3.137,96             |
-| Categoría 8 |  $3.462,81             |
-| Categoría 9 |  $3.883,43             |
+| Categoría 2 | $1.905,81              |
+| Categoría 3 | $1.961,69              |
+| Categoría 4 | $2.354,91              |
+| Categoría 5 | $2.462,03              |
+| Categoría 6 | $2.748,88              |
+| Categoría 7 | $3.137,96              |
+| Categoría 8 | $3.462,81              |
+| Categoría 9 | $3.883,43              |
 
 Decreto N.º [4202/2016](https://drive.google.com/file/d/1XExXLWOgYB-exZ12xfi1CGXXOU2OqG1Y/view?usp=sharing), Artículo 4
 
@@ -1779,17 +1821,17 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Ministe
 
 **1. Monto fijo:** Actualizable por política salarial, según categoría de revista y fecha estipulada en la siguiente tabla:
 
-| Categoría |  Diciembre 18 |  Marzo 19 |  Junio 19 |
-| --------- | ------------- | --------- | --------- |
-| 1         | $923,09       | $1.846,18 | $2.769,27 |
-| 2         | $937,02       | $1.874,05 | $2.811,07 |
-| 3         | $964,50       | $1.928,99 | $2.893,49 |
-| 4         | $1.157,83     | $2.315,66 | $3.473,50 |
-| 5         | $1.210,50     | $2.420,99 | $3.631,49 |
-| 6         | $1.351,53     | $2.703,06 | $4.054,60 |
-| 7         | $1.542,83     | $3.085,66 | $4.628,49 |
-| 8         | $1.702,55     | $3.405,10 | $5.107,64 |
-| 9         | $1.909,35     | $3.818,71 | $5.728,06 |
+| Categoría | Diciembre 18 | Marzo 19  | Junio 19  |
+| --------- | ------------ | --------- | --------- |
+| 1         | $923,09      | $1.846,18 | $2.769,27 |
+| 2         | $937,02      | $1.874,05 | $2.811,07 |
+| 3         | $964,50      | $1.928,99 | $2.893,49 |
+| 4         | $1.157,83    | $2.315,66 | $3.473,50 |
+| 5         | $1.210,50    | $2.420,99 | $3.631,49 |
+| 6         | $1.351,53    | $2.703,06 | $4.054,60 |
+| 7         | $1.542,83    | $3.085,66 | $4.628,49 |
+| 8         | $1.702,55    | $3.405,10 | $5.107,64 |
+| 9         | $1.909,35    | $3.818,71 | $5.728,06 |
 
 **2. Monto Variable:** resultante de aplicar sobre la suma de los rubros: Sueldo Básico, Adicionales Generales, Adicionales Particulares, Función Administrativa, Suplemento Plan Equiparación y Adicional Especial Remunerativo los porcentajes que se detallan a continuación:
 
@@ -1799,7 +1841,7 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Ministe
 
 Establécese que el Suplemento creado será compatible y se abonará junto con el suplemento "Función Previsional y Mayor Jornada Horaria" y su Asignación Complementaria (Decreto 2695/08 y modificatorios), compartiendo las mismas compatibilidades e incompatibilidades que el mencionado suplemento y asignación complementaria; y no será base de cálculo para ningún otro suplemento creado o a crearse.
 
-&#x20;Decreto N.º [3322/2018](https://drive.google.com/file/d/19uZuD3tRiEMhV6-bO0bXjSvgd5HnPDWb/view?usp=sharing), Artículo 4º.
+Decreto N.º [3322/2018](https://drive.google.com/file/d/19uZuD3tRiEMhV6-bO0bXjSvgd5HnPDWb/view?usp=sharing), Artículo 4º.
 
 _**Asignación Especial Remunerativa Complementaria del Suplemento “Función Previsional y Mayor Jornada Horaria” para el personal de IAPOS, Caja de Jubilaciones y Pensiones, Caja de Pensión Social Ley 5110 y Ministerio de Trabajo**_
 
@@ -1826,18 +1868,18 @@ Decreto N.º [2695/2008](https://drive.google.com/file/d/1AwsC7HzsWX-U5ziBhqGvHA
 | 1     | $80,00             |
 | 2     | $84,80             |
 | 3     | $92,00             |
-| 4     |  $149,60           |
-| 5     |  $161,60           |
-| 6     |  $192,00           |
-| 7     |  $208,00           |
-| 8     |  $232,00           |
-| 9     |  $270,00           |
+| 4     | $149,60            |
+| 5     | $161,60            |
+| 6     | $192,00            |
+| 7     | $208,00            |
+| 8     | $232,00            |
+| 9     | $270,00            |
 
 ​**F. REGISTRO GENERAL DE LA PROPIEDAD Y REGISTRO CIVIL**
 
 Decreto N.º 2660/2008, en el artículo 1º, homologa el Acta Paritaria N.º 02/2008, en la cual se establece un suplemento para el personal que revista en el Registro General de la Propiedad y el Registro Civil, y determina la fórmula de cálculo de los suplementos, siendo la misma:
 
-&#x20;(AC \* NN + AA \* (3+AS/100) + T \* (CT+AS/100)) \* CN
+(AC \* NN + AA \* (3+AS/100) + T \* (CT+AS/100)) \* CN
 
 Donde:
 
@@ -1920,7 +1962,7 @@ Artículo 86°.- Antecedentes: Decretos Nros. [2829/84](https://drive.google.com
 
 **SUPLEMENTOS ASISTENTES ESCOLARES:**
 
-#### **Función Asistencial Escolar** <a href="funcion-asistencial-escolar" id="funcion-asistencial-escolar"></a>
+#### **Función Asistencial Escolar** <a href="#funcion-asistencial-escolar" id="funcion-asistencial-escolar"></a>
 
 Establecese que para el personal comprendido en el presente agrupamiento un suplemento equivalente a un 20% de la categoría de revista, no pudiendo su monto ser inferior al correspondiente al de función administrativa
 
@@ -2055,26 +2097,26 @@ _**Suplemento Órganos Rectores**_
 
 Créase, partir del 1º de Marzo de 2013, una Asignación Especial Remunerativa para el Personal de Órganos Rectores, y los agentes que perciban el suplemento estatuido en el Decreto 2152/09 (artículo 10º), consistente en una suma fija, determinada en función de la categoría que reviste el agente, sujeta a adecuación en futuras políticas salariales, de corresponder, no siendo base de cálculo para ningún suplemento existente o a crearse; según el siguiente detalle:
 
-| Categoría | 1/3/2013   | 1/5/2013   | 1/7/2013   |
-| --------- | ---------- | ---------- | ---------- |
-| 3         |  $1.576,48 |  $1.603,56 |  $1.711,88 |
-| 4         |  $1.972,67 |  $2.006,83 |  $2.143,45 |
-| 5         |  $2.061,42 |  $2.097,16 |  $2.240,12 |
-| 6         |  $2.333,24 |  $2.373,84 |  $2.536,21 |
-| 7         |  $2.592,07 |  $2.637,28 |  $2.818,15 |
-| 8         |  $2.831,95 |  $2.881,45 |  $3.079,44 |
-| 9         |  $3.168,86 |  $3.224,38 |  $3.446,44 |
+| Categoría | 1/3/2013  | 1/5/2013  | 1/7/2013  |
+| --------- | --------- | --------- | --------- |
+| 3         | $1.576,48 | $1.603,56 | $1.711,88 |
+| 4         | $1.972,67 | $2.006,83 | $2.143,45 |
+| 5         | $2.061,42 | $2.097,16 | $2.240,12 |
+| 6         | $2.333,24 | $2.373,84 | $2.536,21 |
+| 7         | $2.592,07 | $2.637,28 | $2.818,15 |
+| 8         | $2.831,95 | $2.881,45 | $3.079,44 |
+| 9         | $3.168,86 | $3.224,38 | $3.446,44 |
 
 * _**Decreto N.º**_ [_**0804/13**_](https://drive.google.com/file/d/15JqUknMubRHqi5eGEmBsbQWu-WCxjv-b/view?usp=sharing)_**, Artículo 6º:**_ _Incorpórase como segundo párrafo del artículo 13º del Decreto No 522/13 el siguiente: “La Asignación Especial Remunerativa establecida en el párrafo anterior será percibida por los agentes pertenecientes a las Unidades Rectoras Centrales definidas en la Ley de Administración, Eficiencia y Control del Estado N.º 12.510, en sus artículos 14º (Dirección General de Presupuesto), 56º (Tesorería General de la Provincia), 71º (Dirección General de Crédito Público), 76º (Contaduría General de la Provincia), 103º (Dirección General de Ingresos Públicos), 106º (Dirección General de Contrataciones y Gestión de Bienes), 157º (Dirección General de Recursos Humanos y Función Pública), 173º (Dirección General de Inversión Pública), en tanto se encuentren reglamentados los respectivos Subsistemas previstos en la misma y/o aprobadas sus estructuras orgánico-funcionales conforme las previsiones de la citada norma.”_
 * _**Artículo 7º:**_ _Extiéndase a partir del 1º de Marzo de 2013, la Asignación Especial Remunerativa establecida en el artículo 13° del Decreto N.º 522/13, a los agentes pertenecientes a la Sindicatura General y al Tribunal de Cuentas de la Provincia._
 * _**Decreto N.º**_ [_**1954/18**_](https://drive.google.com/file/d/1Wmf1Fkej5PqhwSVSlkpXZxxSHrqVVM1o/view?usp=sharing)_**, Artículo 6°:**_ _Extiéndase el suplemento de "Órganos Rectores" al personal de las categorías 1, 2 y personal de la categoría 3 que actualmente no resulte beneficiado con el mismo en los órganos rectores. El pago del retroactivo correspondiente a los meses de octubre 2.017 a mayo de 2.018, se efectivizará en el mes de julio de 2018._
 * _**Artículo 7°:**_ _Extiéndase la Asignación Especial Remunerativa creada por artículo ) 13° del Decreto N°: 522/13 y modificatorios a los agentes de categorías 1, 2 y 3 cuyo valor será:_
 
-| Categoría | Valor      |
-| --------- | ---------- |
-| 1         |  $4.693,69 |
-| 2         | $4.764,54  |
-| 3         |  $4.904,23 |
+| Categoría | Valor     |
+| --------- | --------- |
+| 1         | $4.693,69 |
+| 2         | $4.764,54 |
+| 3         | $4.904,23 |
 
 El mismo será aplicable a partir del mes de junio de 2018.
 
@@ -2086,9 +2128,9 @@ El mismo será Remunerativo y No Bonificable. Su monto resultará de aplicar sob
 
 | Categoría | Porcentaje |
 | --------- | ---------- |
-| 1         |  53        |
+| 1         | 53         |
 | 2         | 56         |
-| 3         |  60        |
+| 3         | 60         |
 
 El mismo será aplicable a partir del mes de junio de 2018.
 
@@ -2104,9 +2146,9 @@ El mismo será Remunerativo y No Bonificable. Su monto resultará de aplicar sob
 
 | Categoría | Porcentaje |
 | --------- | ---------- |
-| 4         |  61        |
+| 4         | 61         |
 | 5         | 61         |
-| 6         |  68        |
+| 6         | 68         |
 | 7         | 70         |
 | 8         | 74         |
 | 9         | 80         |
@@ -2167,9 +2209,7 @@ _**Decreto**_ [_**0775/14**_](https://drive.google.com/file/d/1s50gPTQ9qO2vWwCCN
 
 _Este suplemento será incompatible con los Suplementos: Hospitalario Asistencial, Incentivo Laboral por Productividad, Presentismo Crítico, Función Administrativa, Disponibilidad Horaria (art. 4° Decreto N° 2347/05), Recalificación Técnica (art. 3° Decreto N° 2347/05) y Asignación Especial Remunerativa (Decreto N° 3464/90). Aquellos Agentes que a la implementación del presente estuvieran percibiendo Mayor Jornada Horaria y/o Guardias Rotativas continuaran percibiendo el/los mismo/s monto/s hasta que se actualicen por política salarial. Para los futuros otorgamientos de los Suplementos mencionados en el Párrafo anterior, se asimilarán los montos a lo detallado precedentemente_.
 
-
-
-#### **SUPLEMENTO FISCALIZADORES DE CASINOS DE LA CAJA DE ASISTENCIA SOCIAL - LOTERÍA** 
+#### **SUPLEMENTO FISCALIZADORES DE CASINOS DE LA CAJA DE ASISTENCIA SOCIAL - LOTERÍA**
 
 Créase un Suplemento Remunerativo no Bonificable para los Fiscalizadores de Casinos de la Caja de Asistencia Social - Lotería, a partir del 1° de Marzo de 2014.
 
@@ -2555,7 +2595,7 @@ Atento a la sucesión de etapas en las que se resolvió hacer extensivo este sup
 | 2         | 190        |
 | 1         | 202        |
 
-* _**Decreto **_[_**N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing)_** Artículo 1º**, se congelan los valores del Suplemento Plan Equiparación a los percibidos en ese momento, quedando como un monto fijo por categoría._
+* _\*\*Decreto \*\*_[_**N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing)_\*\* Artículo 1º\*\*, se congelan los valores del Suplemento Plan Equiparación a los percibidos en ese momento, quedando como un monto fijo por categoría._
 
 Artículo s/n.- Antecedentes: Decreto Nros. [3039/88](https://drive.google.com/file/d/1sPEmftFbODmeaPzYMIwHFdSNDSvvyBuz/view?usp=sharing), [3157/88](https://drive.google.com/file/d/16ypzLRp\_B6BvapE8F7ioPkGFn6ohLGqM/view?usp=sharing), Acta Paritaria Nro. 9 homologada por Decreto Nro. [2839/88](https://drive.google.com/file/d/1dIYrjv9cTW4gu1ZDSrtXBuM0X3dhJfLc/view?usp=sharing), Decreto Nro. [4557/89](https://drive.google.com/file/d/1EIcbefix\_8-8cdV2Y8YZ48Xq1I9Tbjrw/view?usp=sharing), Acta Paritaria Nro. 5/93 homologada por Decreto Nro. [1938/93](https://drive.google.com/file/d/1faT8BApyH1ao9BY-b1eK22TRCgBIt4-W/view?usp=sharing), Decretos Nros. [1504/90](https://drive.google.com/file/d/1hZ56ye8Zb9dwJtToNz7Vyrx9rlgzGp2g/view?usp=sharing), [0377/94](https://drive.google.com/file/d/1QXmzavaLKqRNiDocWva5VKwzYIfXNOVz/view?usp=sharing), [0586/94](https://drive.google.com/file/d/1anCTXYl3l9ybZxTIlSuLCKwK4VYJ3Sr0/view?usp=sharing), [2670/92](https://drive.google.com/file/d/1ujlYEYy6nPAS2IcVdRET-dVyeOsQaeWx/view?usp=sharing)​
 
@@ -2651,11 +2691,11 @@ Establézcase una Suma Mensual No Remunerativa y No Bonificable para todos los a
 | 8         | $ 350    | $ 900    |
 | 9         | $ 410    | $ 1.000  |
 
-&#x20;[Decreto N.º 0439/16](https://drive.google.com/file/d/1RbcvhoFqZbVb0QQdtVOgQ2y19Oxh9c7w/view?usp=sharing), Artículo 9°
+[Decreto N.º 0439/16](https://drive.google.com/file/d/1RbcvhoFqZbVb0QQdtVOgQ2y19Oxh9c7w/view?usp=sharing), Artículo 9°
 
-#### &#xD; **ASIGNACION REMUNERATIVA NO BONIFICABLE**
+#### **ASIGNACION REMUNERATIVA NO BONIFICABLE**
 
-_****_[_**Decreto Nº 0983/2020**_](https://drive.google.com/file/d/19pZ9tg5KY-14nuKq3TdylPObA8PCftdA/view?usp=sharing)_****_
+_\*\*\*\*_[_**Decreto Nº 0983/2020**_](https://drive.google.com/file/d/19pZ9tg5KY-14nuKq3TdylPObA8PCftdA/view?usp=sharing)_\*\*\*\*_
 
 ARTÍCULO 2°: Otórgase una asignación mensual de carácter no remunerativo y no bonificable a todos aquellos agentes activos incluídos en el Escalafón "Decreto - Acuerdo N° 2695/83", conforme los valores, categorías y a partir de las fechas que a continuación se detallan:
 
@@ -2676,9 +2716,9 @@ ARTÍCULO 2°: Otórgase una asignación mensual de carácter no remunerativo y 
 
 ARTÍCULO 7º: Otórgase una Asignación mensual de carácter no remunerativo y no bonificable denominada "Responsabilidad Jerárquica" para aquellos agentes que se desempeñan en las categorías 7, 8 y 9 del Escalafón del Personal Civil de la Administración Pública Provincial (Decreto-Acuerdo N° 2695/83), los que alcancen los coeficientes 3,05 a 6,00 del Escalafón para Personal del Servicio de Catastro e Información Territorial (Decreto N° 201/95) el correspondiente a la Administración Provincial de Impuestos (Decreto N° 4447/92), como así también en las categorías B4, B5 y B6 del Escalafón Personal Superior Administrativo, Técnico y Profesional de Fiscalía de Estado, las categorías 13, 14 y 15 del Escalafón Personal Talleres Gráficos Provinciales, y aquellos agentes categorizados como Clase XXII, Clase XXIII y Clase XXIV del Ente Regulador de Servicios Sanitarios (ENRESS) bajo Convenio Colectivo de Trabajo N° 113/1994 "E". La misma resultará el equivalente al treinta y cinco por ciento (35%) de la suma establecida por los artículos 2°, 3°, 4°, 5° y 6° para cada una de ellas, y que resulta complementaria a la misma.
 
-* _**Por **_[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_** Artículo 13º**, se incorpora a la Categoría 6 para la percepción de la asignación “Responsabilidad Jerárquica”._
+* _\*\*Por \*\*_[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_\*\* Artículo 13º\*\*, se incorpora a la Categoría 6 para la percepción de la asignación “Responsabilidad Jerárquica”._
 
-[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_** **_
+[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_\*\* \*\*_
 
 ARTICULO 15°: Increméntanse, a partir del 1° de diciembre de 2020, los montos de la asignación mensual de carácter no remunerativo y no bonificable establecida por el artículo 2° del Decreto N° 983/20, para todos aquellos agentes activos incluidos en el Escalafón Decreto-Acuerdo N° 2695/83, conforme los valores y categorías que a continuación se detallan:
 
@@ -2694,9 +2734,9 @@ ARTICULO 15°: Increméntanse, a partir del 1° de diciembre de 2020, los montos
 | 8             | 4.051,99   |
 | 9             | 4.892,39   |
 
-#### &#xD;**ASIGNACIÓN MENSUAL NO REMUNERATIVO NO BONIFICABLE “INCENTIVO LABORAL”**
+#### **ASIGNACIÓN MENSUAL NO REMUNERATIVO NO BONIFICABLE “INCENTIVO LABORAL”**
 
-[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_** **_
+[_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)_\*\* \*\*_
 
 ARTICULO 2°: Otórguese, a partir del 1° de enero de 2021, una asignación mensual de carácter no remunerativo y no bonificable en carácter de "Incentivo Laboral" a los agentes que se desempeñan en los efectores de atención médica dependiente del Ministerio de Salud de la Provincia de Santa Fe, que pertenezcan a los agrupamientos Asistencial Hospitalario, Profesional, Técnico, Mantenimiento y Producción, Servicios Generales y Administrativos, conforme al siguiente detalle:
 
@@ -2706,7 +2746,7 @@ b) Enfermeros o enfermeras y auxiliares de enfermería que no perciban actualmen
 
 c) Personal Profesional, Técnico, Mantenimiento y Producción y Servicios Generales: Pesos tres mil ($ 3.000).
 
-**Antecedente**:  Decreto Nº 1306/2020.
+**Antecedente**: Decreto Nº 1306/2020.
 
 ### ANEXO RETRIBUCIONES I
 
@@ -2815,7 +2855,7 @@ Las asignaciones de las Categorías comprendidas entre la uno (1) y la veinticua
 
 | CATEGORÍAS | COEFICIENTES |
 | ---------- | ------------ |
-| 1          |  1,00000     |
+| 1          | 1,00000      |
 | 2          | 1,04966      |
 | 3          | 1,09390      |
 | 4          | 1,15080      |
@@ -2874,49 +2914,49 @@ Los llamados para las categorías 4, 5, 6, 7, 8 y 9, serán interjurisdiccionale
 
 Cuando se declarara desierto el concurso interno se realizara un concurso abierto, destinado a todos los agentes del presente escalafón, incluidos los designados con carácter provisional, a los de otros escalafones y a personas ajenas a la Administración Pública Provincial.
 
-Artículo 88°: antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 88°: antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **Etapas**
 
-**ARTÍCULO 89°-** Los Concursos internos para las categorías 3, 4 y 5 comprenderán las siguientes etapas sucesivas:&#x20;
+**ARTÍCULO 89°-** Los Concursos internos para las categorías 3, 4 y 5 comprenderán las siguientes etapas sucesivas:
 
 1. Evaluación de Antecedentes
-2. Evaluación Técnica&#x20;
+2. Evaluación Técnica
 
 Se podrá optar por la realización de una Evaluación Psicotécnica, y/o una Entrevista Personal cuando se fundamente su realización en virtud de la naturaleza de las funciones del cargo a concursar, y en caso de que las mismas involucren tener personas bajo su cargo.
 
-Los Concursos internos para las categorías 6 y 7 comprenderán las siguientes etapas sucesivas:&#x20;
+Los Concursos internos para las categorías 6 y 7 comprenderán las siguientes etapas sucesivas:
 
 1. Evaluación de Antecedentes
 2. Evaluación Técnica
 3. Evaluación Psicotécnica
-4. Entrevista Personal.&#x20;
+4. Entrevista Personal.
 
-Podrá exceptuarse de la Etapa 3 (Evaluación Psicotécnica), cuando las funciones del puesto a concursar no exija la responsabilidad de tener personal bajo su cargo.&#x20;
+Podrá exceptuarse de la Etapa 3 (Evaluación Psicotécnica), cuando las funciones del puesto a concursar no exija la responsabilidad de tener personal bajo su cargo.
 
-Los Concursos internos para las categorías 8 y 9, y los concursos abiertos de todas las categorías, comprenderán en todos los casos las siguientes etapas sucesivas:&#x20;
+Los Concursos internos para las categorías 8 y 9, y los concursos abiertos de todas las categorías, comprenderán en todos los casos las siguientes etapas sucesivas:
 
 1. Evaluación de Antecedentes
 2. Evaluación Técnica
 3. Evaluación Psicotécnica
-4. Entrevista Personal&#x20;
+4. Entrevista Personal
 
-En los Concursos internos, para poder pasar a las etapas siguientes, será requisito indispensable obtener un mínimo de 60 puntos en la Evaluación Técnica. En tanto que en los Concursos abiertos, cada una de estas etapas será eliminatoria de la siguiente.&#x20;
+En los Concursos internos, para poder pasar a las etapas siguientes, será requisito indispensable obtener un mínimo de 60 puntos en la Evaluación Técnica. En tanto que en los Concursos abiertos, cada una de estas etapas será eliminatoria de la siguiente.
 
-Artículo 89°: antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 89°: antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **Autoridad que dispone el llamado**
 
-**ARTÍCULO 90°-** Los titulares de cada Jurisdicción llamarán a concurso, debiendo contener como mínimo la pertinente Resolución:&#x20;
+**ARTÍCULO 90°-** Los titulares de cada Jurisdicción llamarán a concurso, debiendo contener como mínimo la pertinente Resolución:
 
-1. Organismo al que corresponde el cargo o cargos a cubrir, con indicación expresa del alcance de llamado del concurso (interno -intra o interjurisdiccional- o abierto)&#x20;
-2. Misiones y Funciones del puesto a cubrir establecidas por la estructura orgánico- funcional vigente, determinando su categoría y agrupamiento y el perfil solicitado.&#x20;
-3. Las etapas del concurso, fecha, lugar y hora a partir de la cual se llevará a cabo la evaluación de antecedentes, aclarando que las etapas subsiguientes se realizarán en fecha, lugar y hora a determinar por los integrantes del Jurado. La realización de cada etapa no puede exceder los 10 días hábiles de finalizada la evaluación de la etapa anterior.&#x20;
-4. El procedimiento de inscripción y las condiciones generales y particulares exigibles.&#x20;
-5. La etapas de evaluación y la ponderación relativa correspondiente, para la determinación del orden de mérito, según la categoría a concursar.&#x20;
-6. La composición del Jurado&#x20;
+1. Organismo al que corresponde el cargo o cargos a cubrir, con indicación expresa del alcance de llamado del concurso (interno -intra o interjurisdiccional- o abierto)
+2. Misiones y Funciones del puesto a cubrir establecidas por la estructura orgánico- funcional vigente, determinando su categoría y agrupamiento y el perfil solicitado.
+3. Las etapas del concurso, fecha, lugar y hora a partir de la cual se llevará a cabo la evaluación de antecedentes, aclarando que las etapas subsiguientes se realizarán en fecha, lugar y hora a determinar por los integrantes del Jurado. La realización de cada etapa no puede exceder los 10 días hábiles de finalizada la evaluación de la etapa anterior.
+4. El procedimiento de inscripción y las condiciones generales y particulares exigibles.
+5. La etapas de evaluación y la ponderación relativa correspondiente, para la determinación del orden de mérito, según la categoría a concursar.
+6. La composición del Jurado
 
-Artículo 90° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 90° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **ARTÍCULO 91°-** Previo al dictado de la Resolución convocante al concurso, la Subsecretaría de Recursos Humanos y Función Pública, verificará y controlará técnicamente los aspectos formales e instrumentales que aseguren uniformidad de criterios en los procedimientos.
 
@@ -2968,37 +3008,37 @@ Artículo 96 modificado por el Artículo 2 del [Decreto N° 1729/09](https://dri
 
 Artículo 97 modificado por el Artículo 2 del [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing)
 
-**ARTÍCULO 98°-** Tanto los agentes del presente Escalafón que estuvieran en estado de "provisionalidad" como el personal de otros escalafones, que estuviere adscripto y cumpliendo funciones enmarcados en el Decreto N° 2695/83, sólo podrán participar en los concursos abiertos, en tanto que los agentes de este escalafón que estuvieren adscriptos y cumpliendo funciones enmarcadas en otros escalafones, mantendrán el derecho a intervenir en los concursos internos que se realicen en el ámbito del presente.&#x20;
+**ARTÍCULO 98°-** Tanto los agentes del presente Escalafón que estuvieran en estado de "provisionalidad" como el personal de otros escalafones, que estuviere adscripto y cumpliendo funciones enmarcados en el Decreto N° 2695/83, sólo podrán participar en los concursos abiertos, en tanto que los agentes de este escalafón que estuvieren adscriptos y cumpliendo funciones enmarcadas en otros escalafones, mantendrán el derecho a intervenir en los concursos internos que se realicen en el ámbito del presente.
 
-Artículo 98° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 98° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **ARTÍCULO 99°-** Podrán participar en los concursos internos —intra e interjurisdiccionales- según sea la categoría a concursar, quienes además de reunir los requisitos específicos determinados en la convocatoria, cumplan con los siguientes:
 
-| Agente titular de categoría  | Con antigüedad mínima en planta permanente del presente Escalafón de | Podrá concursar cargos de categoría  |
-| ---------------------------- | -------------------------------------------------------------------- | ------------------------------------ |
-| 1                            | 1 año                                                                | 3                                    |
-|                              | 3 años                                                               | 3 y 4                                |
-| 2                            | 1 año                                                                | 3 — 4 — 5 y 6                        |
-|                              | 5 años                                                               | 7                                    |
-| 3                            | 1 año                                                                | 3 — 4 — 5 y 6                        |
-|                              | 5 años                                                               | 7 y 8                                |
-| 4 — 5 — 6 — 7 — 8 - 9        | 1 año                                                                | 5 — 6 — 7 — 8 y 9                    |
+| Agente titular de categoría | Con antigüedad mínima en planta permanente del presente Escalafón de | Podrá concursar cargos de categoría |
+| --------------------------- | -------------------------------------------------------------------- | ----------------------------------- |
+| 1                           | 1 año                                                                | 3                                   |
+|                             | 3 años                                                               | 3 y 4                               |
+| 2                           | 1 año                                                                | 3 — 4 — 5 y 6                       |
+|                             | 5 años                                                               | 7                                   |
+| 3                           | 1 año                                                                | 3 — 4 — 5 y 6                       |
+|                             | 5 años                                                               | 7 y 8                               |
+| 4 — 5 — 6 — 7 — 8 - 9       | 1 año                                                                | 5 — 6 — 7 — 8 y 9                   |
 
-Cuando la Jurisdicción de la cual dependa el postulante no hubiera producido en tiempo y forma las promociones automáticas que correspondieran escalafonariamente, se considerará la categoría en que debería estar el agente para su presentación en los Concursos Interno.&#x20;
+Cuando la Jurisdicción de la cual dependa el postulante no hubiera producido en tiempo y forma las promociones automáticas que correspondieran escalafonariamente, se considerará la categoría en que debería estar el agente para su presentación en los Concursos Interno.
 
-Artículo 99° modificado por el Artículo 22 del [Decreto de Aplicación N° 4035/14](https://drive.google.com/file/d/1MjBwDVS10\_CxprcEOJtee5hib7MBHgQh/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 99° modificado por el Artículo 22 del [Decreto de Aplicación N° 4035/14](https://drive.google.com/file/d/1MjBwDVS10\_CxprcEOJtee5hib7MBHgQh/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **ARTÍCULO 100°-** La falta de documentación debidamente certificada, que acredite la posesión de los requisitos exigidos con carácter excluyente en la convocatoria para la inscripción, invalidará la presentación al concurso. Toda inscripción deberá ir acompañada por la correspondiente Certificación de Servicios y antigüedad, expedida por la Dirección de Recursos Humanos de la Provincia, y con fotocopia certificada del último recibo de sueldo del postulante.
 
-La Resolución convocante determinará si los concursantes deben presentar junto con su solicitud y certificaciones de los requisitos exigidos, la documentación que acredite los demás antecedentes que posea o una declaración jurada de los mismos. En este último caso, todo antecedente incluido en la declaración jurada tendrá que ser debidamente probado por el concursante, dentro de las cuarenta y ocho (48) horas de requerido por el jurado.&#x20;
+La Resolución convocante determinará si los concursantes deben presentar junto con su solicitud y certificaciones de los requisitos exigidos, la documentación que acredite los demás antecedentes que posea o una declaración jurada de los mismos. En este último caso, todo antecedente incluido en la declaración jurada tendrá que ser debidamente probado por el concursante, dentro de las cuarenta y ocho (48) horas de requerido por el jurado.
 
-Artículo 100°:  antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)&#x20;
+Artículo 100°: antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **Ponderación**
 
-**ARTÍCULO 101° -** Cada etapa tendrá un peso relativo porcentual para la conformación del orden de méritos, de acuerdo a la categoría del cargo a concursar. La sumatoria del peso relativo porcentual de las etapas que integren el concurso, deberá ser igual al 100%.&#x20;
+**ARTÍCULO 101° -** Cada etapa tendrá un peso relativo porcentual para la conformación del orden de méritos, de acuerdo a la categoría del cargo a concursar. La sumatoria del peso relativo porcentual de las etapas que integren el concurso, deberá ser igual al 100%.
 
-**Peso relativo de cada Etapa **
+\*\*Peso relativo de cada Etapa \*\*
 
 | Categoría     | Etapa 1 | Etapa 2 | Etapa 3 | Etapa 4 | Total |
 | ------------- | ------- | ------- | ------- | ------- | ----- |
@@ -3013,63 +3053,63 @@ Artículo 100°:  antecedentes [Decreto N° 1729/09](https://drive.google.com/fi
 
 (\*\*) En caso de incluirse sólo la Entrevista Personal
 
-(\*\*\*) En caso de incluirse dos Etapas (Evaluación Psicotécnica y Entrevista Personal).&#x20;
+(\*\*\*) En caso de incluirse dos Etapas (Evaluación Psicotécnica y Entrevista Personal).
 
 Artículo 101° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 _**​**_**Etapa Nº 1 - Evaluación de Antecedentes**
 
-**ARTÍCULO 102°-.** La calificación de los antecedentes será numérica de 0 a 100 puntos, discriminados de la siguiente manera:&#x20;
+**ARTÍCULO 102°-.** La calificación de los antecedentes será numérica de 0 a 100 puntos, discriminados de la siguiente manera:
 
-**Para Concursos Internos de la Categoría 3 a la 5 **
+\*\*Para Concursos Internos de la Categoría 3 a la 5 \*\*
 
 ![](<../.gitbook/assets/Concursos internos 3 a 5.png>)
 
-**Para Concursos Internos de la Categoría 6 a la 9 **
+\*\*Para Concursos Internos de la Categoría 6 a la 9 \*\*
 
 ![](<../.gitbook/assets/Concursos internos 6 a 9.png>)
 
-**Para Concursos Abiertos **
+\*\*Para Concursos Abiertos \*\*
 
 ![](<../.gitbook/assets/Concursos abiertos.png>)
 
-Para la valoración particular de cada ítem y componente, se utilizarán las Guías de Valoración de Antecedentes que se adjuntan al presente como Anexos I, II y III , según corresponda a concursos internos o abiertos.&#x20;
+Para la valoración particular de cada ítem y componente, se utilizarán las Guías de Valoración de Antecedentes que se adjuntan al presente como Anexos I, II y III , según corresponda a concursos internos o abiertos.
 
-El Jurado decidirá por simple mayoría de votos de los ocho miembros que lo constituyen. El presidente solo votará en caso de empate.&#x20;
+El Jurado decidirá por simple mayoría de votos de los ocho miembros que lo constituyen. El presidente solo votará en caso de empate.
 
-Los participantes de concursos abiertos sólo pasaran a la etapa siguiente, si hubieren obtenido un mínimo de 40 puntos en esta instancia.&#x20;
+Los participantes de concursos abiertos sólo pasaran a la etapa siguiente, si hubieren obtenido un mínimo de 40 puntos en esta instancia.
 
-Finalizada la evaluación de los antecedentes de los aspirantes, el Jurado procederá a fijar el lugar, día y horario en que se realizará la Evaluación Técnica. Atento a ello, deberá publicarse dicha información en la Web oficial, junto con el listado de los aspirantes admitidos y de los no admitidos, y se notificará a cada interesado vía e-mail.&#x20;
+Finalizada la evaluación de los antecedentes de los aspirantes, el Jurado procederá a fijar el lugar, día y horario en que se realizará la Evaluación Técnica. Atento a ello, deberá publicarse dicha información en la Web oficial, junto con el listado de los aspirantes admitidos y de los no admitidos, y se notificará a cada interesado vía e-mail.
 
 Artículo 102° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **Etapa Nº 2 - Evaluación Técnica**
 
-**ARTÍCULO 103º -.** La calificación será numérica de 0 a 100 puntos. Indagará con mayor profundidad el ajuste de los aspirantes a los requerimientos de conocimientos y competencias técnicas del puesto, determinando si el postulante puede aplicar sus conocimientos, habilidades y formación a situaciones concretas según los requerimientos típicos del puesto.&#x20;
+**ARTÍCULO 103º -.** La calificación será numérica de 0 a 100 puntos. Indagará con mayor profundidad el ajuste de los aspirantes a los requerimientos de conocimientos y competencias técnicas del puesto, determinando si el postulante puede aplicar sus conocimientos, habilidades y formación a situaciones concretas según los requerimientos típicos del puesto.
 
-El cuestionario se conformará con una antelación máxima de 1 (una) hora previa a la realización de la evaluación, y se integrará con las preguntas aportadas por los 8 (ocho) miembros del Jurado, teniendo como base los requerimientos establecidos en el perfil del puesto. En caso de no Ilegar a un consenso en la construcción del cuestionario de evaluación, se distribuirán las preguntas, al igual que el puntaje, en la misma proporción paritaria en que se encuentra conformado el Jurado.&#x20;
+El cuestionario se conformará con una antelación máxima de 1 (una) hora previa a la realización de la evaluación, y se integrará con las preguntas aportadas por los 8 (ocho) miembros del Jurado, teniendo como base los requerimientos establecidos en el perfil del puesto. En caso de no Ilegar a un consenso en la construcción del cuestionario de evaluación, se distribuirán las preguntas, al igual que el puntaje, en la misma proporción paritaria en que se encuentra conformado el Jurado.
 
-Para el caso de la categoría 3 exclusivamente, el Jurado utilizará técnicas de evaluación mas simplificadas que para el resto de las categorías. Preferentemente cuestionarios de múltiples opciones.&#x20;
+Para el caso de la categoría 3 exclusivamente, el Jurado utilizará técnicas de evaluación mas simplificadas que para el resto de las categorías. Preferentemente cuestionarios de múltiples opciones.
 
-Cuando se presentara más de un postulante, las evaluaciones escritas deberán ser anónimas, mediante la utilización de claves convencionales de identificación que permitan identificar a cada uno de los postulantes sólo después de su evaluación. Los aspirantes que se hubieran identificado en los exámenes escritos serán excluidos del proceso de concurso.&#x20;
+Cuando se presentara más de un postulante, las evaluaciones escritas deberán ser anónimas, mediante la utilización de claves convencionales de identificación que permitan identificar a cada uno de los postulantes sólo después de su evaluación. Los aspirantes que se hubieran identificado en los exámenes escritos serán excluidos del proceso de concurso.
 
 El Jurado decidirá por simple mayoría de votos de los ocho miembros que lo constituyen. El presidente solo votará en caso de empate.
 
-En los Concursos internos de todas las categorías, los postulantes deberán obtener un mínimo de 60 puntos en esta etapa evaluatoria, para poder acceder a las etapas siguientes.&#x20;
+En los Concursos internos de todas las categorías, los postulantes deberán obtener un mínimo de 60 puntos en esta etapa evaluatoria, para poder acceder a las etapas siguientes.
 
-Los participantes de concursos abiertos sólo pasaran a la etapa siguiente, si hubieren obtenido un mínimo de 70 puntos en esta instancia.&#x20;
+Los participantes de concursos abiertos sólo pasaran a la etapa siguiente, si hubieren obtenido un mínimo de 70 puntos en esta instancia.
 
-Los integrantes del Jurado determinarán día y hora en que procederán a puntuar las evaluaciones técnicas realizadas, si es que optaran por no hacerlo a continuación de la efectivización de las mismas. A tales efectos, la corrección de las evaluaciones deberá realizarse como máximo, dentro de los 10 (diez) hábiles posteriores a su realización.&#x20;
+Los integrantes del Jurado determinarán día y hora en que procederán a puntuar las evaluaciones técnicas realizadas, si es que optaran por no hacerlo a continuación de la efectivización de las mismas. A tales efectos, la corrección de las evaluaciones deberá realizarse como máximo, dentro de los 10 (diez) hábiles posteriores a su realización.
 
-Cuando corresponda realizar la Evaluación Psicotécnica y/o la Entrevista Personal, dentro de las 72 horas de labrada el acta correspondiente donde se registra la puntuación obtenida por los concursantes en la Evaluación Técnica, el Jurado procederá a fijar el lugar, día y horario en que se realizará la siguiente etapa, teniendo en cuenta el período de Aclaratoria que se describe posteriormente. Atento a ello, deberá publicarse dicha información en la Web oficial, junto con el listado de los aspirantes que superaron y los que no superaron la presente etapa, y se notificará a cada interesado vía e-mail. Dentro de los tres (3) días de practicada dicha notificación, los aspirantes podrán solicitar aclaratoria tendiente a suplir eventuales omisiones, corregir errores materiales o aclarar conceptos.&#x20;
+Cuando corresponda realizar la Evaluación Psicotécnica y/o la Entrevista Personal, dentro de las 72 horas de labrada el acta correspondiente donde se registra la puntuación obtenida por los concursantes en la Evaluación Técnica, el Jurado procederá a fijar el lugar, día y horario en que se realizará la siguiente etapa, teniendo en cuenta el período de Aclaratoria que se describe posteriormente. Atento a ello, deberá publicarse dicha información en la Web oficial, junto con el listado de los aspirantes que superaron y los que no superaron la presente etapa, y se notificará a cada interesado vía e-mail. Dentro de los tres (3) días de practicada dicha notificación, los aspirantes podrán solicitar aclaratoria tendiente a suplir eventuales omisiones, corregir errores materiales o aclarar conceptos.
 
 Artículo 103° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
 **Etapa Nº 3 - Evaluación Psicotécnica**
 
-**ARTÍCULO 104º -** Se calificará de 0 a 100 puntos. Estará a cargo de profesionales con amplio conocimiento en la temática, pudiendo también participar profesionales en representación de las entidades gremiales signatarias del Convenio Colectivo. En esta etapa se analizarán las aptitudes y actitudes del postulante para el cargo que se concursa, mediante la utilización de herramientas psicométricas, las que darán un conocimiento más profundo sobre las capacidades cognitivas y de relación propias de la personalidad del concursante, en relación a las exigencias del puesto específico que se concursa y al ámbito en que deberá prestar sus servicios. El resultado de estos exámenes tendrá carácter reservado. Cada postulante, cuando así lo solicite, podrá conocer los resultados que le conciernan personalmente.&#x20;
+**ARTÍCULO 104º -** Se calificará de 0 a 100 puntos. Estará a cargo de profesionales con amplio conocimiento en la temática, pudiendo también participar profesionales en representación de las entidades gremiales signatarias del Convenio Colectivo. En esta etapa se analizarán las aptitudes y actitudes del postulante para el cargo que se concursa, mediante la utilización de herramientas psicométricas, las que darán un conocimiento más profundo sobre las capacidades cognitivas y de relación propias de la personalidad del concursante, en relación a las exigencias del puesto específico que se concursa y al ámbito en que deberá prestar sus servicios. El resultado de estos exámenes tendrá carácter reservado. Cada postulante, cuando así lo solicite, podrá conocer los resultados que le conciernan personalmente.
 
-El Jurado interviniente podrá solicitar a los profesionales, un informe ampliatorio del resultado de la evaluación de las competencias laborales si lo considerase necesario.&#x20;
+El Jurado interviniente podrá solicitar a los profesionales, un informe ampliatorio del resultado de la evaluación de las competencias laborales si lo considerase necesario.
 
 Los participantes de concursos abiertos sólo pasaran a la etapa siguiente, si hubieren obtenido un mínimo de 70 puntos en esta instancia.
 
@@ -3077,7 +3117,7 @@ Artículo 104 antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d
 
 **Etapa Nº 4 - Entrevista Personal**
 
-**ARTÍCULO 105º -** Se calificará de 0 a 100 puntos. Se orienta a conocer a los candidatos y a establecer el grado de ajuste global -experiencia, comportamientos, características de personalidad si así se requiriese y motivación- de los mismos a los requerimientos y condiciones del cargo. El Jurado del Concurso elaborará una Guía de Entrevista, pautando las características a observar y evaluar en el postulante. Deberá permitir obtener información que complemente la apreciación de los antecedentes académicos, la experiencia laboral y las competencias laborales específicas o generales, exigidas por el cargo al cual se postula, distribuyendo entre esas características los cien (100) puntos previstos para la etapa. Cada uno de los ocho miembros del Jurado del Concurso asignará los puntajes estimados a cada postulante, obteniéndose el puntaje final en esta etapa, mediante el promedio resultante. Este puntaje deberá ser resuelto en el mismo día que se efectuara la entrevista al finalizar cada una de ellas o en su defecto, al finalizar todas las entrevistas programadas para el día.&#x20;
+**ARTÍCULO 105º -** Se calificará de 0 a 100 puntos. Se orienta a conocer a los candidatos y a establecer el grado de ajuste global -experiencia, comportamientos, características de personalidad si así se requiriese y motivación- de los mismos a los requerimientos y condiciones del cargo. El Jurado del Concurso elaborará una Guía de Entrevista, pautando las características a observar y evaluar en el postulante. Deberá permitir obtener información que complemente la apreciación de los antecedentes académicos, la experiencia laboral y las competencias laborales específicas o generales, exigidas por el cargo al cual se postula, distribuyendo entre esas características los cien (100) puntos previstos para la etapa. Cada uno de los ocho miembros del Jurado del Concurso asignará los puntajes estimados a cada postulante, obteniéndose el puntaje final en esta etapa, mediante el promedio resultante. Este puntaje deberá ser resuelto en el mismo día que se efectuara la entrevista al finalizar cada una de ellas o en su defecto, al finalizar todas las entrevistas programadas para el día.
 
 Cada uno de los ocho miembros del Jurado del Concurso podrá utilizar el formulario de la Guía de Entrevista -que se adjunta como Anexo IV del presente Régimen, para registrar los puntajes que a su criterio corresponda a cada postulante.
 
@@ -3085,34 +3125,34 @@ Artículo 105° antecedentes [Decreto N° 1729/09](https://drive.google.com/file
 
 **Construcción del Orden de Méritos**
 
-**ARTÍCULO 106°.-** El Jurado tendrá un plazo de diez (10) días hábiles computados a partir de la última Etapa evaluatoria que corresponda a cada convocatoria, para elaborar el Orden de Méritos.&#x20;
+**ARTÍCULO 106°.-** El Jurado tendrá un plazo de diez (10) días hábiles computados a partir de la última Etapa evaluatoria que corresponda a cada convocatoria, para elaborar el Orden de Méritos.
 
-En esta fase, se deberá calcular el puntaje bruto ponderado de cada Etapa.&#x20;
+En esta fase, se deberá calcular el puntaje bruto ponderado de cada Etapa.
 
-Para ello se multiplicará el puntaje bruto de cada Etapa por la ponderación relativa establecida previamente. Se sumarán los puntajes brutos ponderados y se obtendrá el puntaje global ponderado. Con este puntaje global se realizará el Orden de Mérito.&#x20;
+Para ello se multiplicará el puntaje bruto de cada Etapa por la ponderación relativa establecida previamente. Se sumarán los puntajes brutos ponderados y se obtendrá el puntaje global ponderado. Con este puntaje global se realizará el Orden de Mérito.
 
-El Orden de Mérito se confeccionará con los puntajes globales ponderados cuyo valor sea igual o mayor a 60 puntos para los concursos internos de las categorías 6, 7, 8 y 9; igual o mayor a 50 puntos para los concursos internos de las categorías 3, 4 y 5. En el caso de que ninguno de los concursantes alcance este puntaje, el concurso se declarará desierto, debiendo procederse a convocar a concurso interno interjurisdiccional si así correspondiese o a concurso abierto.&#x20;
+El Orden de Mérito se confeccionará con los puntajes globales ponderados cuyo valor sea igual o mayor a 60 puntos para los concursos internos de las categorías 6, 7, 8 y 9; igual o mayor a 50 puntos para los concursos internos de las categorías 3, 4 y 5. En el caso de que ninguno de los concursantes alcance este puntaje, el concurso se declarará desierto, debiendo procederse a convocar a concurso interno interjurisdiccional si así correspondiese o a concurso abierto.
 
 El Orden de Mérito de los concursos abiertos se confeccionará con los puntajes globales ponderados cuyo valor sea igual o mayor a 65 puntos, para los concursos de todas las categorías.
 
 Artículo 106° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
-**ARTÍCULO 107°.**-&#x20;
+**ARTÍCULO 107°.**-
 
-El dictamen del Jurado, contendrá como mínimo:&#x20;
+El dictamen del Jurado, contendrá como mínimo:
 
-1. Nómina de Inscriptos:&#x20;
+1. Nómina de Inscriptos:
 
-Indicando:&#x20;
+Indicando:
 
-1. Puntaje obtenido en la Evaluación de Antecedentes.&#x20;
-2. Puntaje obtenido en la Evaluación Técnica.&#x20;
-3. Aptitud Psicotécnica (cuando así corresponda).&#x20;
-4. Puntaje obtenido en la Entrevista Personal (cuando así corresponda).&#x20;
-5. Puntaje Global Ponderado.&#x20;
-6. Presentaciones descalificadas por improcedentes indicando la causa.&#x20;
-7. La nómina confeccionada por el orden de méritos según el punto e).&#x20;
-8. Toda la información que el jurado considere necesaria incluir.&#x20;
+1. Puntaje obtenido en la Evaluación de Antecedentes.
+2. Puntaje obtenido en la Evaluación Técnica.
+3. Aptitud Psicotécnica (cuando así corresponda).
+4. Puntaje obtenido en la Entrevista Personal (cuando así corresponda).
+5. Puntaje Global Ponderado.
+6. Presentaciones descalificadas por improcedentes indicando la causa.
+7. La nómina confeccionada por el orden de méritos según el punto e).
+8. Toda la información que el jurado considere necesaria incluir.
 
 Artículo 107° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
@@ -3122,11 +3162,11 @@ Dentro de los tres (3) días de practicadas dichas notificaciones, los aspirante
 
 Artículo 108° modificado por el Artículo 2 del [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing)
 
-**ARTÍCULO 109°.-**   Toda la documentación correspondiente al concurso quedará en poder del área de Personal a la que corresponda la vacante concursada.&#x20;
+**ARTÍCULO 109°.-** Toda la documentación correspondiente al concurso quedará en poder del área de Personal a la que corresponda la vacante concursada.
 
-El área que corresponda dará vista de las fojas correspondientes a sus propias evaluaciones técnicas a cada participante cuando así lo soliciten dentro del plazo para la presentación de recursos.&#x20;
+El área que corresponda dará vista de las fojas correspondientes a sus propias evaluaciones técnicas a cada participante cuando así lo soliciten dentro del plazo para la presentación de recursos.
 
-Finalizados todos los plazos recursivos e iniciado el trámite de designación, la documental presentada por los postulantes será reintegrada a los mismos.&#x20;
+Finalizados todos los plazos recursivos e iniciado el trámite de designación, la documental presentada por los postulantes será reintegrada a los mismos.
 
 Artículo 109° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 
@@ -3154,7 +3194,7 @@ Artículo 111 modificado por el Artículo 2 del [Decreto N° 1729/09](https://dr
 
 Artículo 112 modificado por el Artículo 2 del [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing)
 
-**ARTÍCULO 113°-** En los concursos internos, el agente designado deberá tomar posesión dentro de los veinte (20) días de la notificación del nombramiento, pasado dicho término la designación quedará automáticamente sin efecto. Sólo podrán exceptuarse de este plazo los agentes que estando en uso de alguna licencia médica del [Decreto 1919/89](../decreto-no-1.919-89/) se encontrasen imposibilitados de presentarse a la toma de posesión aún cuando posteriormente continuasen con dicha licencia. A tales efectos se deberán presentar las certificaciones correspondientes.
+**ARTÍCULO 113°-** En los concursos internos, el agente designado deberá tomar posesión dentro de los veinte (20) días de la notificación del nombramiento, pasado dicho término la designación quedará automáticamente sin efecto. Sólo podrán exceptuarse de este plazo los agentes que estando en uso de alguna licencia médica del [Decreto 1919/89](../decreto-no-1.919-89) se encontrasen imposibilitados de presentarse a la toma de posesión aún cuando posteriormente continuasen con dicha licencia. A tales efectos se deberán presentar las certificaciones correspondientes.
 
 Igual criterio se aplicará en los concursos abiertos cuando los designados ya fueran agentes de la Administración Provincial, aún cuando lo fueran de otros escalafones, en tanto y en cuanto se encuentren amparados por los regímenes de licencias correspondientes.
 
@@ -3166,7 +3206,7 @@ Artículo 113 modificado por el Artículo 2 del [Decreto N° 1729/09](https://dr
 
 Artículo 114 modificado por el Artículo 2 del [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing)
 
-**ARTÍCULO 115°-** Hasta los veinticuatro (24) meses de formalizada la designación o promoción del personal permanente, las bajas que se produzcan en el cargo concursado o la no presentación del postulante elegido, podrán ser cubiertas sucesivamente por los que sigan en el orden de méritos asignado por el Jurado en los respectivos concursos.&#x20;
+**ARTÍCULO 115°-** Hasta los veinticuatro (24) meses de formalizada la designación o promoción del personal permanente, las bajas que se produzcan en el cargo concursado o la no presentación del postulante elegido, podrán ser cubiertas sucesivamente por los que sigan en el orden de méritos asignado por el Jurado en los respectivos concursos.
 
 Artículo 115° antecedentes [Decreto N° 1729/09](https://drive.google.com/file/d/1OWjLDjSgKF69pSx9X9SfF4-ih1M8uC9f/view?usp=sharing); modificado por el [Decreto N° 4439/15](decreto-no-4439-15/)
 

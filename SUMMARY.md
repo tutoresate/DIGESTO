@@ -2,9 +2,7 @@
 
 * [DIGESTO](README.md)
 
-## PARTE I: RÉGIMEN JURÍDICO Y ESTATUTO ESCALAFÓN <a href="parte-i-1" id="parte-i-1"></a>
-
-***
+## PARTE I: RÉGIMEN JURÍDICO Y ESTATUTO ESCALAFÓN <a href="#parte-i-1" id="parte-i-1"></a>
 
 * [LEY Nº 8525 (1979) | Estatuto general de la Administración Pública](ley-no-8.525-1979/README.md)
   * [LEY N° 9234 (1983) | Cómputo de edad](ley-no-8.525-1979/untitled.md)
@@ -37,11 +35,9 @@
   * [DECRETO Nº 170/09 | ANEXO A - Régimen de Comisiones de Servicio](decreto-n-201-95-or-estatuto-y-escalafon-personal-de-servicio-de-catastro-e-informacion-territorial/decreto-no-0170-09-or-anexo-a-regimen-de-comisiones-de-servicio.md)
 * [LEY N° 12695 (2006) | Sueldo Anual Complementario](ley-n-12695-2006.md)
 
-## PARTE II: DERECHO COLECTIVO DE TRABAJO <a href="parte-ii-1" id="parte-ii-1"></a>
+## PARTE II: DERECHO COLECTIVO DE TRABAJO <a href="#parte-ii-1" id="parte-ii-1"></a>
 
-***
-
-* [LEY N° 10052 (1987) |  Convenio Colectivo de Trabajo de la Administración Pública](ley-n-10.052-convenio-colectivo-trabajo-administracion-publica-santa-fe/README.md)
+* [LEY N° 10052 (1987) | Convenio Colectivo de Trabajo de la Administración Pública](ley-n-10.052-convenio-colectivo-trabajo-administracion-publica-santa-fe/README.md)
   * [LEY Nº 12750 (2007) | Modifica el Convenio Colectivo de Trabajo](ley-n-10.052-convenio-colectivo-trabajo-administracion-publica-santa-fe/ley-no-12.750-2007.md)
 * [LEY Nº 23551 (1988) | Asociaciones Sindicales](ley-no-23.551-asociaciones-sindicales.md)
 * [CONVENIOS OIT](convenios-oit/README.md)
@@ -50,9 +46,7 @@
   * [CONVENIO OIT Nº 151 (1978) | Sobre las relaciones de trabajo en la Administración Pública](convenios-oit/convenio-oit-no-151.md)
   * [CONVENIO OIT Nº 154 (1981) | Sobre la negociación colectiva](convenios-oit/convenio-oit-no-154.md)
 
-## PARTE III: IGUALDAD DE GÉNERO, VIOLENCIA DE GENERO Y VIOLENCIA LABORAL <a href="parte-iii-violencia-de-genero-y-violencia-laboral" id="parte-iii-violencia-de-genero-y-violencia-laboral"></a>
-
-***
+## PARTE III: IGUALDAD DE GÉNERO, VIOLENCIA DE GENERO Y VIOLENCIA LABORAL <a href="#parte-iii-violencia-de-genero-y-violencia-laboral" id="parte-iii-violencia-de-genero-y-violencia-laboral"></a>
 
 * [LEY Nº 12434 (2005) | Prevención y erradicación de la Violencia Laboral](ley-no-12.434-2005-violencia-laboral.md)
 * [LEY Nº 26485 (2009) | Protección Integral a las Mujeres](ley-no-26.485-2009-proteccion-integral-a-las-mujeres/README.md)
@@ -67,18 +61,14 @@
 * [CONVENIO OIT Nº 190 (2019) | Sobre la eliminación de la violencia y el acoso en el mundo del trabajo](convenio-oit-no-190-sobre-la-eliminacion-de-la-violencia-y-el-acoso-en-el-mundo-del-trabajo.md)
 * [RED SINDICAL | Protocolo de actuación](protocolo-de-actuacion-or-red-sindical.md)
 
-## PARTE IV: RÉGIMEN DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES <a href="parte-iv-regimen-de-accidentes-de-trabajo-y-enfermedades-profesionales-1" id="parte-iv-regimen-de-accidentes-de-trabajo-y-enfermedades-profesionales-1"></a>
-
-***
+## PARTE IV: RÉGIMEN DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES <a href="#parte-iv-regimen-de-accidentes-de-trabajo-y-enfermedades-profesionales-1" id="parte-iv-regimen-de-accidentes-de-trabajo-y-enfermedades-profesionales-1"></a>
 
 * [LEY N° 24557 (1995) - Riesgos del trabajo](ley-n-24.557-1995-riesgos-del-trabajo.md)
 * [LEY Nº 12913 (2008) - Comités de Salud y Seguridad en el trabajo](ley-no-12.913-2008-comites-de-salud-y-seguridad-laboral.md)
 * [DECRETO Nº 396/09 | Reglamentación de diversos artículos de la Ley N° 12913](decreto-no-0396-09-reglamentacion-de-diversos-articulos-de-la-ley-n-12913.md)
 * [DECRETO N° 4463/17 | Dirección Provincial de Autoseguro y Riesgos de Trabajo (DIPART)](decreto-n-4.463-17-constituye-la-direccion-provincial-de-autoseguro-y-riesgos-de-trabajo-d.i.p.a.r.md)
 
-## PARTE V: RÉGIMEN DE LA SEGURIDAD SOCIAL <a href="parte-v-regimen-de-la-seguridad-social-1" id="parte-v-regimen-de-la-seguridad-social-1"></a>
-
-***
+## PARTE V: RÉGIMEN DE LA SEGURIDAD SOCIAL <a href="#parte-v-regimen-de-la-seguridad-social-1" id="parte-v-regimen-de-la-seguridad-social-1"></a>
 
 * [LEY Nº 6915 (1973) | Jubilaciones y pensiones del personal de la Provincia](ley-no-6.915-1973-y-modificatorias.md)
 * [LEY Nº 8288 (1978) | IAPOS](ley-no-8.288-1978-iapos.md)
@@ -86,7 +76,7 @@
 * [LEY N° 13758 (2018) | Caja de previsión social de los agentes civiles del Estado](ley-n-13.758-2018-caja-de-prevision-social-de-los-agentes-civiles-del-estado.md)
 * [LEY N° 13853 (2018) | Protección de los derechos de personas con discapacidad](ley-n-13853-2018-discapacidad.md)
 
-## ANEXO <a href="parte-vi" id="parte-vi"></a>
+## ANEXO <a href="#parte-vi" id="parte-vi"></a>
 
 * [LEY N° 7234 (1974) | Reglamentación Juicios contra el Estado Provincial](parte-vi/ley-n-7234-1974-or-reglamentacion-juicios-contra-el-estado-provincial.md)
 * [LEY N° 12071 (2002) | Notificación de derecho a interponer recursos](parte-vi/ley-n-12071-2002-or-notificacion-de-derecho-a-interponer-recursos.md)
