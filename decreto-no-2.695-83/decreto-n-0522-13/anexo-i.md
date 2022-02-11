@@ -32,11 +32,11 @@ f) Que la solicitud de suplencia esté adecuadamente sostenida por un procedimie
 
 ARTÍCULO 4º: Causales: son motivaciones válidas para solicitar Personal Suplente, las siguientes:
 
-a) Las ausencias transitorias por más de quince (15) días, motivadas en causas previstas en el Régimen de Licencias, Justificaciones y Franquicias (Decreto-Acuerdo N° 1919/89), quedando comprendidas las licencias que pudieren acordarse en ejercicio de la facultad reservada en el artículo 2° de dicho régimen.
+a) Las ausencias transitorias por más de quince (15) días, motivadas en causas previstas en el [Régimen de Licencias, Justificaciones y Franquicias (Decreto-Acuerdo N° 1919/89)](../../decreto-no-1.919-89/), quedando comprendidas las licencias que pudieren acordarse en ejercicio de la facultad reservada en el artículo 2° de dicho régimen.
 
 b) Las ausencias por lapsos inferiores al establecido en el párrafo precedente, solo podrán ser cubiertas por Personal Suplente excepcionalmente, cuando a criterio de la autoridad de aplicación existieran causas justificantes referidas a la atención de demandas asistenciales impostergables en funciones y áreas críticas (Servicios de Guardia, de Emergencia o similares) o en los casos de personal único en un servicio, debiendo cumplimentarse en todos los casos, lo establecido en el artículo 3°, inciso f) del presente.
 
-c) Las ausencias transitorias fundadas en la retención legítima del empleo por parte del agente reemplazado, conforme a lo previsto en los artículos 16°, último párrafo, y 30° de la Ley N° 8525; 11°, párrafo tercero, y 8° del Decreto N° 1427/91 (desempeño de cargos representativos en los Consejos de Administración de Hospitales Descentralizados - Ley N° 10.608).
+c) Las ausencias transitorias fundadas en la retención legítima del empleo por parte del agente reemplazado, conforme a lo previsto en los artículos 16°, último párrafo, y 30° de la [Ley N° 8525](../../ley-no-8.525-1979/); 11°, párrafo tercero, y 8° del Decreto N° 1427/91 (desempeño de cargos representativos en los Consejos de Administración de Hospitales Descentralizados - Ley N° 10.608).
 
 d) Las ausencias definitivas por renuncia, fallecimiento, abandono de servicios, cesantía, jubilación o traslado definitivo, en este último caso exclusivamente en el supuesto de que la medida se efectivice ocupando otra vacante y liberando correlativamente la correspondiente al cargo del personal trasladado en el establecimiento hospitalario.
 
@@ -58,7 +58,7 @@ De las condiciones de los aspirantes a suplencias e ingreso
 
 ARTÍCULO 6º: Los aspirantes a suplencias e ingresos deberán reunir las siguientes condiciones:
 
-a) No exceder el límite de edad impuesto por el régimen jubilatorio para el caso de suplencias o el establecido por la ley 8525 para el caso de ingreso.
+a) No exceder el límite de edad impuesto por el régimen jubilatorio para el caso de suplencias o el establecido por la [ley 8525 ](../../ley-no-8.525-1979/)para el caso de ingreso.
 
 b) Tener dieciocho (18) años de edad como mínimo.
 
@@ -70,7 +70,7 @@ e) No estar inhabilitado.
 
 f) No hallarse jubilado.
 
-ARTÍCULO 7º: En el caso que durante la vigencia del respectivo Escalafón, algún escalafonado superara los límites de edad establecidos en el inciso a) del artículo anterior, sin haber desempeñado reemplazo alguno, será dado de baja automáticamente del Escalafón respectivo, salvo para el caso de los agentes alcanzados por las disposiciones de la Ley 9234.
+ARTÍCULO 7º: En el caso que durante la vigencia del respectivo Escalafón, algún escalafonado superara los límites de edad establecidos en el inciso a) del artículo anterior, sin haber desempeñado reemplazo alguno, será dado de baja automáticamente del Escalafón respectivo, salvo para el caso de los agentes alcanzados por las disposiciones de la [Ley 9234](../../ley-no-8.525-1979/untitled.md).
 
 ARTÍCULO 8º: Los suplentes tendrán los mismos deberes establecidos para los titulares por Leyes, Decretos y reglamentaciones vigentes y los derechos que les fije el presente y aquellas otras reglamentaciones de personal que los incluyan
 
@@ -434,9 +434,7 @@ ARTÍCULO 58º: Los recursos que se deduzcan contra los dictámenes y escalafone
 
 ARTÍCULO 59º: Normas de Aplicación: serán aplicables al personal comprendido en este régimen, las disposiciones de las Leyes Nros. 8525 y el Decreto-Acuerdo N° 2695/83, en la medida en que resulten compatibles con la naturaleza jurídica de su vinculación temporal con la Administración Pública Provincial.-ARTÍCULO 60º: Autoridades de aplicación: el señor Ministro de Salud, o quien en éste delegare, será la autoridad de aplicación de lo dispuesto por el presente régimen y además deberá resolver los casos no previstos y vinculados a su implementación, de conformidad con los principios que lo inspiran.
 
-
-
-#### ANEXO A - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESO <a href="docs-internal-guid-82e9b883-7fff-ec1e-9430-54e78cb7f770" id="docs-internal-guid-82e9b883-7fff-ec1e-9430-54e78cb7f770"></a>
+#### ANEXO A - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESO <a href="#docs-internal-guid-82e9b883-7fff-ec1e-9430-54e78cb7f770" id="docs-internal-guid-82e9b883-7fff-ec1e-9430-54e78cb7f770"></a>
 
 Artículo 1°.- De acuerdo al perfil prestacional de cada efector, el Ministerio de Salud deberá presentar los cargos a suplencias identificados particularmente según la especialidad y definidos claramente a sus efectos, teniendo en cuenta la siguiente ponderación:
 
@@ -452,7 +450,7 @@ Artículo 2°.- La Junta de Escalafonamiento respectiva asignará el puntaje cor
 
 El puntaje mínimo a obtener en el presente ítem será el correspondiente al nivel educativo determinado como requisito excluyente en la convocatoria, y el puntaje máximo, el correspondiente al nivel educativo de mayor nivel que posea el postulante, conforme se detalla a continuación. Los Estudiantes deberán tener aprobado más del 50 % del plan de estudios respectivo a los fines de obtener el puntaje asignado más abajo.
 
-A. Para el Sub- agrupamiento Hospitalario     -excluido el personal de servicios hospitalarios- y el Agrupamiento Profesional del Escalafón Decreto-Acuerdo Nº 2695/83.
+A. Para el Sub- agrupamiento Hospitalario -excluido el personal de servicios hospitalarios- y el Agrupamiento Profesional del Escalafón Decreto-Acuerdo Nº 2695/83.
 
 ![](<../../.gitbook/assets/1.1. educación formal (1).png>)
 
@@ -460,15 +458,14 @@ A. Para el Sub- agrupamiento Hospitalario     -excluido el personal de servicios
 
 B. Para los demás agrupamientos y el personal de servicios asistenciales del Subagrupamiento Hospitalario del Escalafón Decreto-Acuerdo Nº 2695/83.
 
-**1.2. Capacitación Específica: **Se valorará en este ítem solamente la capacitación relacionada en forma específica con el desempeño del cargo, hasta un máximo de 20 puntos, a los que se podrá arribar de la siguiente manera:
+**1.2. Capacitación Específica**: Se valorará en este ítem solamente la capacitación relacionada en forma específica con el desempeño del cargo, hasta un máximo de 20 puntos, a los que se podrá arribar de la siguiente manera:
 
-**1.2.1. Cursos: **El puntaje máximo a obtener en este ítem es de 15 puntos. La valoración de los mismos consistirá en otorgar el siguiente puntaje por cada hora en calidad de asistente, conforme se detalla a continuación:\
+**1.2.1. Cursos**: El puntaje máximo a obtener en este ítem es de 15 puntos. La valoración de los mismos consistirá en otorgar el siguiente puntaje por cada hora en calidad de asistente, conforme se detalla a continuación:
 
-
-| Valor Hora     | Últimos 10 años  | Más de 10 años |
-| -------------- | ---------------- | -------------- |
-| Con evaluación | 0,050            | 0,040          |
-| Sin evaluación | 0,025            | 0,020          |
+| Valor Hora     | Últimos 10 años | Más de 10 años |
+| -------------- | --------------- | -------------- |
+| Con evaluación | 0,050           | 0,040          |
+| Sin evaluación | 0,025           | 0,020          |
 
 Cuando dichas certificaciones no registren la carga horaria de la actividad desarrollada, se estimará que la misma fue de 4 horas por cada día de duración. Cuando un curso superare las 100 horas, se otorgará el puntaje correspondiente a ésta carga horaria. La sumatoria de los cursos que tuvieran una carga horaria menor a las 40 horas, no podrá ser mayor a 8 puntos. Los posgrados universitarios tendrán un puntaje de 5 puntos y el pos-título terciario de 3,50 puntos.
 
@@ -489,7 +486,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 | - | ---------------------------------------------- | ---- |
 | b | Panelista, expositor en Seminarios o Congresos | 0.25 |
 
-**1.2.4. Becas y Pasantías: **El puntaje a otorgar máximo a otorgar en este ítem será 3 puntos. Se considerarán las becas otorgadas y las pasantías realizadas por ante instituciones públicas y/o privadas vinculadas al cargo y a temas sanitarios y/o al ámbito de desempeño. Será condición excluyente acreditar su realización y el cumplimiento de los requisitos de evaluación y/o aprobación que correspondieren. En los casos que la beca o la pasantía implicaran la obtención de un título de grado, pos-título o postgrado, se valorará lo que resulte el mayor puntaje.
+**1.2.4. Becas y Pasantías**: El puntaje a otorgar máximo a otorgar en este ítem será 3 puntos. Se considerarán las becas otorgadas y las pasantías realizadas por ante instituciones públicas y/o privadas vinculadas al cargo y a temas sanitarios y/o al ámbito de desempeño. Será condición excluyente acreditar su realización y el cumplimiento de los requisitos de evaluación y/o aprobación que correspondieren. En los casos que la beca o la pasantía implicaran la obtención de un título de grado, pos-título o postgrado, se valorará lo que resulte el mayor puntaje.
 
 **1.2.4.1 - Becas:**
 
@@ -505,8 +502,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 | b | Superior a seis meses (6) meses            | 1    |
 | c | Menor a seis (6) meses y mayor que dos (2) | 0.50 |
 
-**1.2.5. Publicaciones e Investigación:** El puntaje a otorgar máximo a otorgar en este ítem será 3 puntos. Se considerarán las publicaciones y los trabajos de investigación relacionados con temas sanitarios en general o con los contenidos específicos del cargo, debiéndose acompañar copia autenticada de los mismos. No se tendrán en cuenta los trabajos de investigación que respondan a exigencias para la obtención de títulos, aprobación de cursos o los inherentes a la cátedra en el caso de ser docente.\
-
+**1.2.5. Publicaciones e Investigación:** El puntaje a otorgar máximo a otorgar en este ítem será 3 puntos. Se considerarán las publicaciones y los trabajos de investigación relacionados con temas sanitarios en general o con los contenidos específicos del cargo, debiéndose acompañar copia autenticada de los mismos. No se tendrán en cuenta los trabajos de investigación que respondan a exigencias para la obtención de títulos, aprobación de cursos o los inherentes a la cátedra en el caso de ser docente.\\
 
 **1.2.5.1 - Publicaciones:**
 
@@ -521,7 +517,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
 | b | Trabajo de investigación con aprobación del informe final de la investigación                                                                                | 1,5 |
 
-****
+***
 
 **2. ANTECEDENTES LABORALES**
 

@@ -4,9 +4,9 @@ description: Sancionado 25 de Enero de 1999
 
 # DECRETO Nº 06/99 | Modificación de Categorías
 
-__[_Acceso al texto tal como está publicado en el Sistema de Información Normativa de la Provincia de Santa Fe_](https://drive.google.com/file/d/1M3udnjAgcyuQ9ROQXuf4Pjd3ieLaonZB/view?usp=sharing)__
+[_**Acceso al texto tal como está publicado en el Sistema de Información Normativa de la Provincia de Santa Fe**_](https://drive.google.com/file/d/1M3udnjAgcyuQ9ROQXuf4Pjd3ieLaonZB/view?usp=sharing)
 
-****
+***
 
 **VISTO:**
 
@@ -32,36 +32,30 @@ Que los parámetros para realizar tal tarea se fundamentan en los aspectos altam
 
 Que este acto se encuadra en las facultades conferidas al Poder Ejecutivo, por la Ley 10793, la Ley de Contabilidad y la Ley Nº 10052;
 
-**POR ELLO:**
+**POR ELLO, EL GOBERNADOR DE LA PROVINCIA DECRETA**
 
-**EL GOBERNADOR DE LA PROVINCIA**
+**ARTICULO 1º**. Dispónese a partir del 01-01-99 una modificación en la estructura escalafonaria del Personal comprendido en el Decreto Acuerdo 2695/83, agrupando las actuales categorías 1 a 18 de la siguiente manera: 1-11 "1”, 12-15 “2” y 16-18 “3”. Manteniendo su identidad las restantes vigentes (19 “4”, 20 “5”, 21 ”6", 22 ”7”, 23 ”8” y 24 ”9”).
 
-**DECRETA**
+**ARTICULO 2º**. Dispónese a partir del 01-01-99 el pago a favor del personal Decreto Acuerdo Nº 2695/83, de una nueva asignación especial no remunerativa no bonificable de Emergencia de $ 50.- (Pesos cincuenta) mensuales con excepción de lo señalado en el Art. 7º.
 
-ARTICULO 1º. Dispónese a partir del 01-01-99 una modificación en la estructura escalafonaria del Personal comprendido en el Decreto Acuerdo 2695/83, agrupando las actuales categorías 1 a 18 de la siguiente manera: 1-11 "1”, 12-15 “2” y 16-18 “3”. Manteniendo su identidad las restantes vigentes (19 “4”, 20 “5”, 21 ”6", 22 ”7”, 23 ”8” y 24 ”9”).
+**ARTICULO 3º**. Lo estipulado por el artículo precedente no constituye base de cálculo para ningún adicional, suplemento y/o compensación vigente o a crearse.
 
-ARTICULO 2º. Dispónese a partir del 01-01-99 el pago a favor del personal Decreto Acuerdo Nº 2695/83, de una nueva asignación especial no remunerativa no bonificable de Emergencia de $ 50.- (Pesos cincuenta) mensuales con excepción de lo señalado en el Art. 7º.
+**ARTICULO 4º**. Para determinar el cálculo de suplementos mencionados en el Decreto Acuerdo 2695/83, que tomen como base una categoría del mencionado escalafón, la misma será adecuada a la nueva denominación de acuerdo a lo establecido en el art. 1º del presente Decreto.
 
-ARTICULO 3º. Lo estipulado por el artículo precedente no constituye base de cálculo para ningún adicional, suplemento y/o compensación vigente o a crearse.
+**ARTICULO 5º**. Al Personal No Permanente comprendido en lo dispuesto en el art. 7º de la Ley 8525 le será de aplicación lo establecido en los art. 1º y 2º del presente Decreto.
 
-ARTICULO 4º. Para determinar el cálculo de suplementos mencionados en el Decreto Acuerdo 2695/83, que tomen como base una categoría del mencionado escalafón, la misma será adecuada a la nueva denominación de acuerdo a lo establecido en el art. 1º del presente Decreto.
+**ARTICULO 6º**. El adicional por permanencia en la categoría de acuerdo a lo estipulado en el Decreto-Acuerdo 2695/83, deberá dejar de percibirse en los casos en que la categoría se vea promovida por lo establecido en el art. 1º del presente, excepto aquella en que no se modifique la asignación de la categoría.
 
-ARTICULO 5º. Al Personal No Permanente comprendido en lo dispuesto en el art. 7º de la Ley 8525 le será de aplicación lo establecido en los art. 1º y 2º del presente Decreto.
+**ARTICULO 7º**. La asignación especial no remunerativa dispuesta en el art. 2º del presente Decreto no será de aplicación para el personal comprendido en las Leyes Nº 10.694 (Registro Civil y Registro General), y Ley Nº 10.373 (Personal Superior, Administrativo, Técnico y Profesional de Fiscalía de Estado), y al personal que percibe el suplemento por Control Externo según lo estipulado en el artículo 80-9no. del Escalafón establecido en Decreto-Acuerdo 2695/83, como así también al personal que revista como temporario dentro del agrupamiento no docente (reemplazante) y al Personal Reemplazante del Ministerio de Salud y Medio Ambiente y de la Secretaría de Estado de Promoción Comunitaria (Ex Emergencias).
 
-ARTICULO 6º. El adicional por permanencia en la categoría de acuerdo a lo estipulado en el Decreto-Acuerdo 2695/83, deberá dejar de percibirse en los casos en que la categoría se vea promovida por lo establecido en el art. 1º del presente, excepto aquella en que no se modifique la asignación de la categoría.
+**ARTICULO 8º**. Encomendar a la comisión creada por Decreto 0459/96 la elaboración de las propuestas de las modificaciones que deberán efectuarse en aquellos artículos del Decreto-Acuerdo 2695/83 que resultan alcanzados por lo dispuesto en el presente Decreto.
 
-ARTICULO 7º. La asignación especial no remunerativa dispuesta en el art. 2º del presente Decreto no será de aplicación para el personal comprendido en las Leyes Nº 10.694 (Registro Civil y Registro General), y Ley Nº 10.373 (Personal Superior, Administrativo, Técnico y Profesional de Fiscalía de Estado), y al personal que percibe el suplemento por Control Externo según lo estipulado en el artículo 80-9no. del Escalafón establecido en Decreto-Acuerdo 2695/83, como así también al personal que revista como temporario dentro del agrupamiento no docente (reemplazante) y al Personal Reemplazante del Ministerio de Salud y Medio Ambiente y de la Secretaría de Estado de Promoción Comunitaria (Ex Emergencias).
+**ARTICULO 9º**. El gasto que demande el presente será atendido con saldo afectable en el Presupuesto de la Administración Pública Provincial.
 
-ARTICULO 8º. Encomendar a la comisión creada por Decreto 0459/96 la elaboración de las propuestas de las modificaciones que deberán efectuarse en aquellos artículos del Decreto-Acuerdo 2695/83 que resultan alcanzados por lo dispuesto en el presente Decreto.
+**ARTICULO 10º**. Las distintas Jurisdicciones, Organismos Descentralizados y Autárquicos elaborarán mediante pedido de contabilización, las modificaciones presupuestarias pertinentes, por aplicación de las disposiciones del presente Decreto, debiendo remitirlas al Ministerio de Hacienda y Finanzas, en un plazo no mayor de veinte (20) días.
 
-ARTICULO 9º. El gasto que demande el presente será atendido con saldo afectable en el Presupuesto de la Administración Pública Provincial.
+**ARTICULO 11º**. Autorízase, hasta tanto se dispongan las modificaciones presupuestarias necesarias para atender el beneficio previsto en el presente Decreto, a imputar el gasto resultante en las respectivas partidas específicas del Presupuesto vigente, o en caso de no contar con crédito suficiente, con cargo al saldo disponible en cualquier partida de dicho Presupuesto.
 
-ARTICULO 10º. Las distintas Jurisdicciones, Organismos Descentralizados y Autárquicos elaborarán mediante pedido de contabilización, las modificaciones presupuestarias pertinentes, por aplicación de las disposiciones del presente Decreto, debiendo remitirlas al Ministerio de Hacienda y Finanzas, en un plazo no mayor de veinte (20) días.
+**ARTICULO 12º**. Refréndese por los señores Ministros de las carteras de GOBIERNO, JUSTICIA Y CULTO y de HACIENDA y FINANZAS.
 
-ARTICULO 11º. Autorízase, hasta tanto se dispongan las modificaciones presupuestarias necesarias para atender el beneficio previsto en el presente Decreto, a imputar el gasto resultante en las respectivas partidas específicas del Presupuesto vigente, o en caso de no contar con crédito suficiente, con cargo al saldo disponible en cualquier partida de dicho Presupuesto.
-
-ARTICULO 12º. Refréndese por los señores Ministros de las carteras de
-
-GOBIERNO, JUSTICIA Y CULTO y de HACIENDA y FINANZAS.
-
-ARTICULO 13º. Regístrese, comuníquese y archívese.
+**ARTICULO 13º**. Regístrese, comuníquese y archívese.

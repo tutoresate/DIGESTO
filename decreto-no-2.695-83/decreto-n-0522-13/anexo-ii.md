@@ -446,8 +446,6 @@ ARTÍCULO 50º: Normas de Aplicación.
 
 Serán aplicables al personal suplente comprendido en este régimen, las disposiciones de las Leyes Nros. 8525 y el Decreto-Acuerdo N° 2695/83 o las que las sustituyan en el futuro, en la medida en que resulten compatibles con la naturaleza jurídica de su vinculación temporal con la Administración Pública Provincial.-
 
-
-
 ### ANEXO A - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESO DEL AGRUPAMIENTO HOSPITALARIO ASISTENCIAL -
 
 EXCEPTO PERSONAL DE SERVICIOS ASISTENCIALES DE ESTABLECIMIENTOS ASISTENCIALES PERTENECIENTES AL MINISTERIO DE DESARROLLO SOCIAL
@@ -456,7 +454,7 @@ EXCEPTO PERSONAL DE SERVICIOS ASISTENCIALES DE ESTABLECIMIENTOS ASISTENCIALES PE
 
 ![](<../../.gitbook/assets/Anexo ii - Anexo A - Guía de valoración de antecedentes (1).png>)
 
-****
+***
 
 **1. Estudios y Capacitación**
 
@@ -468,24 +466,21 @@ Los Estudiantes deberán tener aprobado más del 50 % del plan de estudios respe
 
 **1.2. Capacitación Específica:** Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 17 puntos, divididos de la siguiente manera:
 
-**1.2.1. Cursos: **El puntaje máximo a obtener en este ítem es de 12 puntos. La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada. Cuando dichas certificaciones no registren la carga horaria de la actividad desarrollada, se estimará que la misma fue de 4 horas por cada día de duración.
+**1.2.1. Cursos**: El puntaje máximo a obtener en este ítem es de 12 puntos. La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada. Cuando dichas certificaciones no registren la carga horaria de la actividad desarrollada, se estimará que la misma fue de 4 horas por cada día de duración.
 
 La sumatoria de los cursos que tuvieran una carga horaria menor a las 40 horas, no podrá ser mayor a 6 puntos.
 
-Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\
+Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:
 
-
-| **Títulación**  | Puntaje |
-| --------------- | ------- |
-| Doctorado       | 4       |
-| Maestría        | 3       |
-| Especialización | 2       |
+| **Títulación**  | **Puntaje** |
+| --------------- | ----------- |
+| Doctorado       | 4           |
+| Maestría        | 3           |
+| Especialización | 2           |
 
 **1.2.2. Jornadas, Seminarios, Congresos:** El puntaje máximo a obtener en este ítem es de 5 puntos.
 
 La valoración de los mismos consistirá en otorgar 0.1 puntos por día de actividad, a cada certificación presentada.
-
-
 
 **2- Antecedentes Laborales**
 
@@ -513,8 +508,7 @@ El puntaje máximo a computar por el desempeño laboral será de 50 puntos.
 
 Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 días corridos o la suma de 22 días hábiles con una carga horaria diaria de por lo menos 4 horas.
 
-**2.2. Docencia e Investigación: **Se valorarán los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 3 puntos.\
-
+**2.2. Docencia e Investigación**: Se valorarán los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 3 puntos.\\
 
 | Antecedente                                                                                                       | Puntaje |
 | ----------------------------------------------------------------------------------------------------------------- | ------- |
@@ -524,11 +518,7 @@ Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 dí
 | Panelista, expositor en Seminarios o Congresos, dictado de cursos (0,25 puntos por cada certificación presentada) | 1       |
 | Publicaciones o trabajos de investigación (0,25 puntos por cada certificación presentada)                         | 1       |
 
-
-
 ### ANEXO B - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESOS DEL AGRUPAMIENTO PROFESIONAL DE ESTABLECIMIENTOS ASISTENCIALES PERTENECIENTES AL MINISTERIO DE DESARROLLO SOCIAL
-
-
 
 **GUÍA DE VALORACIÓN DE ANTECEDENTES**
 
@@ -543,14 +533,13 @@ Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 dí
 \
 **1.2. Capacitación Específica:** Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 20 puntos, divididos de la siguiente manera:
 
-**1.2.1. Cursos: **El puntaje máximo a obtener en este ítem es de 15 puntos. La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada.
+**1.2.1. Cursos**: El puntaje máximo a obtener en este ítem es de 15 puntos. La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada.
 
 Cuando dichas certificaciones no registren la carga horaria de la actividad desarrollada, se estimará que la misma fue de 4 horas por cada día de duración.
 
 La sumatoria de los cursos que tuvieran una carga horaria menor a las 40 horas, no podrá ser mayor a 6 puntos.
 
-Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\
-
+Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:
 
 | **Titulación**  | Afín |
 | --------------- | ---- |
@@ -562,13 +551,11 @@ Se valorará en este ítem los cursos de posgrado conforme la carga horaria acre
 
 La valoración de los mismos consistirá en otorgar 0.1 puntos por día de actividad, a cada certificación presentada.
 
-
-
 **2. Antecedentes Laborales**
 
 **2.1. Desempeño laboral:**
 
-•_ Desempeño de funciones iguales o similares a las del cargo aspirado:_
+• _Desempeño de funciones iguales o similares a las del cargo aspirado_:
 
 2,50 puntos por mes para el ámbito público
 
@@ -591,7 +578,6 @@ El puntaje máximo a computar por el desempeño laboral será de 50 puntos.
 Se considerará mes de trabajo al realizado ininterrumpidamente durante 30 días corridos o la suma de 22 días hábiles con una carga horaria de por lo menos 4 horas.
 
 **2.2. Docencia e Investigación:** Se valorarán los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 5 puntos.\
-\
 
 
 | Antecedente                                                                                                      | Puntaje |
@@ -602,13 +588,9 @@ Se considerará mes de trabajo al realizado ininterrumpidamente durante 30 días
 | Panelista, expositor o Seminarios o Congresos, dictado de cursos (0,25 puntos por cada certificación presentada) | 1,5     |
 | Publicaciones o trabajos de investigación (0.25 puntos por cada certificación presentada)                        | 1,5     |
 
-
-
 ### ANEXO C - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESOS DEL AGRUPAMIENTO ADMINISTRATIVO DE ESTABLECIMIENTOS ASISTENCIALES PERTENECIENTES AL MINISTERIO DE DESARROLLO SOCIAL
 
 ![](<../../.gitbook/assets/Anexo ii - Anexo C - Guía de valoración de antecedentes.png>)
-
-
 
 **1. Estudios y Capacitación**
 
@@ -620,7 +602,7 @@ Los Estudiantes deberán tener aprobado más del 50 % del plan de estudios respe
 
 **1.2. Capacitación Específica:** Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 20 puntos, divididos de la siguiente manera:
 
-**1.2.1. Cursos: **El puntaje máximo a obtener en este ítem es de 18 puntos.
+1.2.1. Cursos: El puntaje máximo a obtener en este ítem es de 18 puntos.
 
 La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada.
 
@@ -628,8 +610,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 
 La sumatoria de los cursos que tuvieran una carga horaria menor a las 40 horas, no podrá ser mayor a 6 puntos.
 
-Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\
-
+Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\\
 
 | Antecedente     | Puntaje |
 | --------------- | ------- |
@@ -640,8 +621,6 @@ Se valorará en este ítem los cursos de posgrado conforme la carga horaria acre
 **1.2.2. Jornadas, Seminarios, Congresos:** El puntaje máximo a obtener en este ítem es de 5 puntos.
 
 La valoración de los mismos consistirá en otorgan 0.1 puntos por día de actividad, a cada certificación presentada.
-
-
 
 **2. Antecedentes laborales**
 
@@ -669,8 +648,7 @@ El puntaje máximo a computar por el desempeño laboral será de 50 puntos.
 
 Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 días corridos o la suma de 22 días hábiles con una carga horaria diaria de por lo menos 4 horas.
 
-**2.2. Docencia e Investigación: **Se valoraran los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 2 puntos.\
-
+**2.2. Docencia e Investigación**: Se valoraran los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 2 puntos.
 
 | Antecedente                                                                                                       | Puntaje |
 | ----------------------------------------------------------------------------------------------------------------- | ------- |
@@ -680,11 +658,9 @@ Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 dí
 | Panelista, expositor en Seminarios o Congresos, dictado de cursos (0,25 puntos por cada certificación presentada) | 1       |
 | Publicaciones                                                                                                     | 1       |
 
-
-
 ### ANEXO D - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESOS DEL AGRUPAMIENTO SERVICIOS GENERALES Y AL PERSONAL DE SERVICIOS ASISTENCIALES DEL SUBAGRUPAMIENTO ASISTENCIAL DE ESTABLECIMIENTOS ASISTENCIALES PERTENECIENTES AL MINISTERIO DE DESARROLLO SOCIAL
 
-****
+***
 
 **GUÍA DE VALORACIÓN DE ANTECEDENTES**
 
@@ -698,7 +674,7 @@ Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 dí
 
 Los Estudiantes deberán tener aprobado más del 50 % del plan de estudios respectivo a los fines de obtener el puntaje establecido precedentemente.
 
-**1.2. Capacitación Específica: **Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 20 puntos, divididos de la siguiente manera:
+**1.2. Capacitación Específica**: Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 20 puntos, divididos de la siguiente manera:
 
 **1.2.1. Cursos:** El puntaje máximo a obtener en este ítem es de 15 puntos.
 
@@ -708,8 +684,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 
 La sumatoria de los cursos que tuvieran una carga horaria menor a las 40 horas, no podrá ser mayor a 6 puntos.
 
-Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\
-
+Se valorará en este ítem los cursos de posgrado conforme la carga horaria acreditada, asignándose a los títulos que se detallan a continuación el siguiente puntaje:\\
 
 | Título          | Puntaje |
 | --------------- | ------- |
@@ -717,11 +692,9 @@ Se valorará en este ítem los cursos de posgrado conforme la carga horaria acre
 | Maestría        | 3       |
 | Especialización | 2       |
 
-**1.2.2 Jornadas, seminarios, congresos: **el puntaje máximo a obtener en este ítem es de 5 puntos.
+**1.2.2 Jornadas, seminarios, congresos**: el puntaje máximo a obtener en este ítem es de 5 puntos.
 
 La valoración de los mismos consistirá en otorgar 0.1 puntos por día de actividad, a cada certificación presentada.
-
-
 
 **2. Antecedentes laborales:**
 
@@ -751,8 +724,7 @@ Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 dí
 
 **2.2. Docencia e Investigación:** Se valoraran los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones.
 
-El puntaje máximo a otorgar en este ítem es de 2 puntos.\
-
+El puntaje máximo a otorgar en este ítem es de 2 puntos.\\
 
 | Antecedente                                                                                                      | Puntaje |
 | ---------------------------------------------------------------------------------------------------------------- | ------- |
@@ -761,8 +733,6 @@ El puntaje máximo a otorgar en este ítem es de 2 puntos.\
 | Profesor terciario o secundario                                                                                  | 1       |
 | Panelista, expositor o Seminarios o Congresos, dictado de cursos (0.25 puntos por cada certificación presentada) | 1       |
 | Publicaciones o trabajos de investigación (0.25 puntos por cada certificación presentada)                        | 1       |
-
-
 
 ### ANEXO E - VALORACIÓN DE ANTECEDENTES DE ASPIRANTES A SUPLENCIAS E INGRESO DEL AGRUPAMIENTO MANTENIMIENTO y PRODUCCIÓN DE ESTABLECIMIENTOS ASISTENCIALES PERTENECIENTES AL MINISTERIOS DE DESARROLLO SOCIAL
 
@@ -782,7 +752,7 @@ Los Estudiantes deberán tener aprobado más del 50 % del plan de estudios respe
 
 **1.2. Capacitación Específica:** Sólo se valorará la asistencia a Cursos, Jornadas, Seminarios, Congresos relacionados en forma específica con el desempeño del cargo, hasta un total de 20 puntos, divididos de la siguiente manera:
 
-**1.2.1. Cursos: **El puntaje máximo a obtener en este ítem es de 15 puntos.
+**1.2.1. Cursos**: El puntaje máximo a obtener en este ítem es de 15 puntos.
 
 La valoración de los mismos consistirá en otorgar 0.02 puntos por cada hora de actividad, a cada certificación presentada.
 
@@ -798,11 +768,9 @@ Se valorará en este ítem los cursos de posgrado conforme la carga horaria acre
 | Maestría        | 3       |
 | Especialización | 2       |
 
-**1.2.2. Jornadas, Seminarios, Congresos:** El puntaje máximo a obtener en este es de 5 puntos.&#x20;
+**1.2.2. Jornadas, Seminarios, Congresos:** El puntaje máximo a obtener en este es de 5 puntos.
 
 La valoración de los mismos consistirá en otorgan 0.1 puntos por día de actividad, a cada certificación presentada
-
-
 
 **2. Antecedentes Laborales**
 
@@ -826,11 +794,11 @@ La valoración de los mismos consistirá en otorgan 0.1 puntos por día de activ
 
 0,60 puntos por mes para el ámbito privado
 
-El puntaje máximo a computar por el desempeño laboral será de 55 puntos**.**
+El puntaje máximo a computar por el desempeño laboral será de 55 puntos\*\*.\*\*
 
 Se considerará "mes de trabajo" al realizado ininterrumpidamente durante 30 días corridos o la suma de 22 días hábiles con una carga horaria diaria de por lo menos 4 horas.
 
-**2.2. Docencia e Investigación: **Se valoraran los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente unlversitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 2 puntos.&#x20;
+**2.2. Docencia e Investigación**: Se valoraran los antecedentes afines al desempeño de las funciones de los cargos que se postulan, relativos a experiencia docente universitaria, terciaria y secundaria, dictado de cursos, participación como panelista o expositor en Seminarios, Jornadas, Congresos, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 2 puntos.
 
 | Antecedente                                                                                                       | Puntaje |
 | ----------------------------------------------------------------------------------------------------------------- | ------- |

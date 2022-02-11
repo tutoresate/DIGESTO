@@ -4,7 +4,7 @@ description: Sancionado el 23 de marzo de 2011
 
 # DECRETO Nº 516/10 | Agrupamiento Asistentes Escolares
 
-__[_Acceso al texto tal como está publicado en el Sistema de Información Normativa de la Provincia de Santa Fe_](https://drive.google.com/file/d/1fArGIY-8CsxFKNE203IZL0vMcqR-vbbj/view?usp=sharing)__
+[_**Acceso al texto tal como está publicado en el Sistema de Información Normativa de la Provincia de Santa Fe**_](https://drive.google.com/file/d/1fArGIY-8CsxFKNE203IZL0vMcqR-vbbj/view?usp=sharing)
 
 ## ANEXO I - AGRUPAMIENTO ASISTENTES ESCOLARES
 
@@ -43,7 +43,7 @@ Dicho ingreso será siempre por el tramo de ejecución, categoría 1, salvo ante
 
 ARTÍCULO 6.-
 
-Sólo podrán ingresar a la planta permanente del presente agrupamiento, los aspirantes que estuvieran incluidos en el Escalafón General para Ingresos por localidad, que se instituye en el artículo 13 del presente y los que lo hagan por concurso según las pautas establecidas en el Decreto 2695/83.&#x20;
+Sólo podrán ingresar a la planta permanente del presente agrupamiento, los aspirantes que estuvieran incluidos en el Escalafón General para Ingresos por localidad, que se instituye en el artículo 13 del presente y los que lo hagan por concurso según las pautas establecidas en el Decreto 2695/83.
 
 ### **INGRESO Y PROMOCIÓN**
 
@@ -67,7 +67,7 @@ El pase al Tramo de Supervisión se hará por concurso, de acuerdo a lo establec
 
 ARTÍCULO 9.-
 
-El pase al Tramo Superior se hará por concurso, de acuerdo a lo establecido por el Decreto Nº 2695/83, siendo requisitos indispensables: existencia de cargo vacante en la categoría respectivo, haber aprobado el ciclo de educación secundaria y la capacitación específica que reglamentariamente se establezca y reunir las condiciones generales y específicas que para cada función se establezcan en la convocatoria a concurso. Comprende el cargo de Intendente.&#x20;
+El pase al Tramo Superior se hará por concurso, de acuerdo a lo establecido por el Decreto Nº 2695/83, siendo requisitos indispensables: existencia de cargo vacante en la categoría respectivo, haber aprobado el ciclo de educación secundaria y la capacitación específica que reglamentariamente se establezca y reunir las condiciones generales y específicas que para cada función se establezcan en la convocatoria a concurso. Comprende el cargo de Intendente.
 
 ### **DE LAS FUNCIONES**
 
@@ -107,7 +107,7 @@ PORTERO:
 * Mantener y cuidar el material, mobiliario e instalaciones del establecimiento siempre que no impliquen un claro riesgo personal o exijan una especialización.
 * Preparar y atender el servicio alimentario de copa de leche en los establecimientos que no cuenten con comedor escolar y colaborar en la atención de aquellos que lo posean.
 * Controlar la entrada de personas ajenas al establecimiento, y en su caso, acompañar a estas a las dependencias o ante las personas que soliciten.
-* Comunicar a la Dirección inmediatamente de ser observadas cuantas anomalías o averías se produzcan en dependencias, mobiliarios e instalaciones.&#x20;
+* Comunicar a la Dirección inmediatamente de ser observadas cuantas anomalías o averías se produzcan en dependencias, mobiliarios e instalaciones.
 * Trasladar el material y/o mobiliario que fuese necesario dentro de las dependencias, siempre que éste no suponga un esfuerzo excesivo y sea acorde con sus condiciones físicas.
 * Custodiar -durante el horario de trabajo- el edificio, mobiliario, instalaciones y anexos, así como los elementos ornamentales y decorativos.
 * Realizar las diligencias y comisiones de mensajería y atender los recaudos que se le encomienden para el servicio exclusivo de la escuela.
@@ -150,7 +150,7 @@ En aquellos establecimientos donde la magnitud de las tareas administrativas req
 ECÓNOMO:
 
 * Supervisar las actividades que se realizan en el ámbito de la Cocina – Comedor escolar, siendo su directo responsable ante la dirección del establecimiento.
-* Programar la adquisición de comestibles y controlar la calidad y cantidad.&#x20;
+* Programar la adquisición de comestibles y controlar la calidad y cantidad.
 * Programar la preparación de raciones de acuerdo con los menús y variantes establecidas y vigilar su correcta preparación e higiene.
 * Establecer las normas necesarias para la atención esmerada de los comensales.
 * Programar las actividades que se consideran necesarias para el registro de asistencia.
@@ -180,7 +180,7 @@ MAYORDOMO:
 * Organizar y supervisar el servicio de mensajería.
 * Ocuparse del cuidado de los espacios verdes y ejecutar tareas de mantenimiento y reparaciones menores del edificio, dando aviso al superior inmediato de cualquier novedad observada.
 * Supervisar la asistencia del personal de servicio tomando la previsión de cubrir las posibles ausencias de acuerdo con lo que establezca la reglamentación.
-* Hacer cumplir las normas de Higiene y Seguridad del personal a su cargo y de su unidad de organización.&#x20;
+* Hacer cumplir las normas de Higiene y Seguridad del personal a su cargo y de su unidad de organización.
 
 INTENDENTE:
 
@@ -219,7 +219,7 @@ Serán requisitos para revistar como personal reemplazante o permanente en estad
 3. Presentar certificado de buena conducta.
 4. Presentar certificado de aptitud Psicofísica expedido por organismo competente.
 
-Estos requisitos deberán ser acreditados con la documentación pertinente. La misma será reservada por el organismo calificador pertinente.&#x20;
+Estos requisitos deberán ser acreditados con la documentación pertinente. La misma será reservada por el organismo calificador pertinente.
 
 ### **DE LA COBERTURA TRANSITORIA DE FUNCIONES**
 
@@ -291,7 +291,9 @@ La Dirección del establecimiento deberá solicitar a la Junta una nueva apertur
 
 Los representantes gremiales, deberán estar presentes en la apertura de los sobres que contengan las evaluaciones técnicas a realizar, durante el desarrollo de la evaluación precitada, y visarán el material que entreguen los postulantes para la misma.
 
-__[_Decreto N°495/11, Artículo 8_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)_: Establézcase que todo agente titular de un cargo en la Administración Pública Provincial, no podrá integrar los escalafones de suplencia por establecimiento y de ingreso por localidad previstos por en el referido Anexo I del Decreto Nº 516/10._
+{% hint style="info" %}
+[_**Decreto N°495/11, Artículo 8**_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)_: Establézcase que todo agente titular de un cargo en la Administración Pública Provincial, no podrá integrar los escalafones de suplencia por establecimiento y de ingreso por localidad previstos por en el referido Anexo I del Decreto Nº 516/10._
+{% endhint %}
 
 ARTÍCULO 19.-
 
@@ -318,7 +320,7 @@ Son funciones de la Junta de Escalafonamiento:
 3. Elaborar el escalafón de suplencia por establecimiento y de ingreso por localidad según pautas del artículo 17.
 4. Resolver las impugnaciones presentadas.
 5. Disponer las nuevas aperturas del registro de aspirantes indicadas en el Artículo 19 último párrafo.
-6. Archivar las carpetas de antecedentes de los aspirantes.&#x20;
+6. Archivar las carpetas de antecedentes de los aspirantes.
 
 ### **DE LOS ESCALAFONES**
 
@@ -338,7 +340,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![](<../.gitbook/assets/Valor relativo de las etapas evaluatorias.png>)
 
-****
+***
 
 **GUÍA DE ANTECEDENTES PARA CARGOS DEL TRAMO EJECUCIÓN**
 
@@ -348,7 +350,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![Puntaje otorgado a competencias técnicas propias de la función a desempeñar.](<../.gitbook/assets/Guía de evaluación para cargos del tramo ejecución. Técnica.png>)
 
-****
+***
 
 **GUÍA DE ANTECEDENTES PARA CARGOS DE LOS TRAMOS SUPERVISIÓN Y SUPERIOR**
 
@@ -394,7 +396,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![](<../.gitbook/assets/Auxiliar admin - Valor relativo etapas eva.png>)
 
-****
+***
 
 **GUÍA DE EVALUACIÓN PARA AUXILIARES ADMINISTRATIVOS**
 
@@ -410,9 +412,11 @@ El período de impugnaciones será de cinco (5) días hábiles, posteriores al d
 
 Con los postulantes de los escalafones definitivos de reemplazos, que hubieran obtenido un mínimo de 65 puntos, la Junta confeccionará el Escalafón de Ingreso por Localidad, para la cobertura de cargos vacantes en cada función.
 
-_****_[_**Decreto N° 495/11, Artículo 9°:**_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)_ Determínase que en las guías de evaluación de antecedentes contenidas en el artículo 22 del Anexo I del Decreto 516/10, la valoración en el ítem 2. Antecedentes laborales, 2.1 Antigüedad en el Ámbito Escolar, refiere exclusivamente a funciones correspondiente a cualquiera comprendida en el Escalafón Decreto Acuerdo N° 2695/83. _
+{% hint style="info" %}
+[_**Decreto N° 495/11, Artículo 9°:**_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing) _**** Determínase que en las guías de evaluación de antecedentes contenidas en el artículo 22 del Anexo I del Decreto 516/10, la valoración en el ítem 2. Antecedentes laborales, 2.1 Antigüedad en el Ámbito Escolar, refiere exclusivamente a funciones correspondiente a cualquiera comprendida en el Escalafón Decreto Acuerdo N° 2695/83._
+{% endhint %}
 
-Artículo 22 modificado por [Decreto N°495/11 ](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)
+Artículo 22 modificado por [Decreto N°495/11](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)
 
 ARTÍCULO 23.-
 
@@ -456,25 +460,25 @@ Los Escalafones Generales de Ingreso por Localidad tendrán vigencia hasta la en
 
 ARTÍCULO 27.-
 
-La Dirección del establecimiento será responsable del llamado a suplencia y de la aplicación de los escalafones, los que deberán estar exhibidos en lugar visible del establecimiento.&#x20;
+La Dirección del establecimiento será responsable del llamado a suplencia y de la aplicación de los escalafones, los que deberán estar exhibidos en lugar visible del establecimiento.
 
-El aspirante que acepte una suplencia deberá presentar Declaración Jurada de Cargos y certificado de aptitud psicofísica extendido por médico o constancia de haberse presentado ante el organismo competente.&#x20;
+El aspirante que acepte una suplencia deberá presentar Declaración Jurada de Cargos y certificado de aptitud psicofísica extendido por médico o constancia de haberse presentado ante el organismo competente.
 
-El aspirante que posea otros cargos, previo a tomar posesión de la suplencia deberá adecuar su situación a los límites de la Ley 10.469. La Dirección otorgará un plazo de 24 hs. desde el ofrecimiento para que realice tal adecuación, y en caso de no realizarla podrá denegar la suplencia y continuar con el orden de méritos.&#x20;
+El aspirante que posea otros cargos, previo a tomar posesión de la suplencia deberá adecuar su situación a los límites de la Ley 10.469. La Dirección otorgará un plazo de 24 hs. desde el ofrecimiento para que realice tal adecuación, y en caso de no realizarla podrá denegar la suplencia y continuar con el orden de méritos.
 
-En caso de presentarse continuidad en la ausencia, tanto por la renovación y/o cambio de artículo de licencias, sin que ocurra el reintegro del ausente, la dirección del establecimiento, dará continuidad al actual reemplazante. En caso que un agente escalafonado tome conocimiento del otorgamiento de una suplencia a un aspirante de orden posterior a él, y esté en condiciones de hacerse cargo y así lo desee, le asiste el derecho a reclamar ante la dirección del establecimiento. La dirección deberá proceder a otorgar la suplencia solicitada, al día siguiente de la presentación, poniendo en conocimiento de esta situación al reemplazante que se venía desempeñando. De no tener respuesta, el reclamante deberá gestionar con la Junta de Escalafonamiento a los efectos de que esta inste a la Dirección del establecimiento al cumplimiento del orden escalafonario.&#x20;
+En caso de presentarse continuidad en la ausencia, tanto por la renovación y/o cambio de artículo de licencias, sin que ocurra el reintegro del ausente, la dirección del establecimiento, dará continuidad al actual reemplazante. En caso que un agente escalafonado tome conocimiento del otorgamiento de una suplencia a un aspirante de orden posterior a él, y esté en condiciones de hacerse cargo y así lo desee, le asiste el derecho a reclamar ante la dirección del establecimiento. La dirección deberá proceder a otorgar la suplencia solicitada, al día siguiente de la presentación, poniendo en conocimiento de esta situación al reemplazante que se venía desempeñando. De no tener respuesta, el reclamante deberá gestionar con la Junta de Escalafonamiento a los efectos de que esta inste a la Dirección del establecimiento al cumplimiento del orden escalafonario.
 
-Ante la imposibilidad de comunicación con el postulante a quien correspondería la suplencia o ante la no aceptación de la misma, se procederá al llamado de quien o quienes siguieran en número de orden, notificando fehacientemente al postulante que tome el reemplazo, que existen otros aspirantes que le preceden que podrán tomar el reemplazo posteriormente, si así lo solicitaran.&#x20;
+Ante la imposibilidad de comunicación con el postulante a quien correspondería la suplencia o ante la no aceptación de la misma, se procederá al llamado de quien o quienes siguieran en número de orden, notificando fehacientemente al postulante que tome el reemplazo, que existen otros aspirantes que le preceden que podrán tomar el reemplazo posteriormente, si así lo solicitaran.
 
-Cada establecimiento deberá llevar un registro que contendrá la siguiente documentación:&#x20;
+Cada establecimiento deberá llevar un registro que contendrá la siguiente documentación:
 
-* Escalafones confeccionados.&#x20;
-* Constancia de los ofrecimientos realizados con la aceptación o rechazo, indicándose el motivo en este último caso.&#x20;
-* Certificado de aptitud psicofísica expedido por Salud Laboral y Declaración Jurada de Cargos de los aspirantes que hubieran aceptado.&#x20;
-* Toda otra documentación relacionada con los llamados a suplencias realizados por la autoridad escolar.&#x20;
-* El agente escalafonado podrá solicitar a la Junta de Escalafonamiento, la información necesaria para verificar el cumplimiento del orden de merito establecido en cada escalafón en los que participe  .
+* Escalafones confeccionados.
+* Constancia de los ofrecimientos realizados con la aceptación o rechazo, indicándose el motivo en este último caso.
+* Certificado de aptitud psicofísica expedido por Salud Laboral y Declaración Jurada de Cargos de los aspirantes que hubieran aceptado.
+* Toda otra documentación relacionada con los llamados a suplencias realizados por la autoridad escolar.
+* El agente escalafonado podrá solicitar a la Junta de Escalafonamiento, la información necesaria para verificar el cumplimiento del orden de merito establecido en cada escalafón en los que participe .
 
-Artículo 27 modificado por [Decreto N°495/11 ](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)
+Artículo 27 modificado por [Decreto N°495/11](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)
 
 ### **DE LA ORGANIZACIÓN DE LOS SERVICIOS**
 
@@ -498,13 +502,13 @@ INTENDENTE: Cuando funcionen tres o más establecimientos y/u organismos en un m
 
 Cuando en un edificio escolar funcione más de un establecimiento o institución, se producirá la centralización de los servicios generales y de mantenimiento dependientes de la dirección que tenga bajo su responsabilidad el edificio.
 
-****
+***
 
 ### **PERSONAL EXCEDENTE**
 
 ARTÍCULO 29.-
 
-Cuando por razones de servicio escolar sea necesario reducir las plantas de los establecimientos escolares correspondientes a este agrupamiento, el personal titular será reubicado en establecimientos de la zona, siendo de aplicación los Artículos 22º y 23º de la Ley 8.525.
+Cuando por razones de servicio escolar sea necesario reducir las plantas de los establecimientos escolares correspondientes a este agrupamiento, el personal titular será reubicado en establecimientos de la zona, siendo de aplicación los Artículos 22º y 23º de la [Ley 8.525.](../ley-no-8.525-1979/)
 
 ### **DISPOSICIONES GENERALES**
 
@@ -566,8 +570,6 @@ ARTÍCULO 37.-
 
 Cualquier modificación o situación no prevista que pudiera corresponder a este agrupamiento, deberá ser atendida en el ámbito de la comisión jurisdiccional y elevada, si correspondiera, para su resolución a la paritaria central.
 
-****
-
 ### **SUPLEMENTOS**
 
 ARTÍCULO 38.-
@@ -594,8 +596,6 @@ La ampliación horaria se hará con un mínimo de cinco horas o un máximo de di
 ARTÍCULO 40.-
 
 Establécese para operadores de máquinas agrícolas y choferes de ómnibus de este agrupamiento el suplemento instituido por el artículo 69 del decreto 2695/83 para los operadores de equipos pesados del agrupamiento mantenimiento y producción.
-
-
 
 ## ANEXO II - RÉGIMEN DE CONCURSOS DE ORQUESTA SINFÓNICA
 
@@ -640,8 +640,6 @@ En la difusión se transcribirá el contenido de la resolución que llama a conc
 Articulo 6º - Los postulantes podrán inscribirse personalmente, por correo postal o por correo electrónico, enviando por cualquiera de estos medios lo que se requiera a tal fin.
 
 La lista de inscriptos se publicará en el portal del Gobierno el día hábil posterior al cierre de inscripción.
-
-
 
 **Del Jurado**
 
@@ -718,7 +716,7 @@ Artículo 15º - Los antecedentes tendrán una valoración máxima de 100 puntos
 
 Se valorarán aquellos antecedentes laborales presentados por los postulantes, que dentro o fuera del ámbito de la Administración Pública Provincial, aportaran experiencia efectiva para el desempeño del cargo concursado, hasta un máximo de 100 puntos.
 
-1\. Experiencia y ámbito: Deberá considerarse la experiencia del postulante, considerando la combinación de su desempeño laboral con el ámbito en que ha desarrollado su trabajo, en relación al cargo que se concursa, de acuerdo a la siguiente tabla**:**
+1\. Experiencia y ámbito: Deberá considerarse la experiencia del postulante, considerando la combinación de su desempeño laboral con el ámbito en que ha desarrollado su trabajo, en relación al cargo que se concursa, de acuerdo a la siguiente tabla\*\*:\*\*
 
 |                                                     | EN LA ORQUESTA SINFÓNICA CONVOCANTE | EN LA OTRA ORQUESTA SINFÓNICA PROVINCIAL | EN ORQUESTA DEL ÁMBITO PÚBLICO | EN ORQUESTA DEL ÁMBITO PRIVADO |
 | --------------------------------------------------- | ----------------------------------- | ---------------------------------------- | ------------------------------ | ------------------------------ |
@@ -794,7 +792,7 @@ lgual criterio se aplicará cuando los designados ya fueran agentes de la Admini
 
 En el caso de designaciones de personas ajenas al ámbito de la Administración Provincial, se deberá tomar posesión del cargo dentro de los 20 días de la notificación del nombramiento, caso contrario designación quedará automáticamente sin efecto, salvo causales debidamente certificadas que serán analizadas por la autoridad competente.
 
-Artículo 24º - Los Decretos que dispongan traslados de personal dentro del ámbito de este Escalafón, deberán cumplirse indefectiblemente dentro de los veinte (20) días de su fecha.&#x20;
+Artículo 24º - Los Decretos que dispongan traslados de personal dentro del ámbito de este Escalafón, deberán cumplirse indefectiblemente dentro de los veinte (20) días de su fecha.
 
 Artículo 25º - Hasta los doce (12) meses de formalizada la designación o promoción del personal permanente, las bajas que se produzcan en el cargo concursado o la no presentación del postulante elegido, podrán ser cubiertas sucesivamente por los que sigan en el orden de méritos asignados por el Jurado en los respectivos concursos.
 
