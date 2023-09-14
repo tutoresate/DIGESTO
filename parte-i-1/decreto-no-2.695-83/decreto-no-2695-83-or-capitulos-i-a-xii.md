@@ -708,4 +708,3 @@ Ver el [Anexo C del decreto 4439/15](https://documentos.atesantafe.com.ar/digest
    1. Si el agente mantiene igual categoría, a la del agrupamiento del cual proviene, se computará el tiempo ya acreditado en la misma.
    2. Si el agente cambia de categoría, se computará a partir de la incorporación a la nueva categoría, del nuevo agrupamiento.
 
-****

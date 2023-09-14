@@ -42,7 +42,7 @@ Que la Dirección General de Asuntos Jurídicos de la Secretaría de Estado de I
 
 Que el presente acto se dicta en ejercicio de las atribuciones otorgadas a este Poder Ejecutivo por el artículo 72, incisos 1) y 4) de la Constitución Provincial;
 
-***
+
 
 POR ELLO, EL GOBERNADOR DE LA PROVINCIA
 

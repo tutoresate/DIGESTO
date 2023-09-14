@@ -393,17 +393,7 @@ Decreto N.º [257/2011](https://drive.google.com/file/d/1ZhTTyQe\_4x8zuBzWN\_AEK
 
 **Complemento personal Agrupamiento S.P.I. de la Sectorial de Informática de la Secretaría de Ingresos Públicos** (para el personal perteneciente al Agrupamiento SPI del Escalafón Decreto-Acuerdo N° 2695/83 cuyo listado se adjunta como Anexo I).
 
-| Categoría | 1/4/2017   | 1/7/2017   | 1/10/2017  |
-| --------- | ---------- | ---------- | ---------- |
-| 1         | $ 3.692,00 | $ 4.154,00 | $ 4.462,00 |
-| 2         | $ 3.877,00 | $ 4.362,00 | $ 4.685,00 |
-| 3         | $ 4.068,00 | $ 4.577,00 | $ 4.950,00 |
-| 4         | $ 4.248,00 | $ 4.779,00 | $ 5.165,00 |
-| 5         | $ 4.390,00 | $ 4.939,00 | $ 5.335,00 |
-| 6         | $ 5.109,00 | $ 5.747,00 | $ 6.190,00 |
-| 7         | $ 5.364,00 | $ 6.035,00 | $ 6.482,00 |
-| 8         | $ 5.677,00 | $ 6.387,00 | $ 6.860,00 |
-| 9         | $ 6.000,00 | $ 6.750,00 | $ 7.250,00 |
+<table><thead><tr><th width="150">Categoría</th><th width="150">1/4/2017</th><th width="150">1/7/2017</th><th>1/10/2017</th></tr></thead><tbody><tr><td>1</td><td>$ 3.692,00</td><td>$ 4.154,00</td><td>$ 4.462,00</td></tr><tr><td>2</td><td>$ 3.877,00</td><td>$ 4.362,00</td><td>$ 4.685,00</td></tr><tr><td>3</td><td>$ 4.068,00</td><td>$ 4.577,00</td><td>$ 4.950,00</td></tr><tr><td>4</td><td>$ 4.248,00</td><td>$ 4.779,00</td><td>$ 5.165,00</td></tr><tr><td>5</td><td>$ 4.390,00</td><td>$ 4.939,00</td><td>$ 5.335,00</td></tr><tr><td>6</td><td>$ 5.109,00</td><td>$ 5.747,00</td><td>$ 6.190,00</td></tr><tr><td>7</td><td>$ 5.364,00</td><td>$ 6.035,00</td><td>$ 6.482,00</td></tr><tr><td>8</td><td>$ 5.677,00</td><td>$ 6.387,00</td><td>$ 6.860,00</td></tr><tr><td>9</td><td>$ 6.000,00</td><td>$ 6.750,00</td><td>$ 7.250,00</td></tr></tbody></table>
 
 Este Complemento será compatible con los Suplementos específicos del S.P.I. y no será base de cálculo para ningún Suplemento o Adicional creado o a crearse.
 
@@ -900,11 +890,11 @@ Decreto N.º [0332/07](https://drive.google.com/file/d/15-02C8AKaMxa9KIltjmjdGme
 ARTICULO 15°: Modificar el artículo 81° del Decreto Acuerdo 2695/83, estableciendo una compensación mensual por “Falla de Caja” para el personal con desempeño efectivo de las tareas de cajeros, como titular o afectado circunstancialmente en ausencia de aquél, en el Instituto Autárquico Provincial de Obra Social, cuya cuantía resulte de aplicar la alícuota del dos por ciento (2 %) sobre el importe de la recaudación mensual, en proporción a los días trabajados frente a la caja expendedora, estableciendo como tope mínimo la suma de pesos cincuenta ($ 50.=) y como máximo la de pesos trescientos ($ 300.=), importes que actualmente concuerdan con el cincuenta por ciento (50 %) del billete de curso legal de mayor valor y con el triple del valor mismo respectivamente.
 
 {% hint style="info" %}
-_**Por Decreto N.º** _ [_**4035/2014**_](https://drive.google.com/file/d/1MjBwDVS10\_CxprcEOJtee5hib7MBHgQh/view?usp=sharing) _ **Artículo 11** se incorpora, a partir del 1° de julio de 2014, a la compensación Mensual "Falla de Caja" del artículo 81° del Decreto-Acuerdo N° 2695/83, creada por Artículo 15° del Decreto N° 332/07, al personal que presta servicios en los Aeropuertos de la Provincia, dependientes del Ministerio de Aguas, Servicios Públicos y Medio Ambiente, afectados al cobro de tasas y/o de los estacionamientos._
+_**Por Decreto N.º**_ [_**4035/2014**_](https://drive.google.com/file/d/1MjBwDVS10\_CxprcEOJtee5hib7MBHgQh/view?usp=sharing) _**Artículo 11** se incorpora, a partir del 1° de julio de 2014, a la compensación Mensual "Falla de Caja" del artículo 81° del Decreto-Acuerdo N° 2695/83, creada por Artículo 15° del Decreto N° 332/07, al personal que presta servicios en los Aeropuertos de la Provincia, dependientes del Ministerio de Aguas, Servicios Públicos y Medio Ambiente, afectados al cobro de tasas y/o de los estacionamientos._
 {% endhint %}
 
 {% hint style="info" %}
-_**Decreto N.º** _ [_**780/2015**_](https://drive.google.com/file/d/1YHV6ODDWXbqDTpLqee\_gbclPn\_Bfq0Ek/view?usp=sharing) _ **Artículo 10°:** Establézcase que el monto de la compensación "Falla de Caja" instituida por el art. 15° del Decreto N° 332/07, resultará de aplicar una alícuota de 5% (cinco por ciento) sobre el importe de la recaudación mensual, en proporción a los días trabajados frente a la caja expendedora, estableciendo como tope mínimo la suma de $350 (pesos trescientos cincuenta), y como máximo la de $1.500 (pesos mil quinientos) a partir del 01/0 /15._
+_**Decreto N.º**_ [_**780/2015**_](https://drive.google.com/file/d/1YHV6ODDWXbqDTpLqee\_gbclPn\_Bfq0Ek/view?usp=sharing) _**Artículo 10°:** Establézcase que el monto de la compensación "Falla de Caja" instituida por el art. 15° del Decreto N° 332/07, resultará de aplicar una alícuota de 5% (cinco por ciento) sobre el importe de la recaudación mensual, en proporción a los días trabajados frente a la caja expendedora, estableciendo como tope mínimo la suma de $350 (pesos trescientos cincuenta), y como máximo la de $1.500 (pesos mil quinientos) a partir del 01/0 /15._
 {% endhint %}
 
 Artículo 81 modificado por el Artículo 1 del Decreto N° [3032/83](https://drive.google.com/open?id=1bjZXaso7Mv4-CMXkbsXySj3DO-cPnnxQ)
@@ -917,4 +907,3 @@ Artículo 82 Antecedentes: Decreto Nro. [1287/85](https://drive.google.com/file/
 
 **ARTÍCULO 84°.-** Las Asignaciones de Adicionales Generales, Adicionales Particulares y Suplemento tienen el carácter de reintegro de gastos derivados del ejercicio de las funciones mereciendo el tratamiento respectivo.
 
-****

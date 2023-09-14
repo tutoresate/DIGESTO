@@ -6,7 +6,7 @@ description: Sancionado 25 de Enero de 1999
 
 [_**Acceso al texto tal como está publicado en el Sistema de Información Normativa de la Provincia de Santa Fe**_](https://drive.google.com/file/d/1M3udnjAgcyuQ9ROQXuf4Pjd3ieLaonZB/view?usp=sharing)
 
-***
+
 
 **VISTO:**
 

@@ -140,17 +140,7 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Caja Pr
 
 **1. Monto fijo:** Actualizable por política salarial, según categoría de revista y fecha estipulada en la siguiente tabla:
 
-| Categoría | Diciembre 18 | Marzo 19  | Junio 19  |
-| --------- | ------------ | --------- | --------- |
-| 1         | $923,09      | $1.846,18 | $2.769,27 |
-| 2         | $937,02      | $1.874,05 | $2.811,07 |
-| 3         | $964,50      | $1.928,99 | $2.893,49 |
-| 4         | $1.157,83    | $2.315,66 | $3.473,50 |
-| 5         | $1.210,50    | $2.420,99 | $3.631,49 |
-| 6         | $1.351,53    | $2.703,06 | $4.054,60 |
-| 7         | $1.542,83    | $3.085,66 | $4.628,49 |
-| 8         | $1.702,55    | $3.405,10 | $5.107,64 |
-| 9         | $1.909,35    | $3.818,71 | $5.728,06 |
+<table><thead><tr><th width="150">Categoría</th><th width="183">Diciembre 18</th><th width="157">Marzo 19</th><th>Junio 19</th></tr></thead><tbody><tr><td>1</td><td>$923,09</td><td>$1.846,18</td><td>$2.769,27</td></tr><tr><td>2</td><td>$937,02</td><td>$1.874,05</td><td>$2.811,07</td></tr><tr><td>3</td><td>$964,50</td><td>$1.928,99</td><td>$2.893,49</td></tr><tr><td>4</td><td>$1.157,83</td><td>$2.315,66</td><td>$3.473,50</td></tr><tr><td>5</td><td>$1.210,50</td><td>$2.420,99</td><td>$3.631,49</td></tr><tr><td>6</td><td>$1.351,53</td><td>$2.703,06</td><td>$4.054,60</td></tr><tr><td>7</td><td>$1.542,83</td><td>$3.085,66</td><td>$4.628,49</td></tr><tr><td>8</td><td>$1.702,55</td><td>$3.405,10</td><td>$5.107,64</td></tr><tr><td>9</td><td>$1.909,35</td><td>$3.818,71</td><td>$5.728,06</td></tr></tbody></table>
 
 **2. Monto Variable:** resultante de aplicar sobre la suma de los rubros: Sueldo Básico, Adicionales Generales, Adicionales Particulares, Función Administrativa, Suplemento Plan Equiparación y Adicional Especial Remunerativo los porcentajes que se detallan a continuación:
 
@@ -224,17 +214,7 @@ Créase a partir del mes de Diciembre de 2018 un suplemento a denominar "Ministe
 
 **1. Monto fijo:** Actualizable por política salarial, según categoría de revista y fecha estipulada en la siguiente tabla:
 
-| Categoría | Diciembre 18 | Marzo 19  | Junio 19  |
-| --------- | ------------ | --------- | --------- |
-| 1         | $923,09      | $1.846,18 | $2.769,27 |
-| 2         | $937,02      | $1.874,05 | $2.811,07 |
-| 3         | $964,50      | $1.928,99 | $2.893,49 |
-| 4         | $1.157,83    | $2.315,66 | $3.473,50 |
-| 5         | $1.210,50    | $2.420,99 | $3.631,49 |
-| 6         | $1.351,53    | $2.703,06 | $4.054,60 |
-| 7         | $1.542,83    | $3.085,66 | $4.628,49 |
-| 8         | $1.702,55    | $3.405,10 | $5.107,64 |
-| 9         | $1.909,35    | $3.818,71 | $5.728,06 |
+<table><thead><tr><th width="150">Categoría</th><th width="183">Diciembre 18</th><th width="155">Marzo 19</th><th>Junio 19</th></tr></thead><tbody><tr><td>1</td><td>$923,09</td><td>$1.846,18</td><td>$2.769,27</td></tr><tr><td>2</td><td>$937,02</td><td>$1.874,05</td><td>$2.811,07</td></tr><tr><td>3</td><td>$964,50</td><td>$1.928,99</td><td>$2.893,49</td></tr><tr><td>4</td><td>$1.157,83</td><td>$2.315,66</td><td>$3.473,50</td></tr><tr><td>5</td><td>$1.210,50</td><td>$2.420,99</td><td>$3.631,49</td></tr><tr><td>6</td><td>$1.351,53</td><td>$2.703,06</td><td>$4.054,60</td></tr><tr><td>7</td><td>$1.542,83</td><td>$3.085,66</td><td>$4.628,49</td></tr><tr><td>8</td><td>$1.702,55</td><td>$3.405,10</td><td>$5.107,64</td></tr><tr><td>9</td><td>$1.909,35</td><td>$3.818,71</td><td>$5.728,06</td></tr></tbody></table>
 
 **2. Monto Variable:** resultante de aplicar sobre la suma de los rubros: Sueldo Básico, Adicionales Generales, Adicionales Particulares, Función Administrativa, Suplemento Plan Equiparación y Adicional Especial Remunerativo los porcentajes que se detallan a continuación:
 
@@ -298,31 +278,11 @@ Donde:
   * Secundario: 2 + AS/100
 * **CN:** Coeficiente por Categoría para el personal del Registro Civil:
 
-| Categoría | Diciembre 18 | Marzo  19 | Junio 19 |
-| --------- | ------------ | --------- | -------- |
-| 1         | 1,508        | 1,665     | 1,823    |
-| 2         | 1,686        | 1,862     | 2,039    |
-| 3         | 1,653        | 1,825     | 1,998    |
-| 4         | 1,273        | 1,406     | 1,539    |
-| 5         | 1,350        | 1,480     | 1,610    |
-| 6         | 1,217        | 1,335     | 1,452    |
-| 7         | 1,001        | 1,092     | 1,183    |
-| 8         | 1,034        | 1,128     | 1,222    |
-| 9         | 1,012        | 1,104     | 1,196    |
+<table><thead><tr><th width="150">Categoría</th><th width="189">Diciembre 18</th><th width="162">Marzo  19</th><th>Junio 19</th></tr></thead><tbody><tr><td>1</td><td>1,508</td><td>1,665</td><td>1,823</td></tr><tr><td>2</td><td>1,686</td><td>1,862</td><td>2,039</td></tr><tr><td>3</td><td>1,653</td><td>1,825</td><td>1,998</td></tr><tr><td>4</td><td>1,273</td><td>1,406</td><td>1,539</td></tr><tr><td>5</td><td>1,350</td><td>1,480</td><td>1,610</td></tr><tr><td>6</td><td>1,217</td><td>1,335</td><td>1,452</td></tr><tr><td>7</td><td>1,001</td><td>1,092</td><td>1,183</td></tr><tr><td>8</td><td>1,034</td><td>1,128</td><td>1,222</td></tr><tr><td>9</td><td>1,012</td><td>1,104</td><td>1,196</td></tr></tbody></table>
 
 * **CN:** Coeficiente por Categoría para el personal del Registro de la Propiedad:
 
-| Categoría | Diciembre 18 | Marzo 19 | Junio 19 |
-| --------- | ------------ | -------- | -------- |
-| 1         | 1,029        | 1,158    | 1,287    |
-| 2         | 1,315        | 1,480    | 1,645    |
-| 3         | 1,395        | 1,570    | 1,745    |
-| 4         | 1,075        | 1,209    | 1,344    |
-| 5         | 1,188        | 1,327    | 1,465    |
-| 6         | 1,075        | 1,200    | 1,325    |
-| 7         | 0,921        | 1,022    | 1,123    |
-| 8         | 0,865        | 0,960    | 1,055    |
-| 9         | 0,921        | 1,022    | 1,123    |
+<table><thead><tr><th width="150">Categoría</th><th>Diciembre 18</th><th width="158">Marzo 19</th><th>Junio 19</th></tr></thead><tbody><tr><td>1</td><td>1,029</td><td>1,158</td><td>1,287</td></tr><tr><td>2</td><td>1,315</td><td>1,480</td><td>1,645</td></tr><tr><td>3</td><td>1,395</td><td>1,570</td><td>1,745</td></tr><tr><td>4</td><td>1,075</td><td>1,209</td><td>1,344</td></tr><tr><td>5</td><td>1,188</td><td>1,327</td><td>1,465</td></tr><tr><td>6</td><td>1,075</td><td>1,200</td><td>1,325</td></tr><tr><td>7</td><td>0,921</td><td>1,022</td><td>1,123</td></tr><tr><td>8</td><td>0,865</td><td>0,960</td><td>1,055</td></tr><tr><td>9</td><td>0,921</td><td>1,022</td><td>1,123</td></tr></tbody></table>
 
 Creado por Decreto N.º 2660/2008., Modificado por Decreto N.º 3322/2018
 
@@ -507,18 +467,10 @@ _**Suplemento Órganos Rectores**_
 
 Créase, partir del 1º de Marzo de 2013, una Asignación Especial Remunerativa para el Personal de Órganos Rectores, y los agentes que perciban el suplemento estatuido en el Decreto 2152/09 (artículo 10º), consistente en una suma fija, determinada en función de la categoría que reviste el agente, sujeta a adecuación en futuras políticas salariales, de corresponder, no siendo base de cálculo para ningún suplemento existente o a crearse; según el siguiente detalle:
 
-| Categoría | 1/3/2013  | 1/5/2013  | 1/7/2013  |
-| --------- | --------- | --------- | --------- |
-| 3         | $1.576,48 | $1.603,56 | $1.711,88 |
-| 4         | $1.972,67 | $2.006,83 | $2.143,45 |
-| 5         | $2.061,42 | $2.097,16 | $2.240,12 |
-| 6         | $2.333,24 | $2.373,84 | $2.536,21 |
-| 7         | $2.592,07 | $2.637,28 | $2.818,15 |
-| 8         | $2.831,95 | $2.881,45 | $3.079,44 |
-| 9         | $3.168,86 | $3.224,38 | $3.446,44 |
+<table><thead><tr><th width="150">Categoría</th><th width="154">1/3/2013</th><th width="200">1/5/2013</th><th>1/7/2013</th></tr></thead><tbody><tr><td>3</td><td>$1.576,48</td><td>$1.603,56</td><td>$1.711,88</td></tr><tr><td>4</td><td>$1.972,67</td><td>$2.006,83</td><td>$2.143,45</td></tr><tr><td>5</td><td>$2.061,42</td><td>$2.097,16</td><td>$2.240,12</td></tr><tr><td>6</td><td>$2.333,24</td><td>$2.373,84</td><td>$2.536,21</td></tr><tr><td>7</td><td>$2.592,07</td><td>$2.637,28</td><td>$2.818,15</td></tr><tr><td>8</td><td>$2.831,95</td><td>$2.881,45</td><td>$3.079,44</td></tr><tr><td>9</td><td>$3.168,86</td><td>$3.224,38</td><td>$3.446,44</td></tr></tbody></table>
 
 {% hint style="info" %}
-_**Decreto N.º**_ [_**0804/13**_](https://drive.google.com/file/d/15JqUknMubRHqi5eGEmBsbQWu-WCxjv-b/view?usp=sharing)_****_
+_**Decreto N.º**_ [_**0804/13**_](https://drive.google.com/file/d/15JqUknMubRHqi5eGEmBsbQWu-WCxjv-b/view?usp=sharing)
 
 _**Artículo 6º:**_ _Incorpórase como segundo párrafo del artículo 13º del Decreto No 522/13 el siguiente: “La Asignación Especial Remunerativa establecida en el párrafo anterior será percibida por los agentes pertenecientes a las Unidades Rectoras Centrales definidas en la Ley de Administración, Eficiencia y Control del Estado N.º 12.510, en sus artículos 14º (Dirección General de Presupuesto), 56º (Tesorería General de la Provincia), 71º (Dirección General de Crédito Público), 76º (Contaduría General de la Provincia), 103º (Dirección General de Ingresos Públicos), 106º (Dirección General de Contrataciones y Gestión de Bienes), 157º (Dirección General de Recursos Humanos y Función Pública), 173º (Dirección General de Inversión Pública), en tanto se encuentren reglamentados los respectivos Subsistemas previstos en la misma y/o aprobadas sus estructuras orgánico-funcionales conforme las previsiones de la citada norma.”_
 
@@ -575,7 +527,7 @@ El mismo será Remunerativo y No Bonificable. Su monto resultará de aplicar sob
 El mismo será aplicable a partir del mes de julio de 2018
 
 {% hint style="info" %}
-_**Decreto N.º**_ [_**1954/18**_](https://drive.google.com/file/d/1Wmf1Fkej5PqhwSVSlkpXZxxSHrqVVM1o/view?usp=sharing)_****_
+_**Decreto N.º**_ [_**1954/18**_](https://drive.google.com/file/d/1Wmf1Fkej5PqhwSVSlkpXZxxSHrqVVM1o/view?usp=sharing)
 
 _**Artículo 10°**, Increméntase, a partir del mes de julio de 2018, el porcentaje del suplemento Órganos Rectores para todas las categorías, quedando en 95 % (noventa y cinco por ciento)._
 
@@ -998,10 +950,7 @@ En Agosto de 1991, los montos correspondientes a este suplemento son congelados.
 
 Otorgar a partir de 1 de febrero de 2007, un Suplemento Remunerativo No Bonificable, al personal del Agrupamiento Hospitalario Asistencial, conforme al siguiente detalle:
 
-| Función                         | Categoría | Importe  |
-| ------------------------------- | --------- | -------- |
-| Supervisores Hospitalarios      | 4 y 5     | $ 400,00 |
-| Jefe de Departamento Enfermería | 6         | $ 500,00 |
+<table><thead><tr><th width="338.33333333333337">Función</th><th width="150">Categoría</th><th>Importe</th></tr></thead><tbody><tr><td>Supervisores Hospitalarios</td><td>4 y 5</td><td>$ 400,00</td></tr><tr><td>Jefe de Departamento Enfermería</td><td>6</td><td>$ 500,00</td></tr></tbody></table>
 
 Decreto N.º [0332/07](https://drive.google.com/file/d/15-02C8AKaMxa9KIltjmjdGmetZP9GCsz/view?usp=sharing), Artículo 11°
 
@@ -1032,7 +981,7 @@ _**Decreto N.º**_ [_**2670/92**_](https://drive.google.com/file/d/1ujlYEYy6nPAS
 | 1         | 202        |
 
 {% hint style="info" %}
-_Decreto_ [_**N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _**** Artículo 1º, se congelan los valores del Suplemento Plan Equiparación a los percibidos en ese momento, quedando como un monto fijo por categoría._
+_Decreto_ [_**N.º 0667/06**_](https://drive.google.com/file/d/19e0mbJ4l\_X\_TEZTs7pJPPEx4\_wxj3DOp/view?usp=sharing) _Artículo 1º, se congelan los valores del Suplemento Plan Equiparación a los percibidos en ese momento, quedando como un monto fijo por categoría._
 {% endhint %}
 
 Artículo s/n.- Antecedentes: Decreto Nros. [3039/88](https://drive.google.com/file/d/1sPEmftFbODmeaPzYMIwHFdSNDSvvyBuz/view?usp=sharing), [3157/88](https://drive.google.com/file/d/16ypzLRp\_B6BvapE8F7ioPkGFn6ohLGqM/view?usp=sharing), Acta Paritaria Nro. 9 homologada por Decreto Nro. [2839/88](https://drive.google.com/file/d/1dIYrjv9cTW4gu1ZDSrtXBuM0X3dhJfLc/view?usp=sharing), Decreto Nro. [4557/89](https://drive.google.com/file/d/1EIcbefix\_8-8cdV2Y8YZ48Xq1I9Tbjrw/view?usp=sharing), Acta Paritaria Nro. 5/93 homologada por Decreto Nro. [1938/93](https://drive.google.com/file/d/1faT8BApyH1ao9BY-b1eK22TRCgBIt4-W/view?usp=sharing), Decretos Nros. [1504/90](https://drive.google.com/file/d/1hZ56ye8Zb9dwJtToNz7Vyrx9rlgzGp2g/view?usp=sharing), [0377/94](https://drive.google.com/file/d/1QXmzavaLKqRNiDocWva5VKwzYIfXNOVz/view?usp=sharing), [0586/94](https://drive.google.com/file/d/1anCTXYl3l9ybZxTIlSuLCKwK4VYJ3Sr0/view?usp=sharing), [2670/92](https://drive.google.com/file/d/1ujlYEYy6nPAS2IcVdRET-dVyeOsQaeWx/view?usp=sharing)​
@@ -1159,7 +1108,7 @@ ARTÍCULO 2°: Otórgase una asignación mensual de carácter no remunerativo y 
 ARTÍCULO 7º: Otórgase una Asignación mensual de carácter no remunerativo y no bonificable denominada "Responsabilidad Jerárquica" para aquellos agentes que se desempeñan en las categorías 7, 8 y 9 del Escalafón del Personal Civil de la Administración Pública Provincial (Decreto-Acuerdo N° 2695/83), los que alcancen los coeficientes 3,05 a 6,00 del Escalafón para Personal del Servicio de Catastro e Información Territorial (Decreto N° 201/95) el correspondiente a la Administración Provincial de Impuestos (Decreto N° 4447/92), como así también en las categorías B4, B5 y B6 del Escalafón Personal Superior Administrativo, Técnico y Profesional de Fiscalía de Estado, las categorías 13, 14 y 15 del Escalafón Personal Talleres Gráficos Provinciales, y aquellos agentes categorizados como Clase XXII, Clase XXIII y Clase XXIV del Ente Regulador de Servicios Sanitarios (ENRESS) bajo Convenio Colectivo de Trabajo N° 113/1994 "E". La misma resultará el equivalente al treinta y cinco por ciento (35%) de la suma establecida por los artículos 2°, 3°, 4°, 5° y 6° para cada una de ellas, y que resulta complementaria a la misma.
 
 {% hint style="info" %}
-_Por_ [_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing) _**** Artículo 13º, se incorpora a la Categoría 6 para la percepción de la asignación “Responsabilidad Jerárquica”._
+_Por_ [_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing) _Artículo 13º, se incorpora a la Categoría 6 para la percepción de la asignación “Responsabilidad Jerárquica”._
 {% endhint %}
 
 [_**Decreto Nº 005/2021**_](https://drive.google.com/file/d/1T6eV2U2yrVzekpacplLExwmNK2\_TBdZz/view?usp=sharing)

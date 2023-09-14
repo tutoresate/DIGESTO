@@ -340,7 +340,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![](<../.gitbook/assets/Valor relativo de las etapas evaluatorias.png>)
 
-***
+
 
 **GUÍA DE ANTECEDENTES PARA CARGOS DEL TRAMO EJECUCIÓN**
 
@@ -350,7 +350,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![Puntaje otorgado a competencias técnicas propias de la función a desempeñar.](<../.gitbook/assets/Guía de evaluación para cargos del tramo ejecución. Técnica.png>)
 
-***
+
 
 **GUÍA DE ANTECEDENTES PARA CARGOS DE LOS TRAMOS SUPERVISIÓN Y SUPERIOR**
 
@@ -396,7 +396,7 @@ Para la confección de los escalafones la Junta deberá considerar los valores r
 
 ![](<../.gitbook/assets/Auxiliar admin - Valor relativo etapas eva.png>)
 
-***
+
 
 **GUÍA DE EVALUACIÓN PARA AUXILIARES ADMINISTRATIVOS**
 
@@ -413,7 +413,7 @@ El período de impugnaciones será de cinco (5) días hábiles, posteriores al d
 Con los postulantes de los escalafones definitivos de reemplazos, que hubieran obtenido un mínimo de 65 puntos, la Junta confeccionará el Escalafón de Ingreso por Localidad, para la cobertura de cargos vacantes en cada función.
 
 {% hint style="info" %}
-[_**Decreto N° 495/11, Artículo 9°:**_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing) _**** Determínase que en las guías de evaluación de antecedentes contenidas en el artículo 22 del Anexo I del Decreto 516/10, la valoración en el ítem 2. Antecedentes laborales, 2.1 Antigüedad en el Ámbito Escolar, refiere exclusivamente a funciones correspondiente a cualquiera comprendida en el Escalafón Decreto Acuerdo N° 2695/83._
+[_**Decreto N° 495/11, Artículo 9°:**_](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing) _Determínase que en las guías de evaluación de antecedentes contenidas en el artículo 22 del Anexo I del Decreto 516/10, la valoración en el ítem 2. Antecedentes laborales, 2.1 Antigüedad en el Ámbito Escolar, refiere exclusivamente a funciones correspondiente a cualquiera comprendida en el Escalafón Decreto Acuerdo N° 2695/83._
 {% endhint %}
 
 Artículo 22 modificado por [Decreto N°495/11](https://drive.google.com/file/d/18ZEH4m-Xyek5kY6-pbcMmphx9mVUEZ65/view?usp=sharing)
@@ -502,7 +502,7 @@ INTENDENTE: Cuando funcionen tres o más establecimientos y/u organismos en un m
 
 Cuando en un edificio escolar funcione más de un establecimiento o institución, se producirá la centralización de los servicios generales y de mantenimiento dependientes de la dirección que tenga bajo su responsabilidad el edificio.
 
-***
+
 
 ### **PERSONAL EXCEDENTE**
 

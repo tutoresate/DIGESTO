@@ -79,7 +79,7 @@ ACLARACIÓN
     * [ANEXO D - Decretos 4447/92 y 0201/95](decreto-no-2.695-83/decreto-no-4439-15/anexo-d-decretos-4447-92-y-0201-95.md)
 *   [**DECRETO Nº 1919/89 | Régimen de Licencias, Justificaciones y Franquicias**](decreto-no-1.919-89)\\
 
-    ***
+
 * [**DECRETO N° 4447/92 | Régimen laboral de la Administración Provincial de Impuestos**](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/)
   * [ANEXO A | Estatuto Escalafón para el personal de la Administración Provincial de Impuestos](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/anexo-a/)
     * [DECRETO Nº 0170/09 | ANEXO A - Régimen de Comisiones de Servicio](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/anexo-a/decreto-no-0170-09-or-anexo-a-regimen-de-comisiones-de-servicio.md)
@@ -114,7 +114,7 @@ ACLARACIÓN
 * [LEY N° 13696 (2017) | Licencia por Violencia de Género](ley-n-13.696-2017-licencia-por-violencia-de-genero.md)
 * [LEY Nº 27499 (2018) | Ley "Micaela": Capacitación en género a los tres poderes de Estado](ley-no-27.499-2018-ley-micaela)
   * [LEY Nº 13891 (2019) Adhesión a Ley "Micaela"](ley-no-27.499-2018-ley-micaela/ley-no-13.891-2019-adhesion-ley-micaela.md)
-* [CONVENIO OIT Nº 190 (2019) | Sobre la eliminación de la violencia y el acoso en el mundo del trabajo](convenio-oit-no-190-sobre-la-eliminacion-de-la-violencia-y-el-acoso-en-el-mundo-del-trabajo.md)
+* [CONVENIO OIT Nº 190 (2019) | Sobre la eliminación de la violencia y el acoso en el mundo del trabajo](parte-iii-violencia-de-genero-y-violencia-laboral/convenio-oit-no-190-sobre-la-eliminacion-de-la-violencia-y-el-acoso-en-el-mundo-del-trabajo/)
 * [RED SINDICAL | Protocolo de actuación](protocolo-de-actuacion-or-red-sindical.md)
 
 ### **PARTE IV: RÉGIMEN DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES**

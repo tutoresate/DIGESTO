@@ -18,7 +18,7 @@ Los Concursos se realizarán en el período abarcado entre los meses de Marzo y 
 
 Etapas
 
-**ARTÍCULO 68.- **Los concursos internos para los cargos de niveles C1 a B2 comprenderán las siguientes etapas sucesivas:
+\*\*ARTÍCULO 68.- \*\*Los concursos internos para los cargos de niveles C1 a B2 comprenderán las siguientes etapas sucesivas:
 
 1 - Evaluación de Antecedentes
 
@@ -88,29 +88,21 @@ Aquellos agentes que se encuentren en planta permanente en carácter provisional
 
 (\*\*\*\*) En caso de exceptuarse la Etapa de Evaluación Psicotécnica.
 
-
-
 **Etapa 1 — Evaluación de Antecedentes**
 
-**ARTÍCULO 78.- **La calificación de los antecedentes será numérica de 0 a 100 puntos, discriminados de la siguiente manera:
+\*\*ARTÍCULO 78.- \*\*La calificación de los antecedentes será numérica de 0 a 100 puntos, discriminados de la siguiente manera:
 
 Para Concursos Internos de cargos Nivel C - Grado 1 a Nivel B - Grado 2
 
 ![](<../../.gitbook/assets/art78 1 (1).png>)
 
-
-
 Para Concursos Internos de cargos de Nivel B – Grado 3 y Nivel A en todos sus grados
 
 ![](<../../.gitbook/assets/art78 2.png>)
 
-
-
 Para Concursos Abiertos
 
 ![](<../../.gitbook/assets/art78 3.png>)
-
-
 
 Para la valoración particular de cada ítem y componente, se utilizaran las Guías de Valoración de Antecedentes que se adjuntan al presente como Anexos I, II y III, según corresponda a concursos internos o abiertos.
 
@@ -118,11 +110,9 @@ Cuando así correspondiere el Jurado decidirá por simple mayoría de votos de l
 
 Finalizada la evaluación de los antecedentes de los aspirantes, el Jurado procederá a fijar el lugar, día, y horario en que se realizara la Evaluación Técnica. Atento a ello, deberá publicarse dicha información en la Web oficial, junto con el listado de los aspirantes admitidos y de los no admitidos, y se notificara a cada interesado vía correo electrónico.
 
-
-
 **Etapa 2 — Evaluación Técnica**
 
-**ARTÍCULO 79°.- **La calificación será numérica de 0 a 100 puntos. Indagara con mayor profundidad el ajuste de los aspirantes a los requerimientos de conocimientos y competencias técnicas del puesto, determinando si el postulante puede aplicar sus conocimientos, habilidades y formación a situaciones concretas según los requerimientos típicos del puesto.
+\*\*ARTÍCULO 79°.- \*\*La calificación será numérica de 0 a 100 puntos. Indagara con mayor profundidad el ajuste de los aspirantes a los requerimientos de conocimientos y competencias técnicas del puesto, determinando si el postulante puede aplicar sus conocimientos, habilidades y formación a situaciones concretas según los requerimientos típicos del puesto.
 
 El cuestionario se conformara con una antelación máxima de 1 (una) hora previa a la realización de la evaluación y se integrara con las con las preguntas aportadas por los 8 (ocho) miembros del jurado, teniendo como base los requerimientos establecidos en el perfil del puesto. En caso de no Llegar a un consenso en la construcción del cuestionario de evaluación, se distribuirán las preguntas, al igual que el puntaje, en la misma proporción paritaria en que se encuentra conformado el Jurado.
 
@@ -464,17 +454,11 @@ ANEXO II — Guía de Valoración de Antecedentes para Concursos Internos de Car
 
 ANEXO III — Guía de Valoración de Antecedentes para Concursos Abiertos.
 
-
-
-
-
 ## ANEXO I - GUIA DE VALORACION DE ANTECEDENTES PARA CONCURSOS INTERNOS
 
 **Para Cargos desde Nivel C Grado 1 a Nivel B Grado 2**
 
 ![](<../../.gitbook/assets/Anexo 1.1.png>)
-
-
 
 ### 1. Estudios y Capacitación
 
@@ -484,15 +468,11 @@ ANEXO III — Guía de Valoración de Antecedentes para Concursos Abiertos.
 
 ![](<../../.gitbook/assets/Anexo 1.2.png>)
 
-
-
 **b) Agrupamiento Profesional**
 
 ![](<../../.gitbook/assets/Anexo 1.3.png>)
 
-
-
-**1.2. Capacitación: **Se valorará la asistencia y/o dictado de Cursos, Jornadas, Seminarios, Congresos, integración de paneles, exposiciones y/o presentación de trabajos, hasta un máximo de 20 puntos, teniendo en cuenta lo siguiente:
+\*\*1.2. Capacitación: \*\*Se valorará la asistencia y/o dictado de Cursos, Jornadas, Seminarios, Congresos, integración de paneles, exposiciones y/o presentación de trabajos, hasta un máximo de 20 puntos, teniendo en cuenta lo siguiente:
 
 Se valorarán todos los Cursos, Jornadas de Actualización y/o Talleres, Seminarios y Congresos que tengan relación directa y específica con las funciones del cargo a concursar.
 
@@ -504,23 +484,17 @@ Por el dictado, integración de paneles, exposición y/o presentación de trabaj
 
 Cuando la certificación no indique la cantidad de horas de actividad, se considerarán 4 horas por cada día de duración de la misma.
 
-
-
 ### 2. Antecedentes Laborales
 
 **2.1 Posición escalafonaria**: Se valorara únicamente la situación escalafonaria titular de los postulantes
 
 ![](<../../.gitbook/assets/Anexo 1.4.png>)
 
-
-
 **2.2 Desempeño específico:** Se valorará el desempeño de funciones correspondientes a cargos de mayor jerarquía que las propias del cargo titular del postulante, en los últimos 5 años, en forma ininterrumpida por un período no menor a 6 meses.
 
 En el supuesto de que un postulante hubiera desempeñado diversas funciones de mayor jerarquía, corresponderá valorar el cargo que proporcione mayor puntaje al postulante. La máxima puntuación corresponderá al desempeño de las funciones concursadas.
 
 ![](<../../.gitbook/assets/Anexo 1.5.png>)
-
-
 
 **2.3. Antigüedad:** Se valorarán los años de servicio del postulante, reconocidos para la percepción del correspondiente adicional.
 
@@ -534,8 +508,6 @@ Se otorgarán 0,25 puntos por cada año de antigüedad por el cual percibe el co
 
 ![](<../../.gitbook/assets/Anexo 2.1.png>)
 
-
-
 ### **1. Estudios y Capacitación**
 
 **1.1 Educación Formal:** El puntaje mínimo a obtener en el presente ítem, será el correspondiente al título o nivel educativo determinado como requisito excluyente en la convocatoria, no obstante, podrá valorarse la formación educativa de mayor nivel que posea el postulante —afín a las funciones a desempeñar- que supere el requerimiento exigido. Los títulos y/o niveles educativos tendrán valor diferenciado, según sea el Agrupamiento del cargo a concursar:
@@ -544,13 +516,11 @@ Se otorgarán 0,25 puntos por cada año de antigüedad por el cual percibe el co
 
 ![](<../../.gitbook/assets/Anexo 2.2.png>)
 
-****
+
 
 **b) Agrupamiento Profesional**
 
 ![](<../../.gitbook/assets/Anexo 2.3.png>)
-
-
 
 **1.2. Capacitación**: Se valorará la asistencia y/o dictado de Cursos, Jornadas, Seminarios, Congresos, integración de paneles, exposiciones y/o presentación de trabajos, hasta un máximo de 20 puntos, teniendo en cuenta lo siguiente:
 
@@ -564,15 +534,11 @@ Por el dictado, integración de paneles, exposición y/o presentación de trabaj
 
 Cuando la certificación no indique la cantidad de horas de actividad, se considerarán 4 horas por cada día de duración de la misma.
 
-
-
 ### 2. Antecedentes Laborales
 
 **2.1 Posición escalafonaria:** Se valorará únicamente la situación escalafonaria titular de los postulantes
 
 ![](<../../.gitbook/assets/Anexo 2.4 (1).png>)
-
-
 
 **2.2 Desempeño específico:** Se valorará el desempeño de funciones correspondientes a cargos de mayor jerarquía que las propias del cargo titular del postulante, en los últimos 5 años, en forma ininterrumpida por un período no menor a 6 meses.
 
@@ -580,13 +546,9 @@ En el supuesto de que un postulante hubiera desempeñado diversas funciones de m
 
 ![](<../../.gitbook/assets/Anexo 2.5.png>)
 
-
-
 **2.3. Antigüedad:** Se valorarán los años de servicio del postulante, reconocidos para la percepción del correspondiente adicional.
 
 Se otorgarán 0,25 puntos por cada año de antigüedad por el cual percibe el correspondiente adicional, hasta un máximo de 5 puntos.
-
-
 
 **2.4. Otros antecedentes:** Se valorarán aquellos otros antecedentes laborales presentados por los postulantes, que no hubieran sido evaluados en otros ítems, y que dentro o fuera del ámbito de la Administración Pública Provincial, aportarán experiencia efectiva para el desempeño del cargo concursado. El Jurado graduará a su juicio la valoración de estos antecedentes, hasta un máximo de 5 puntos.
 
@@ -594,13 +556,9 @@ Se otorgarán 0,25 puntos por cada año de antigüedad por el cual percibe el co
 
 ![](<../../.gitbook/assets/Anexo 2.6 (1).png>)
 
-
-
 ## ANEXO III - GUIA DE VALORACIÓN DE ANTECEDENTES PARA CONCURSOS ABIERTOS
 
 ![](<../../.gitbook/assets/Anexo 3.1 (1).png>)
-
-
 
 ### 1. Estudios y Capacitación
 
@@ -608,7 +566,7 @@ Se otorgarán 0,25 puntos por cada año de antigüedad por el cual percibe el co
 
 ![](<../../.gitbook/assets/Anexo 3.2.png>)
 
-****
+
 
 **1.2. Capacitación:** Se valorará la asistencia y/o dictado de Cursos, Jornadas, Seminarios, Congresos, integración de paneles, exposiciones y/o presentación de trabajos, hasta un máximo de 20 puntos, teniendo en cuenta lo siguiente:
 
@@ -622,8 +580,6 @@ Por el dictado, integración de paneles, exposición y/o presentación de trabaj
 
 Cuando la certificación no indique la cantidad de horas de actividad, se considerarán 4 horas por cada día de duración de la misma.
 
-
-
 ### 2. Antecedentes Laborales
 
 **2.1. Desempeño laboral:** Se valorarán aquellos antecedentes laborales presentados por los postulantes, que dentro o fuera del ámbito de la Administración Pública Provincial, aportaran experiencia efectiva para el desempeño del cargo concursado.
@@ -636,71 +592,25 @@ A tales efectos deberán considerar los antecedentes presentados, definiendo las
 
 a) En los concursos cuyas convocatorias determinen como requisito excluyente o preferencial, acreditar experiencia laboral con ejercicio de conducción, el puntaje máximo a otorgar será de 35 puntos, discriminados de la siguiente manera:
 
-*   **Tipo de tareas: **El puntaje mínimo a otorgar será de 10 puntos, y el máximo de 25. Deberá asignarse el máximo puntaje al desarrollo laboral del postulante que sea más acorde al desempeño del cargo que se concursa:
-
-
-
-    * Los trabajos realizados se podrían considerar auxiliares con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 10 a 12,50 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de asesoramiento técnico o profesional con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 12,50 a 15 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico inferior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 15 a 17,50 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico equivalente al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 17,50 a 20 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico superior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 20 a 25 puntos, según convenga el Jurado.
-
-
-
-*   **Conducción: **El puntaje mínimo a otorgar será de 5 puntos, y el máximo de 10. Deberá asignarse el máximo puntaje a la conducción ejercida por el postulante que sea más acorde a la que implique el desempeño del cargo que se concursa:
-
-
-
-    * Los trabajos realizados no implican la conducción o coordinación de otras áreas laborales, pero sí tener personal a cargo. (5 puntos)
-
-
-
-    * Los trabajos realizados implican la conducción o coordinación de varias áreas laborales, y la dependencia de hasta 10 personas bajo su mando. (7,50 puntos)
-
-
-
-    * Los trabajos realizados implican la conducción o coordinación de varias áreas laborales y la dependencia de más de 10 personas bajo su mando. (10 puntos)
-
-
+* \*\*Tipo de tareas: \*\*El puntaje mínimo a otorgar será de 10 puntos, y el máximo de 25. Deberá asignarse el máximo puntaje al desarrollo laboral del postulante que sea más acorde al desempeño del cargo que se concursa:
+  * Los trabajos realizados se podrían considerar auxiliares con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 10 a 12,50 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de asesoramiento técnico o profesional con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 12,50 a 15 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico inferior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 15 a 17,50 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico equivalente al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 17,50 a 20 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico superior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 20 a 25 puntos, según convenga el Jurado.
+* \*\*Conducción: \*\*El puntaje mínimo a otorgar será de 5 puntos, y el máximo de 10. Deberá asignarse el máximo puntaje a la conducción ejercida por el postulante que sea más acorde a la que implique el desempeño del cargo que se concursa:
+  * Los trabajos realizados no implican la conducción o coordinación de otras áreas laborales, pero sí tener personal a cargo. (5 puntos)
+  * Los trabajos realizados implican la conducción o coordinación de varias áreas laborales, y la dependencia de hasta 10 personas bajo su mando. (7,50 puntos)
+  * Los trabajos realizados implican la conducción o coordinación de varias áreas laborales y la dependencia de más de 10 personas bajo su mando. (10 puntos)
 
 b) En los concursos cuyas convocatorias no determinen como requisito excluyente o preferencial, la acreditación de experiencia laboral con ejercicio de conducción, el puntaje máximo a otorgar será de 35 puntos, discriminados de la siguiente manera:
 
-*   **Tipo de tareas:** El puntaje mínimo a otorgar será de 10 puntos, y el máximo de 35. Deberá asignarse el máximo puntaje al desarrollo laboral del postulante que sea más acorde al desempeño del cargo que se concursa:
-
-
-
-    * Los trabajos realizados se podrían considerar auxiliares con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 10 a 15 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de asesoramiento técnico o profesional con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 15 a 20 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico inferior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 20 a 25 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico equivalente al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 25 a 30 puntos, según convenga el Jurado.
-
-
-
-    * Los trabajos realizados se podrían considerar de un rango jerárquico superior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 30 a 35 puntos, según convenga el Jurado.
-
-
+* **Tipo de tareas:** El puntaje mínimo a otorgar será de 10 puntos, y el máximo de 35. Deberá asignarse el máximo puntaje al desarrollo laboral del postulante que sea más acorde al desempeño del cargo que se concursa:
+  * Los trabajos realizados se podrían considerar auxiliares con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 10 a 15 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de asesoramiento técnico o profesional con relación al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 15 a 20 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico inferior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 20 a 25 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico equivalente al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 25 a 30 puntos, según convenga el Jurado.
+  * Los trabajos realizados se podrían considerar de un rango jerárquico superior al cargo que se concursa, y referidos a una especialidad o rama igual o similar. Se otorgarán de 30 a 35 puntos, según convenga el Jurado.
 
 **2.1.2. Ámbito de desempeño: El puntaje máximo a otorgar será de 6 puntos.**
 
@@ -720,13 +630,9 @@ b) En los concursos cuyas convocatorias no determinen como requisito excluyente 
 
 \- La experiencia laboral del postulante se ha desarrollado en el ámbito privado. (2,50 puntos)
 
-
-
 **2.1.3. Tiempo de desempeño: Se valorará de acuerdo a la siguiente escala:**
 
 ![](<../../.gitbook/assets/Anexo 3.3.png>)
-
-
 
 **2.2. Docencia e investigación:** Se valorarán los antecedentes afines al desempeño de las funciones que se concursan, relativos a experiencia docente universitaria, terciaria y media, trabajos de investigación y publicaciones. El puntaje máximo a otorgar en este ítem es de 5 puntos.
 

@@ -517,7 +517,7 @@ Cuando dichas certificaciones no registren la carga horaria de la actividad desa
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
 | b | Trabajo de investigación con aprobación del informe final de la investigación                                                                                | 1,5 |
 
-***
+
 
 **2. ANTECEDENTES LABORALES**
 
