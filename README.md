@@ -79,7 +79,7 @@ ACLARACIÓN
     * [ANEXO D - Decretos 4447/92 y 0201/95](decreto-no-2.695-83/decreto-no-4439-15/anexo-d-decretos-4447-92-y-0201-95.md)
 *   [**DECRETO Nº 1919/89 | Régimen de Licencias, Justificaciones y Franquicias**](decreto-no-1.919-89)\\
 
-
+    ***
 * [**DECRETO N° 4447/92 | Régimen laboral de la Administración Provincial de Impuestos**](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/)
   * [ANEXO A | Estatuto Escalafón para el personal de la Administración Provincial de Impuestos](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/anexo-a/)
     * [DECRETO Nº 0170/09 | ANEXO A - Régimen de Comisiones de Servicio](decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos/anexo-a/decreto-no-0170-09-or-anexo-a-regimen-de-comisiones-de-servicio.md)
