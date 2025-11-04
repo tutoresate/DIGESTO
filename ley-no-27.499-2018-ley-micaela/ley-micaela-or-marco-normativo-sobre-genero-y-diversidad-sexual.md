@@ -230,3 +230,10 @@ La paridad de género también debe respetarse en postulación de listas de prec
 [2020 - Decreto Provincial 1442](https://www.santafe.gov.ar/normativa/getFile.php?id=1401956\&item=225929\&cod=f48d1eb22fe53072485cbcc3d7b51cb7)
 
 A raíz del veto propositivo emitido por el Gobernador Provincial, la paridad de género también deberá ser respetada en la fórmula del Poder Ejecutivo Provincial, debiendo integrarse las candidaturas a Gobernador/a y Vicegobernador/a por personas de diferente género. También como así también para el supuesto de candidaturas a senador/a provincial, donde el precandidato/a y candidato/a suplente deberá ser de género distinto al titular.
+
+[2023 - Ley Olimpia sobre violencia digital](https://servicios.infoleg.gob.ar/infolegInternet/anexos/390000-394999/391774/norma.htm)
+
+Define a la **violencia digital** o telemática a toda conducta, acción u omisión en contra de las mujeres basada en su género que sea cometida, instigada o agravada, en parte o en su totalidad, con la asistencia, utilización y/o apropiación de las tecnologías de la información y la comunicación, con el objeto de causar daños físicos, psicológicos, económicos, sexuales o morales tanto en el ámbito privado como en el público a ellas o su grupo familiar.
+
+En Santa Fe se incorpora a través de la [Ley Provincial 14297](https://www.santafe.gov.ar/normativa/getFile.php?id=1516295\&item=284697\&cod=e90e1d3fd2e5368a2b8be35c0349aea8) al Código de Convivencia.
+
